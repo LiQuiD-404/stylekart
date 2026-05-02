@@ -1,0 +1,62 @@
+[
+  {
+    "month": "Oct 2025",
+    "shopifyRevenue": 6259723,
+    "myntraRevenue": 8574979,
+    "ajioRevenue": 4030478,
+    "totalRevenue": 18865180,
+    "shopifyOrders": 2970,
+    "myntraOrders": 3156,
+    "ajioOrders": 1426,
+    "totalOrders": 7552,
+    "avgOrderValue": 2498
+  },
+  {
+    "month": "Nov 2025",
+    "shopifyRevenue": 5584441,
+    "myntraRevenue": 8743340,
+    "ajioRevenue": 4708550,
+    "totalRevenue": 19036331,
+    "shopifyOrders": 2760,
+    "myntraOrders": 4618,
+    "ajioOrders": 2188,
+    "totalOrders": 9566,
+    "avgOrderValue": 1990
+  },
+  {
+    "month": "Dec 2025",
+    "shopifyRevenue": 7523268,
+    "myntraRevenue": 9748745,
+    "ajioRevenue": 4212043,
+    "totalRevenue": 21484056,
+    "shopifyOrders": 2345,
+    "myntraOrders": 4347,
+    "ajioOrders": 1258,
+    "totalOrders": 7950,
+    "avgOrderValue": 2702
+  },
+  {
+    "month": "Jan 2026",
+    "shopifyRevenue": 7568072,
+    "myntraRevenue": 11370453,
+    "ajioRevenue": 3059596,
+    "totalRevenue": 21998121,
+    "shopifyOrders": 2993,
+    "myntraOrders": 4163,
+    "ajioOrders": 1999,
+    "totalOrders": 9155,
+    "avgOrderValue": 2403
+  },
+  {
+    "month": "Feb 2026",
+    "shopifyRevenue": 6144637,
+    "myntraRevenue": 13413141,
+    "ajioRevenue": 4116391,
+    "totalRevenue": 23674169,
+    "shopifyOrders": 2281,
+    "myntraOrders": 3145,
+    "ajioOrders": 2183,
+    "totalOrders": 7609,
+    "avgOrderValue": 3111
+  }
+]
