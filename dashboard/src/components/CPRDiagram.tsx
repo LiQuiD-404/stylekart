@@ -1,4 +1,3 @@
-'use client';
 
 /* ─────────────────────────────────────────────
    Central Product Registry — architecture diagram
