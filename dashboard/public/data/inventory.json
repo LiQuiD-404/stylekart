@@ -1,0 +1,8145 @@
+[
+  {
+    "sku": "SK-DUP-001",
+    "name": "Coral Cotton Dupatta",
+    "warehouse": 24,
+    "shopify": 26,
+    "myntra": 22,
+    "ajio": 27,
+    "delta": 3,
+    "worstPlatform": "Ajio",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -2,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-002",
+    "name": "Maroon Crepe Dupatta",
+    "warehouse": 8,
+    "shopify": 10,
+    "myntra": 7,
+    "ajio": 5,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -1,
+      "Ajio": -3
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-003",
+    "name": "Navy Georgette Lehenga",
+    "warehouse": 47,
+    "shopify": 45,
+    "myntra": 52,
+    "ajio": null,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 5
+    },
+    "risk": "amber",
+    "lastSync": "07 Feb 2026"
+  },
+  {
+    "sku": "SK-SAR-004",
+    "name": "Sage Green Chiffon Saree",
+    "warehouse": 47,
+    "shopify": 54,
+    "myntra": 49,
+    "ajio": 51,
+    "delta": 7,
+    "worstPlatform": "Shopify",
+    "worstDelta": 7,
+    "platformDeltas": {
+      "Shopify": 7,
+      "Myntra": 2,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "03 Feb 2026"
+  },
+  {
+    "sku": "SK-DUP-005",
+    "name": "Olive Khadi Dupatta",
+    "warehouse": 25,
+    "shopify": 25,
+    "myntra": 25,
+    "ajio": 26,
+    "delta": 1,
+    "worstPlatform": "Ajio",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 0,
+      "Ajio": 1
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-006",
+    "name": "Peach Silk Kurta Set",
+    "warehouse": 30,
+    "shopify": 31,
+    "myntra": 34,
+    "ajio": 33,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 4,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-007",
+    "name": "Charcoal Linen Shrug",
+    "warehouse": 25,
+    "shopify": 35,
+    "myntra": 30,
+    "ajio": 22,
+    "delta": 10,
+    "worstPlatform": "Shopify",
+    "worstDelta": 10,
+    "platformDeltas": {
+      "Shopify": 10,
+      "Myntra": 5,
+      "Ajio": -3
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-008",
+    "name": "Maroon Georgette Shrug",
+    "warehouse": 41,
+    "shopify": 44,
+    "myntra": 38,
+    "ajio": 40,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": -3,
+      "Ajio": -1
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-009",
+    "name": "Sage Green Chanderi Saree",
+    "warehouse": 51,
+    "shopify": 48,
+    "myntra": 54,
+    "ajio": 49,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 3,
+      "Ajio": -2
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-010",
+    "name": "Rust Cotton Palazzo Set",
+    "warehouse": 20,
+    "shopify": 20,
+    "myntra": 22,
+    "ajio": 23,
+    "delta": 3,
+    "worstPlatform": "Ajio",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 2,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-011",
+    "name": "Lavender Chiffon Kurta Set",
+    "warehouse": 36,
+    "shopify": 37,
+    "myntra": 40,
+    "ajio": 33,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 4,
+      "Ajio": -3
+    },
+    "risk": "amber",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-012",
+    "name": "Mustard Rayon Palazzo Set",
+    "warehouse": 0,
+    "shopify": 0,
+    "myntra": 5,
+    "ajio": 3,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 5,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-013",
+    "name": "Wine Cotton Crop Top",
+    "warehouse": 31,
+    "shopify": 29,
+    "myntra": 34,
+    "ajio": 29,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 3,
+      "Ajio": -2
+    },
+    "risk": "amber",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-LEH-014",
+    "name": "Olive Crepe Lehenga",
+    "warehouse": 50,
+    "shopify": 52,
+    "myntra": 47,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -3
+    },
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-015",
+    "name": "Maroon Cotton Lehenga",
+    "warehouse": 33,
+    "shopify": 33,
+    "myntra": 33,
+    "ajio": 34,
+    "delta": 1,
+    "worstPlatform": "Ajio",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 0,
+      "Ajio": 1
+    },
+    "risk": "green",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-016",
+    "name": "Navy Linen Sharara Set",
+    "warehouse": 51,
+    "shopify": 54,
+    "myntra": 50,
+    "ajio": 50,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": -1,
+      "Ajio": -1
+    },
+    "risk": "amber",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-017",
+    "name": "Rust Rayon Dupatta",
+    "warehouse": 7,
+    "shopify": 10,
+    "myntra": 11,
+    "ajio": 4,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 4,
+      "Ajio": -3
+    },
+    "risk": "amber",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-018",
+    "name": "Rust Cotton Tunic",
+    "warehouse": 42,
+    "shopify": 56,
+    "myntra": 45,
+    "ajio": 41,
+    "delta": 14,
+    "worstPlatform": "Shopify",
+    "worstDelta": 14,
+    "platformDeltas": {
+      "Shopify": 14,
+      "Myntra": 3,
+      "Ajio": -1
+    },
+    "risk": "red",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-019",
+    "name": "Mustard Georgette Anarkali",
+    "warehouse": 37,
+    "shopify": 34,
+    "myntra": null,
+    "ajio": 35,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Ajio": -2
+    },
+    "risk": "green",
+    "lastSync": "14 Feb 2026"
+  },
+  {
+    "sku": "SK-CRO-020",
+    "name": "Olive Khadi Crop Top",
+    "warehouse": 43,
+    "shopify": 43,
+    "myntra": 38,
+    "ajio": 40,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": -5,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": -5,
+      "Ajio": -3
+    },
+    "risk": "green",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-021",
+    "name": "Mustard Crepe Lehenga",
+    "warehouse": 2,
+    "shopify": 2,
+    "myntra": 5,
+    "ajio": 1,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 3,
+      "Ajio": -1
+    },
+    "risk": "amber",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-022",
+    "name": "Lavender Chanderi Lehenga",
+    "warehouse": 18,
+    "shopify": 17,
+    "myntra": null,
+    "ajio": 18,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": "13 Feb 2026"
+  },
+  {
+    "sku": "SK-LEH-023",
+    "name": "Sage Green Khadi Lehenga",
+    "warehouse": 50,
+    "shopify": 49,
+    "myntra": 66,
+    "ajio": 54,
+    "delta": 16,
+    "worstPlatform": "Myntra",
+    "worstDelta": 16,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 16,
+      "Ajio": 4
+    },
+    "risk": "red",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-SAR-024",
+    "name": "Lavender Chiffon Saree",
+    "warehouse": 42,
+    "shopify": 43,
+    "myntra": 46,
+    "ajio": 43,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 4,
+      "Ajio": 1
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-025",
+    "name": "Ivory Rayon Dupatta",
+    "warehouse": 51,
+    "shopify": 54,
+    "myntra": 55,
+    "ajio": 49,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 4,
+      "Ajio": -2
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-026",
+    "name": "Maroon Rayon Sharara Set",
+    "warehouse": 14,
+    "shopify": 13,
+    "myntra": 17,
+    "ajio": 15,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 3,
+      "Ajio": 1
+    },
+    "risk": "amber",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-027",
+    "name": "Maroon Chiffon Shrug",
+    "warehouse": 16,
+    "shopify": 19,
+    "myntra": 18,
+    "ajio": 18,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 2,
+      "Ajio": 2
+    },
+    "risk": "amber",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-028",
+    "name": "Maroon Khadi Palazzo Set",
+    "warehouse": 17,
+    "shopify": 41,
+    "myntra": 13,
+    "ajio": 13,
+    "delta": 24,
+    "worstPlatform": "Shopify",
+    "worstDelta": 24,
+    "platformDeltas": {
+      "Shopify": 24,
+      "Myntra": -4,
+      "Ajio": -4
+    },
+    "risk": "red",
+    "lastSync": "14 Feb 2026"
+  },
+  {
+    "sku": "SK-TUN-029",
+    "name": "Charcoal Silk Tunic",
+    "warehouse": 41,
+    "shopify": 40,
+    "myntra": 46,
+    "ajio": 37,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 5,
+      "Ajio": -4
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-030",
+    "name": "Lavender Chanderi Anarkali",
+    "warehouse": 3,
+    "shopify": 3,
+    "myntra": 8,
+    "ajio": 5,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 5,
+      "Ajio": 2
+    },
+    "risk": "amber",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-CRO-031",
+    "name": "Sage Green Chiffon Crop Top",
+    "warehouse": 28,
+    "shopify": 27,
+    "myntra": 25,
+    "ajio": 28,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -3,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": "14 Feb 2026"
+  },
+  {
+    "sku": "SK-CRO-032",
+    "name": "Sage Green Rayon Crop Top",
+    "warehouse": 51,
+    "shopify": 48,
+    "myntra": 59,
+    "ajio": 55,
+    "delta": 8,
+    "worstPlatform": "Myntra",
+    "worstDelta": 8,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 8,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-033",
+    "name": "Peach Chiffon Shrug",
+    "warehouse": 35,
+    "shopify": 34,
+    "myntra": 32,
+    "ajio": 31,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": -4,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -3,
+      "Ajio": -4
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-034",
+    "name": "Coral Cotton Tunic",
+    "warehouse": 28,
+    "shopify": 51,
+    "myntra": 47,
+    "ajio": 29,
+    "delta": 23,
+    "worstPlatform": "Shopify",
+    "worstDelta": 23,
+    "platformDeltas": {
+      "Shopify": 23,
+      "Myntra": 19,
+      "Ajio": 1
+    },
+    "risk": "red",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-035",
+    "name": "Maroon Crepe Dupatta",
+    "warehouse": 6,
+    "shopify": 4,
+    "myntra": 5,
+    "ajio": 10,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": -1,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-036",
+    "name": "Mustard Chiffon Anarkali",
+    "warehouse": 11,
+    "shopify": 22,
+    "myntra": 28,
+    "ajio": 12,
+    "delta": 17,
+    "worstPlatform": "Myntra",
+    "worstDelta": 17,
+    "platformDeltas": {
+      "Shopify": 11,
+      "Myntra": 17,
+      "Ajio": 1
+    },
+    "risk": "red",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-037",
+    "name": "Wine Chiffon Sharara Set",
+    "warehouse": 38,
+    "shopify": null,
+    "myntra": null,
+    "ajio": 37,
+    "delta": 1,
+    "worstPlatform": "Ajio",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Ajio": -1
+    },
+    "risk": "green",
+    "lastSync": "13 Feb 2026"
+  },
+  {
+    "sku": "SK-SAR-038",
+    "name": "Olive Chanderi Saree",
+    "warehouse": 58,
+    "shopify": 61,
+    "myntra": 55,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": -3
+    },
+    "risk": "amber",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-039",
+    "name": "Wine Crepe Sharara Set",
+    "warehouse": 1,
+    "shopify": 14,
+    "myntra": 0,
+    "ajio": 0,
+    "delta": 13,
+    "worstPlatform": "Shopify",
+    "worstDelta": 13,
+    "platformDeltas": {
+      "Shopify": 13,
+      "Myntra": -1,
+      "Ajio": -1
+    },
+    "risk": "red",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-SHR-040",
+    "name": "Wine Silk Shrug",
+    "warehouse": 42,
+    "shopify": 39,
+    "myntra": 60,
+    "ajio": 41,
+    "delta": 18,
+    "worstPlatform": "Myntra",
+    "worstDelta": 18,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 18,
+      "Ajio": -1
+    },
+    "risk": "red",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-SAR-041",
+    "name": "Indigo Viscose Saree",
+    "warehouse": 45,
+    "shopify": 47,
+    "myntra": 40,
+    "ajio": 42,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -5,
+      "Ajio": -3
+    },
+    "risk": "green",
+    "lastSync": "05 Feb 2026"
+  },
+  {
+    "sku": "SK-KUR-042",
+    "name": "Mustard Chanderi Kurta Set",
+    "warehouse": 39,
+    "shopify": null,
+    "myntra": 43,
+    "ajio": 41,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Myntra": 4,
+      "Ajio": 2
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-043",
+    "name": "Lavender Linen Dupatta",
+    "warehouse": 41,
+    "shopify": 60,
+    "myntra": 42,
+    "ajio": 45,
+    "delta": 19,
+    "worstPlatform": "Shopify",
+    "worstDelta": 19,
+    "platformDeltas": {
+      "Shopify": 19,
+      "Myntra": 1,
+      "Ajio": 4
+    },
+    "risk": "red",
+    "lastSync": "15 Feb 2026"
+  },
+  {
+    "sku": "SK-LEH-044",
+    "name": "Navy Chanderi Lehenga",
+    "warehouse": 6,
+    "shopify": 3,
+    "myntra": 4,
+    "ajio": 4,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": -2,
+      "Ajio": -2
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-045",
+    "name": "Teal Georgette Crop Top",
+    "warehouse": 37,
+    "shopify": 38,
+    "myntra": null,
+    "ajio": 37,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-046",
+    "name": "Navy Viscose Palazzo Set",
+    "warehouse": 1,
+    "shopify": null,
+    "myntra": 0,
+    "ajio": 3,
+    "delta": 2,
+    "worstPlatform": "Ajio",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Myntra": -1,
+      "Ajio": 2
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-047",
+    "name": "Mustard Crepe Tunic",
+    "warehouse": 6,
+    "shopify": 7,
+    "myntra": 4,
+    "ajio": 10,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": -2,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-048",
+    "name": "Wine Crepe Dupatta",
+    "warehouse": 57,
+    "shopify": 57,
+    "myntra": 60,
+    "ajio": 57,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 3,
+      "Ajio": 0
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-049",
+    "name": "Blush Pink Georgette Lehenga",
+    "warehouse": 34,
+    "shopify": 33,
+    "myntra": 30,
+    "ajio": 35,
+    "delta": 1,
+    "worstPlatform": "Ajio",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -4,
+      "Ajio": 1
+    },
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-050",
+    "name": "Wine Linen Sharara Set",
+    "warehouse": 32,
+    "shopify": 33,
+    "myntra": 31,
+    "ajio": 34,
+    "delta": 2,
+    "worstPlatform": "Ajio",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": -1,
+      "Ajio": 2
+    },
+    "risk": "green",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-LEH-051",
+    "name": "Charcoal Viscose Lehenga",
+    "warehouse": 53,
+    "shopify": 54,
+    "myntra": 70,
+    "ajio": 50,
+    "delta": 17,
+    "worstPlatform": "Myntra",
+    "worstDelta": 17,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 17,
+      "Ajio": -3
+    },
+    "risk": "red",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-052",
+    "name": "Maroon Linen Palazzo Set",
+    "warehouse": 50,
+    "shopify": 51,
+    "myntra": 51,
+    "ajio": 53,
+    "delta": 3,
+    "worstPlatform": "Ajio",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 1,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "01 Feb 2026"
+  },
+  {
+    "sku": "SK-ANA-053",
+    "name": "Ivory Chanderi Anarkali",
+    "warehouse": 37,
+    "shopify": 36,
+    "myntra": 41,
+    "ajio": 38,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 4,
+      "Ajio": 1
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-054",
+    "name": "Blush Pink Crepe Kurta Set",
+    "warehouse": 11,
+    "shopify": 14,
+    "myntra": 11,
+    "ajio": 12,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 0,
+      "Ajio": 1
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-055",
+    "name": "Navy Cotton Anarkali",
+    "warehouse": 11,
+    "shopify": null,
+    "myntra": 16,
+    "ajio": 13,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Myntra": 5,
+      "Ajio": 2
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-056",
+    "name": "Teal Chanderi Lehenga",
+    "warehouse": 1,
+    "shopify": 0,
+    "myntra": 9,
+    "ajio": 2,
+    "delta": 8,
+    "worstPlatform": "Myntra",
+    "worstDelta": 8,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 8,
+      "Ajio": 1
+    },
+    "risk": "amber",
+    "lastSync": "15 Feb 2026"
+  },
+  {
+    "sku": "SK-DUP-057",
+    "name": "Wine Silk Dupatta",
+    "warehouse": 22,
+    "shopify": 24,
+    "myntra": 19,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -3
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-058",
+    "name": "Ivory Linen Dupatta",
+    "warehouse": 34,
+    "shopify": 32,
+    "myntra": 31,
+    "ajio": 36,
+    "delta": 2,
+    "worstPlatform": "Ajio",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": -3,
+      "Ajio": 2
+    },
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-059",
+    "name": "Mustard Chiffon Crop Top",
+    "warehouse": 38,
+    "shopify": 39,
+    "myntra": 34,
+    "ajio": 35,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": -4,
+      "Ajio": -3
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-060",
+    "name": "Mustard Rayon Lehenga",
+    "warehouse": 42,
+    "shopify": 45,
+    "myntra": 40,
+    "ajio": 39,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": -2,
+      "Ajio": -3
+    },
+    "risk": "amber",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-061",
+    "name": "Olive Georgette Dupatta",
+    "warehouse": 21,
+    "shopify": 20,
+    "myntra": 22,
+    "ajio": 17,
+    "delta": 1,
+    "worstPlatform": "Myntra",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 1,
+      "Ajio": -4
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-062",
+    "name": "Teal Silk Saree",
+    "warehouse": 31,
+    "shopify": 28,
+    "myntra": 29,
+    "ajio": 31,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": -2,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-063",
+    "name": "Blush Pink Viscose Crop Top",
+    "warehouse": 48,
+    "shopify": 50,
+    "myntra": 64,
+    "ajio": 48,
+    "delta": 16,
+    "worstPlatform": "Myntra",
+    "worstDelta": 16,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 16,
+      "Ajio": 0
+    },
+    "risk": "red",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-064",
+    "name": "Mustard Chanderi Crop Top",
+    "warehouse": 34,
+    "shopify": 31,
+    "myntra": 37,
+    "ajio": 34,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 3,
+      "Ajio": 0
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-065",
+    "name": "Indigo Silk Kurta Set",
+    "warehouse": 50,
+    "shopify": 48,
+    "myntra": 49,
+    "ajio": 54,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": -1,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-066",
+    "name": "Coral Linen Lehenga",
+    "warehouse": 44,
+    "shopify": 45,
+    "myntra": 40,
+    "ajio": 44,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": -4,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-ANA-067",
+    "name": "Indigo Chiffon Anarkali",
+    "warehouse": 7,
+    "shopify": 9,
+    "myntra": 9,
+    "ajio": 6,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 2,
+      "Ajio": -1
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-068",
+    "name": "Olive Chiffon Crop Top",
+    "warehouse": 7,
+    "shopify": 14,
+    "myntra": 5,
+    "ajio": 11,
+    "delta": 7,
+    "worstPlatform": "Shopify",
+    "worstDelta": 7,
+    "platformDeltas": {
+      "Shopify": 7,
+      "Myntra": -2,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-069",
+    "name": "Teal Linen Sharara Set",
+    "warehouse": 26,
+    "shopify": 23,
+    "myntra": 26,
+    "ajio": 28,
+    "delta": 2,
+    "worstPlatform": "Ajio",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 0,
+      "Ajio": 2
+    },
+    "risk": "green",
+    "lastSync": "10 Feb 2026"
+  },
+  {
+    "sku": "SK-TUN-070",
+    "name": "Rust Chanderi Tunic",
+    "warehouse": 41,
+    "shopify": 39,
+    "myntra": 40,
+    "ajio": 41,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": -1,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-071",
+    "name": "Charcoal Chanderi Lehenga",
+    "warehouse": 50,
+    "shopify": 51,
+    "myntra": 45,
+    "ajio": 52,
+    "delta": 2,
+    "worstPlatform": "Ajio",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": -5,
+      "Ajio": 2
+    },
+    "risk": "green",
+    "lastSync": "13 Feb 2026"
+  },
+  {
+    "sku": "SK-PAL-072",
+    "name": "Indigo Rayon Palazzo Set",
+    "warehouse": 59,
+    "shopify": 58,
+    "myntra": 62,
+    "ajio": 62,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 3,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-073",
+    "name": "Rust Cotton Palazzo Set",
+    "warehouse": 12,
+    "shopify": 9,
+    "myntra": 12,
+    "ajio": 14,
+    "delta": 2,
+    "worstPlatform": "Ajio",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 0,
+      "Ajio": 2
+    },
+    "risk": "green",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-074",
+    "name": "Mustard Cotton Kurta Set",
+    "warehouse": 49,
+    "shopify": 46,
+    "myntra": 53,
+    "ajio": 48,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 4,
+      "Ajio": -1
+    },
+    "risk": "amber",
+    "lastSync": "15 Feb 2026"
+  },
+  {
+    "sku": "SK-SHR-075",
+    "name": "Blush Pink Khadi Shrug",
+    "warehouse": 43,
+    "shopify": 40,
+    "myntra": 45,
+    "ajio": 46,
+    "delta": 3,
+    "worstPlatform": "Ajio",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 2,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-076",
+    "name": "Blush Pink Rayon Dupatta",
+    "warehouse": 39,
+    "shopify": 44,
+    "myntra": 35,
+    "ajio": 43,
+    "delta": 5,
+    "worstPlatform": "Shopify",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 5,
+      "Myntra": -4,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-077",
+    "name": "Blush Pink Chanderi Palazzo Set",
+    "warehouse": 0,
+    "shopify": 0,
+    "myntra": 1,
+    "ajio": 3,
+    "delta": 3,
+    "worstPlatform": "Ajio",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 1,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "14 Feb 2026"
+  },
+  {
+    "sku": "SK-KUR-078",
+    "name": "Peach Silk Kurta Set",
+    "warehouse": 5,
+    "shopify": 4,
+    "myntra": 0,
+    "ajio": 5,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": -5,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -5,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-079",
+    "name": "Mustard Cotton Kurta Set",
+    "warehouse": 54,
+    "shopify": 51,
+    "myntra": 51,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": -3
+    },
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-080",
+    "name": "Rust Georgette Tunic",
+    "warehouse": 21,
+    "shopify": 22,
+    "myntra": 24,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 3
+    },
+    "risk": "amber",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-081",
+    "name": "Navy Linen Kurta Set",
+    "warehouse": 16,
+    "shopify": 14,
+    "myntra": 14,
+    "ajio": 16,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": -2,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-082",
+    "name": "Indigo Georgette Crop Top",
+    "warehouse": 2,
+    "shopify": 1,
+    "myntra": 4,
+    "ajio": 0,
+    "delta": 2,
+    "worstPlatform": "Myntra",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 2,
+      "Ajio": -2
+    },
+    "risk": "green",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-CRO-083",
+    "name": "Mustard Linen Crop Top",
+    "warehouse": 8,
+    "shopify": 10,
+    "myntra": 11,
+    "ajio": 11,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 3,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-084",
+    "name": "Mustard Linen Crop Top",
+    "warehouse": 28,
+    "shopify": 31,
+    "myntra": 33,
+    "ajio": 26,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 5,
+      "Ajio": -2
+    },
+    "risk": "amber",
+    "lastSync": "14 Feb 2026"
+  },
+  {
+    "sku": "SK-SHA-085",
+    "name": "Peach Viscose Sharara Set",
+    "warehouse": 53,
+    "shopify": 51,
+    "myntra": 53,
+    "ajio": 57,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 0,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-086",
+    "name": "Lavender Chiffon Shrug",
+    "warehouse": 15,
+    "shopify": 17,
+    "myntra": null,
+    "ajio": 14,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Ajio": -1
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-087",
+    "name": "Indigo Rayon Tunic",
+    "warehouse": 39,
+    "shopify": 37,
+    "myntra": null,
+    "ajio": 36,
+    "delta": 3,
+    "worstPlatform": "Ajio",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Ajio": -3
+    },
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-088",
+    "name": "Rust Silk Palazzo Set",
+    "warehouse": 32,
+    "shopify": 35,
+    "myntra": 31,
+    "ajio": 33,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": -1,
+      "Ajio": 1
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-089",
+    "name": "Sage Green Chanderi Anarkali",
+    "warehouse": 52,
+    "shopify": 49,
+    "myntra": 54,
+    "ajio": 56,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 2,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-090",
+    "name": "Rust Viscose Saree",
+    "warehouse": 15,
+    "shopify": 16,
+    "myntra": 20,
+    "ajio": 19,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 5,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-091",
+    "name": "Sage Green Linen Tunic",
+    "warehouse": 37,
+    "shopify": 40,
+    "myntra": 37,
+    "ajio": 35,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 0,
+      "Ajio": -2
+    },
+    "risk": "amber",
+    "lastSync": "14 Feb 2026"
+  },
+  {
+    "sku": "SK-KUR-092",
+    "name": "Coral Chiffon Kurta Set",
+    "warehouse": 28,
+    "shopify": 26,
+    "myntra": 37,
+    "ajio": 32,
+    "delta": 9,
+    "worstPlatform": "Myntra",
+    "worstDelta": 9,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 9,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-093",
+    "name": "Teal Linen Saree",
+    "warehouse": 8,
+    "shopify": 10,
+    "myntra": 11,
+    "ajio": 5,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 3,
+      "Ajio": -3
+    },
+    "risk": "amber",
+    "lastSync": "11 Feb 2026"
+  },
+  {
+    "sku": "SK-SHR-094",
+    "name": "Maroon Silk Shrug",
+    "warehouse": 42,
+    "shopify": null,
+    "myntra": 46,
+    "ajio": 40,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Myntra": 4,
+      "Ajio": -2
+    },
+    "risk": "amber",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-SHR-095",
+    "name": "Ivory Chiffon Shrug",
+    "warehouse": 36,
+    "shopify": 34,
+    "myntra": 31,
+    "ajio": 34,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": -5,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": -5,
+      "Ajio": -2
+    },
+    "risk": "green",
+    "lastSync": "12 Feb 2026"
+  },
+  {
+    "sku": "SK-TUN-096",
+    "name": "Navy Khadi Tunic",
+    "warehouse": 33,
+    "shopify": 30,
+    "myntra": 41,
+    "ajio": 37,
+    "delta": 8,
+    "worstPlatform": "Myntra",
+    "worstDelta": 8,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 8,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-097",
+    "name": "Teal Crepe Shrug",
+    "warehouse": 0,
+    "shopify": 0,
+    "myntra": 0,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 0
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-098",
+    "name": "Indigo Rayon Saree",
+    "warehouse": 41,
+    "shopify": 42,
+    "myntra": null,
+    "ajio": 43,
+    "delta": 2,
+    "worstPlatform": "Ajio",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Ajio": 2
+    },
+    "risk": "green",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-099",
+    "name": "Wine Linen Anarkali",
+    "warehouse": 12,
+    "shopify": 13,
+    "myntra": 8,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": -4
+    },
+    "risk": "green",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-DUP-100",
+    "name": "Olive Chanderi Dupatta",
+    "warehouse": 53,
+    "shopify": 50,
+    "myntra": 53,
+    "ajio": 55,
+    "delta": 2,
+    "worstPlatform": "Ajio",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 0,
+      "Ajio": 2
+    },
+    "risk": "green",
+    "lastSync": "01 Feb 2026"
+  },
+  {
+    "sku": "SK-TUN-102",
+    "name": "Maroon Cotton Tunic",
+    "warehouse": 45,
+    "shopify": 57,
+    "myntra": null,
+    "ajio": 46,
+    "delta": 12,
+    "worstPlatform": "Shopify",
+    "worstDelta": 12,
+    "platformDeltas": {
+      "Shopify": 12,
+      "Ajio": 1
+    },
+    "risk": "red",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-103",
+    "name": "Charcoal Georgette Kurta Set",
+    "warehouse": 30,
+    "shopify": 54,
+    "myntra": 50,
+    "ajio": 29,
+    "delta": 24,
+    "worstPlatform": "Shopify",
+    "worstDelta": 24,
+    "platformDeltas": {
+      "Shopify": 24,
+      "Myntra": 20,
+      "Ajio": -1
+    },
+    "risk": "red",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-104",
+    "name": "Lavender Cotton Sharara Set",
+    "warehouse": 46,
+    "shopify": 44,
+    "myntra": 41,
+    "ajio": 50,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": -5,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-105",
+    "name": "Lavender Khadi Saree",
+    "warehouse": 30,
+    "shopify": 32,
+    "myntra": 30,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 0
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-106",
+    "name": "Indigo Georgette Anarkali",
+    "warehouse": 36,
+    "shopify": 38,
+    "myntra": 32,
+    "ajio": 37,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -4,
+      "Ajio": 1
+    },
+    "risk": "green",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-107",
+    "name": "Maroon Georgette Kurta Set",
+    "warehouse": 24,
+    "shopify": 31,
+    "myntra": null,
+    "ajio": 25,
+    "delta": 7,
+    "worstPlatform": "Shopify",
+    "worstDelta": 7,
+    "platformDeltas": {
+      "Shopify": 7,
+      "Ajio": 1
+    },
+    "risk": "amber",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-108",
+    "name": "Mustard Crepe Lehenga",
+    "warehouse": 20,
+    "shopify": 20,
+    "myntra": 25,
+    "ajio": 23,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 5,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-109",
+    "name": "Olive Khadi Kurta Set",
+    "warehouse": 34,
+    "shopify": 35,
+    "myntra": 38,
+    "ajio": 32,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 4,
+      "Ajio": -2
+    },
+    "risk": "amber",
+    "lastSync": "03 Feb 2026"
+  },
+  {
+    "sku": "SK-SHA-110",
+    "name": "Coral Rayon Sharara Set",
+    "warehouse": 38,
+    "shopify": 39,
+    "myntra": 46,
+    "ajio": 38,
+    "delta": 8,
+    "worstPlatform": "Myntra",
+    "worstDelta": 8,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 8,
+      "Ajio": 0
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-111",
+    "name": "Teal Cotton Tunic",
+    "warehouse": 52,
+    "shopify": 51,
+    "myntra": 52,
+    "ajio": 56,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 0,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-112",
+    "name": "Ivory Rayon Tunic",
+    "warehouse": 31,
+    "shopify": 28,
+    "myntra": null,
+    "ajio": 30,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Ajio": -1
+    },
+    "risk": "green",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-113",
+    "name": "Sage Green Linen Saree",
+    "warehouse": 29,
+    "shopify": 28,
+    "myntra": 26,
+    "ajio": 33,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -3,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-114",
+    "name": "Indigo Silk Anarkali",
+    "warehouse": 0,
+    "shopify": 20,
+    "myntra": 3,
+    "ajio": 0,
+    "delta": 20,
+    "worstPlatform": "Shopify",
+    "worstDelta": 20,
+    "platformDeltas": {
+      "Shopify": 20,
+      "Myntra": 3,
+      "Ajio": 0
+    },
+    "risk": "red",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-115",
+    "name": "Ivory Viscose Sharara Set",
+    "warehouse": 60,
+    "shopify": 63,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3
+    },
+    "risk": "amber",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-116",
+    "name": "Indigo Georgette Sharara Set",
+    "warehouse": 5,
+    "shopify": 21,
+    "myntra": 7,
+    "ajio": 2,
+    "delta": 16,
+    "worstPlatform": "Shopify",
+    "worstDelta": 16,
+    "platformDeltas": {
+      "Shopify": 16,
+      "Myntra": 2,
+      "Ajio": -3
+    },
+    "risk": "red",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-117",
+    "name": "Coral Cotton Sharara Set",
+    "warehouse": 56,
+    "shopify": 72,
+    "myntra": 58,
+    "ajio": null,
+    "delta": 16,
+    "worstPlatform": "Shopify",
+    "worstDelta": 16,
+    "platformDeltas": {
+      "Shopify": 16,
+      "Myntra": 2
+    },
+    "risk": "red",
+    "lastSync": "01 Feb 2026"
+  },
+  {
+    "sku": "SK-PAL-118",
+    "name": "Coral Viscose Palazzo Set",
+    "warehouse": 51,
+    "shopify": 48,
+    "myntra": 66,
+    "ajio": 48,
+    "delta": 15,
+    "worstPlatform": "Myntra",
+    "worstDelta": 15,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 15,
+      "Ajio": -3
+    },
+    "risk": "red",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-119",
+    "name": "Wine Viscose Saree",
+    "warehouse": 44,
+    "shopify": 42,
+    "myntra": 45,
+    "ajio": 43,
+    "delta": 1,
+    "worstPlatform": "Myntra",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 1,
+      "Ajio": -1
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-120",
+    "name": "Indigo Chiffon Lehenga",
+    "warehouse": 17,
+    "shopify": 17,
+    "myntra": 21,
+    "ajio": 21,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 4,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-121",
+    "name": "Teal Linen Dupatta",
+    "warehouse": 51,
+    "shopify": 54,
+    "myntra": 50,
+    "ajio": 49,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": -1,
+      "Ajio": -2
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-122",
+    "name": "Wine Khadi Sharara Set",
+    "warehouse": 43,
+    "shopify": 42,
+    "myntra": 43,
+    "ajio": 47,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 0,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-123",
+    "name": "Teal Crepe Crop Top",
+    "warehouse": 26,
+    "shopify": 25,
+    "myntra": 27,
+    "ajio": 30,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 1,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-124",
+    "name": "Peach Viscose Tunic",
+    "warehouse": 59,
+    "shopify": 58,
+    "myntra": 57,
+    "ajio": 59,
+    "delta": 2,
+    "worstPlatform": "Myntra",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -2,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": "01 Feb 2026"
+  },
+  {
+    "sku": "SK-DUP-125",
+    "name": "Rust Crepe Dupatta",
+    "warehouse": 21,
+    "shopify": 21,
+    "myntra": 22,
+    "ajio": 22,
+    "delta": 1,
+    "worstPlatform": "Myntra",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "risk": "green",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-126",
+    "name": "Charcoal Viscose Sharara Set",
+    "warehouse": 36,
+    "shopify": 37,
+    "myntra": 49,
+    "ajio": 37,
+    "delta": 13,
+    "worstPlatform": "Myntra",
+    "worstDelta": 13,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 13,
+      "Ajio": 1
+    },
+    "risk": "red",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-127",
+    "name": "Coral Rayon Lehenga",
+    "warehouse": 42,
+    "shopify": 40,
+    "myntra": 51,
+    "ajio": 45,
+    "delta": 9,
+    "worstPlatform": "Myntra",
+    "worstDelta": 9,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 9,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-SAR-128",
+    "name": "Blush Pink Rayon Saree",
+    "warehouse": 43,
+    "shopify": 58,
+    "myntra": 45,
+    "ajio": 39,
+    "delta": 15,
+    "worstPlatform": "Shopify",
+    "worstDelta": 15,
+    "platformDeltas": {
+      "Shopify": 15,
+      "Myntra": 2,
+      "Ajio": -4
+    },
+    "risk": "red",
+    "lastSync": "11 Feb 2026"
+  },
+  {
+    "sku": "SK-CRO-130",
+    "name": "Lavender Viscose Crop Top",
+    "warehouse": 50,
+    "shopify": 53,
+    "myntra": null,
+    "ajio": 46,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Ajio": -4
+    },
+    "risk": "amber",
+    "lastSync": "04 Feb 2026"
+  },
+  {
+    "sku": "SK-SHA-131",
+    "name": "Blush Pink Georgette Sharara Set",
+    "warehouse": 55,
+    "shopify": 54,
+    "myntra": 60,
+    "ajio": 58,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 5,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-SHR-132",
+    "name": "Blush Pink Linen Shrug",
+    "warehouse": 18,
+    "shopify": 38,
+    "myntra": 33,
+    "ajio": 16,
+    "delta": 20,
+    "worstPlatform": "Shopify",
+    "worstDelta": 20,
+    "platformDeltas": {
+      "Shopify": 20,
+      "Myntra": 15,
+      "Ajio": -2
+    },
+    "risk": "red",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-133",
+    "name": "Indigo Cotton Lehenga",
+    "warehouse": 58,
+    "shopify": 55,
+    "myntra": 72,
+    "ajio": 57,
+    "delta": 14,
+    "worstPlatform": "Myntra",
+    "worstDelta": 14,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 14,
+      "Ajio": -1
+    },
+    "risk": "red",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-SAR-134",
+    "name": "Mustard Linen Saree",
+    "warehouse": 44,
+    "shopify": 43,
+    "myntra": 42,
+    "ajio": 48,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -2,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-135",
+    "name": "Rust Viscose Kurta Set",
+    "warehouse": 34,
+    "shopify": 31,
+    "myntra": 34,
+    "ajio": 32,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 0,
+      "Ajio": -2
+    },
+    "risk": "green",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-136",
+    "name": "Wine Crepe Palazzo Set",
+    "warehouse": 58,
+    "shopify": 56,
+    "myntra": 72,
+    "ajio": null,
+    "delta": 14,
+    "worstPlatform": "Myntra",
+    "worstDelta": 14,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 14
+    },
+    "risk": "red",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-137",
+    "name": "Maroon Khadi Dupatta",
+    "warehouse": 25,
+    "shopify": 28,
+    "myntra": 26,
+    "ajio": 28,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 1,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-138",
+    "name": "Blush Pink Chanderi Palazzo Set",
+    "warehouse": 32,
+    "shopify": 34,
+    "myntra": 30,
+    "ajio": 32,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -2,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-139",
+    "name": "Lavender Chanderi Tunic",
+    "warehouse": 1,
+    "shopify": 21,
+    "myntra": 0,
+    "ajio": 0,
+    "delta": 20,
+    "worstPlatform": "Shopify",
+    "worstDelta": 20,
+    "platformDeltas": {
+      "Shopify": 20,
+      "Myntra": -1,
+      "Ajio": -1
+    },
+    "risk": "red",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-140",
+    "name": "Navy Crepe Dupatta",
+    "warehouse": 24,
+    "shopify": 24,
+    "myntra": 27,
+    "ajio": 20,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 3,
+      "Ajio": -4
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-141",
+    "name": "Charcoal Chiffon Dupatta",
+    "warehouse": 14,
+    "shopify": 17,
+    "myntra": 22,
+    "ajio": 10,
+    "delta": 8,
+    "worstPlatform": "Myntra",
+    "worstDelta": 8,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 8,
+      "Ajio": -4
+    },
+    "risk": "amber",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-142",
+    "name": "Coral Chiffon Sharara Set",
+    "warehouse": 22,
+    "shopify": 23,
+    "myntra": 21,
+    "ajio": 20,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": -1,
+      "Ajio": -2
+    },
+    "risk": "green",
+    "lastSync": "07 Feb 2026"
+  },
+  {
+    "sku": "SK-LEH-143",
+    "name": "Olive Silk Lehenga",
+    "warehouse": 25,
+    "shopify": 26,
+    "myntra": 30,
+    "ajio": 28,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 5,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-144",
+    "name": "Sage Green Crepe Crop Top",
+    "warehouse": 20,
+    "shopify": 17,
+    "myntra": 21,
+    "ajio": 22,
+    "delta": 2,
+    "worstPlatform": "Ajio",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 1,
+      "Ajio": 2
+    },
+    "risk": "green",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-145",
+    "name": "Coral Khadi Crop Top",
+    "warehouse": 51,
+    "shopify": 60,
+    "myntra": 48,
+    "ajio": null,
+    "delta": 9,
+    "worstPlatform": "Shopify",
+    "worstDelta": 9,
+    "platformDeltas": {
+      "Shopify": 9,
+      "Myntra": -3
+    },
+    "risk": "amber",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-ANA-146",
+    "name": "Wine Chanderi Anarkali",
+    "warehouse": 0,
+    "shopify": 3,
+    "myntra": 3,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 3
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-147",
+    "name": "Wine Viscose Saree",
+    "warehouse": 4,
+    "shopify": 7,
+    "myntra": 6,
+    "ajio": 5,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 2,
+      "Ajio": 1
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-148",
+    "name": "Indigo Chanderi Tunic",
+    "warehouse": 13,
+    "shopify": 14,
+    "myntra": 30,
+    "ajio": 16,
+    "delta": 17,
+    "worstPlatform": "Myntra",
+    "worstDelta": 17,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 17,
+      "Ajio": 3
+    },
+    "risk": "red",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-149",
+    "name": "Wine Khadi Tunic",
+    "warehouse": 24,
+    "shopify": null,
+    "myntra": 44,
+    "ajio": 23,
+    "delta": 20,
+    "worstPlatform": "Myntra",
+    "worstDelta": 20,
+    "platformDeltas": {
+      "Myntra": 20,
+      "Ajio": -1
+    },
+    "risk": "red",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-151",
+    "name": "Sage Green Crepe Anarkali",
+    "warehouse": 32,
+    "shopify": 32,
+    "myntra": 35,
+    "ajio": 32,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 3,
+      "Ajio": 0
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-152",
+    "name": "Mustard Khadi Shrug",
+    "warehouse": 8,
+    "shopify": 7,
+    "myntra": 20,
+    "ajio": 8,
+    "delta": 12,
+    "worstPlatform": "Myntra",
+    "worstDelta": 12,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 12,
+      "Ajio": 0
+    },
+    "risk": "red",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-153",
+    "name": "Charcoal Khadi Kurta Set",
+    "warehouse": 4,
+    "shopify": 3,
+    "myntra": 0,
+    "ajio": 0,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": -4,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -4,
+      "Ajio": -4
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-154",
+    "name": "Wine Rayon Shrug",
+    "warehouse": 59,
+    "shopify": 62,
+    "myntra": 61,
+    "ajio": 57,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 2,
+      "Ajio": -2
+    },
+    "risk": "amber",
+    "lastSync": "06 Feb 2026"
+  },
+  {
+    "sku": "SK-ANA-155",
+    "name": "Peach Khadi Anarkali",
+    "warehouse": 45,
+    "shopify": 48,
+    "myntra": 45,
+    "ajio": 47,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 0,
+      "Ajio": 2
+    },
+    "risk": "amber",
+    "lastSync": "11 Feb 2026"
+  },
+  {
+    "sku": "SK-LEH-156",
+    "name": "Ivory Cotton Lehenga",
+    "warehouse": 52,
+    "shopify": 76,
+    "myntra": 54,
+    "ajio": 54,
+    "delta": 24,
+    "worstPlatform": "Shopify",
+    "worstDelta": 24,
+    "platformDeltas": {
+      "Shopify": 24,
+      "Myntra": 2,
+      "Ajio": 2
+    },
+    "risk": "red",
+    "lastSync": "09 Feb 2026"
+  },
+  {
+    "sku": "SK-CRO-157",
+    "name": "Sage Green Rayon Crop Top",
+    "warehouse": 49,
+    "shopify": 54,
+    "myntra": 45,
+    "ajio": 46,
+    "delta": 5,
+    "worstPlatform": "Shopify",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 5,
+      "Myntra": -4,
+      "Ajio": -3
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-158",
+    "name": "Navy Chiffon Dupatta",
+    "warehouse": 33,
+    "shopify": 30,
+    "myntra": 36,
+    "ajio": 30,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 3,
+      "Ajio": -3
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-159",
+    "name": "Charcoal Georgette Dupatta",
+    "warehouse": 51,
+    "shopify": 51,
+    "myntra": 51,
+    "ajio": 52,
+    "delta": 1,
+    "worstPlatform": "Ajio",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 0,
+      "Ajio": 1
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-160",
+    "name": "Charcoal Chanderi Dupatta",
+    "warehouse": 29,
+    "shopify": 26,
+    "myntra": 26,
+    "ajio": 33,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": -3,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-DUP-161",
+    "name": "Teal Crepe Dupatta",
+    "warehouse": 37,
+    "shopify": 36,
+    "myntra": null,
+    "ajio": 39,
+    "delta": 2,
+    "worstPlatform": "Ajio",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Ajio": 2
+    },
+    "risk": "green",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-162",
+    "name": "Sage Green Georgette Shrug",
+    "warehouse": 45,
+    "shopify": 42,
+    "myntra": 42,
+    "ajio": 43,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": -3,
+      "Ajio": -2
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-163",
+    "name": "Olive Cotton Shrug",
+    "warehouse": 5,
+    "shopify": 3,
+    "myntra": 5,
+    "ajio": 9,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 0,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-164",
+    "name": "Rust Khadi Sharara Set",
+    "warehouse": 34,
+    "shopify": 35,
+    "myntra": 38,
+    "ajio": 32,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 4,
+      "Ajio": -2
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-165",
+    "name": "Ivory Viscose Saree",
+    "warehouse": 42,
+    "shopify": 41,
+    "myntra": 40,
+    "ajio": 42,
+    "delta": 2,
+    "worstPlatform": "Myntra",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -2,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-166",
+    "name": "Maroon Rayon Dupatta",
+    "warehouse": 42,
+    "shopify": 64,
+    "myntra": 40,
+    "ajio": 38,
+    "delta": 22,
+    "worstPlatform": "Shopify",
+    "worstDelta": 22,
+    "platformDeltas": {
+      "Shopify": 22,
+      "Myntra": -2,
+      "Ajio": -4
+    },
+    "risk": "red",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-ANA-167",
+    "name": "Ivory Georgette Anarkali",
+    "warehouse": 54,
+    "shopify": 51,
+    "myntra": 54,
+    "ajio": 56,
+    "delta": 2,
+    "worstPlatform": "Ajio",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 0,
+      "Ajio": 2
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-168",
+    "name": "Rust Cotton Palazzo Set",
+    "warehouse": 50,
+    "shopify": 52,
+    "myntra": 55,
+    "ajio": 49,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 5,
+      "Ajio": -1
+    },
+    "risk": "amber",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-169",
+    "name": "Coral Crepe Saree",
+    "warehouse": 54,
+    "shopify": 56,
+    "myntra": 50,
+    "ajio": 54,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -4,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": "05 Feb 2026"
+  },
+  {
+    "sku": "SK-ANA-170",
+    "name": "Rust Rayon Anarkali",
+    "warehouse": 23,
+    "shopify": 28,
+    "myntra": 27,
+    "ajio": 23,
+    "delta": 5,
+    "worstPlatform": "Shopify",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 5,
+      "Myntra": 4,
+      "Ajio": 0
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-171",
+    "name": "Navy Linen Lehenga",
+    "warehouse": 20,
+    "shopify": 20,
+    "myntra": 17,
+    "ajio": 19,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": -3,
+      "Ajio": -1
+    },
+    "risk": "green",
+    "lastSync": "06 Feb 2026"
+  },
+  {
+    "sku": "SK-CRO-172",
+    "name": "Sage Green Chiffon Crop Top",
+    "warehouse": 49,
+    "shopify": 48,
+    "myntra": 48,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -1
+    },
+    "risk": "green",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-173",
+    "name": "Teal Chanderi Tunic",
+    "warehouse": 15,
+    "shopify": 15,
+    "myntra": 15,
+    "ajio": 14,
+    "delta": 1,
+    "worstPlatform": "Ajio",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 0,
+      "Ajio": -1
+    },
+    "risk": "green",
+    "lastSync": "10 Feb 2026"
+  },
+  {
+    "sku": "SK-LEH-174",
+    "name": "Mustard Crepe Lehenga",
+    "warehouse": 26,
+    "shopify": 24,
+    "myntra": 21,
+    "ajio": null,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": -5,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": -5
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-175",
+    "name": "Mustard Georgette Shrug",
+    "warehouse": 58,
+    "shopify": 55,
+    "myntra": 54,
+    "ajio": 62,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": -4,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "06 Feb 2026"
+  },
+  {
+    "sku": "SK-ANA-176",
+    "name": "Teal Rayon Anarkali",
+    "warehouse": 52,
+    "shopify": 50,
+    "myntra": 54,
+    "ajio": 55,
+    "delta": 3,
+    "worstPlatform": "Ajio",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 2,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "03 Feb 2026"
+  },
+  {
+    "sku": "SK-KUR-177",
+    "name": "Olive Silk Kurta Set",
+    "warehouse": 55,
+    "shopify": 52,
+    "myntra": 55,
+    "ajio": 53,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 0,
+      "Ajio": -2
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-179",
+    "name": "Coral Chiffon Lehenga",
+    "warehouse": 52,
+    "shopify": 49,
+    "myntra": 57,
+    "ajio": 48,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 5,
+      "Ajio": -4
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-181",
+    "name": "Indigo Silk Saree",
+    "warehouse": 49,
+    "shopify": 50,
+    "myntra": 51,
+    "ajio": 45,
+    "delta": 2,
+    "worstPlatform": "Myntra",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 2,
+      "Ajio": -4
+    },
+    "risk": "green",
+    "lastSync": "10 Feb 2026"
+  },
+  {
+    "sku": "SK-ANA-182",
+    "name": "Indigo Khadi Anarkali",
+    "warehouse": 22,
+    "shopify": 25,
+    "myntra": 17,
+    "ajio": 20,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": -5,
+      "Ajio": -2
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-183",
+    "name": "Charcoal Viscose Crop Top",
+    "warehouse": 22,
+    "shopify": 23,
+    "myntra": 27,
+    "ajio": 21,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 5,
+      "Ajio": -1
+    },
+    "risk": "amber",
+    "lastSync": "12 Feb 2026"
+  },
+  {
+    "sku": "SK-KUR-184",
+    "name": "Ivory Rayon Kurta Set",
+    "warehouse": 49,
+    "shopify": 50,
+    "myntra": 53,
+    "ajio": 49,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 4,
+      "Ajio": 0
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-185",
+    "name": "Sage Green Viscose Kurta Set",
+    "warehouse": 50,
+    "shopify": 50,
+    "myntra": 45,
+    "ajio": 47,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": -5,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": -5,
+      "Ajio": -3
+    },
+    "risk": "green",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-186",
+    "name": "Lavender Viscose Tunic",
+    "warehouse": 24,
+    "shopify": 21,
+    "myntra": 22,
+    "ajio": 21,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": -2,
+      "Ajio": -3
+    },
+    "risk": "green",
+    "lastSync": "02 Feb 2026"
+  },
+  {
+    "sku": "SK-LEH-187",
+    "name": "Maroon Viscose Lehenga",
+    "warehouse": 22,
+    "shopify": 23,
+    "myntra": 27,
+    "ajio": 20,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 5,
+      "Ajio": -2
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-188",
+    "name": "Coral Linen Kurta Set",
+    "warehouse": 59,
+    "shopify": 62,
+    "myntra": 57,
+    "ajio": 59,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": -2,
+      "Ajio": 0
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-189",
+    "name": "Navy Crepe Dupatta",
+    "warehouse": 44,
+    "shopify": 42,
+    "myntra": 49,
+    "ajio": 44,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 5,
+      "Ajio": 0
+    },
+    "risk": "amber",
+    "lastSync": "09 Feb 2026"
+  },
+  {
+    "sku": "SK-TUN-190",
+    "name": "Coral Crepe Tunic",
+    "warehouse": 42,
+    "shopify": 44,
+    "myntra": 47,
+    "ajio": 40,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 5,
+      "Ajio": -2
+    },
+    "risk": "amber",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-PAL-191",
+    "name": "Mustard Crepe Palazzo Set",
+    "warehouse": 11,
+    "shopify": 10,
+    "myntra": 12,
+    "ajio": 14,
+    "delta": 3,
+    "worstPlatform": "Ajio",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 1,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-192",
+    "name": "Sage Green Crepe Lehenga",
+    "warehouse": 34,
+    "shopify": 51,
+    "myntra": 30,
+    "ajio": 30,
+    "delta": 17,
+    "worstPlatform": "Shopify",
+    "worstDelta": 17,
+    "platformDeltas": {
+      "Shopify": 17,
+      "Myntra": -4,
+      "Ajio": -4
+    },
+    "risk": "red",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-193",
+    "name": "Teal Chiffon Tunic",
+    "warehouse": 41,
+    "shopify": 43,
+    "myntra": 61,
+    "ajio": 43,
+    "delta": 20,
+    "worstPlatform": "Myntra",
+    "worstDelta": 20,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 20,
+      "Ajio": 2
+    },
+    "risk": "red",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-194",
+    "name": "Charcoal Silk Crop Top",
+    "warehouse": 14,
+    "shopify": 16,
+    "myntra": 13,
+    "ajio": 10,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -1,
+      "Ajio": -4
+    },
+    "risk": "green",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-DUP-195",
+    "name": "Maroon Khadi Dupatta",
+    "warehouse": 11,
+    "shopify": 10,
+    "myntra": 30,
+    "ajio": 8,
+    "delta": 19,
+    "worstPlatform": "Myntra",
+    "worstDelta": 19,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 19,
+      "Ajio": -3
+    },
+    "risk": "red",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-196",
+    "name": "Teal Viscose Crop Top",
+    "warehouse": 17,
+    "shopify": 24,
+    "myntra": 15,
+    "ajio": 20,
+    "delta": 7,
+    "worstPlatform": "Shopify",
+    "worstDelta": 7,
+    "platformDeltas": {
+      "Shopify": 7,
+      "Myntra": -2,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-197",
+    "name": "Rust Chiffon Tunic",
+    "warehouse": 51,
+    "shopify": 51,
+    "myntra": 47,
+    "ajio": 54,
+    "delta": 3,
+    "worstPlatform": "Ajio",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": -4,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-ANA-198",
+    "name": "Peach Linen Anarkali",
+    "warehouse": 19,
+    "shopify": 30,
+    "myntra": 20,
+    "ajio": 21,
+    "delta": 11,
+    "worstPlatform": "Shopify",
+    "worstDelta": 11,
+    "platformDeltas": {
+      "Shopify": 11,
+      "Myntra": 1,
+      "Ajio": 2
+    },
+    "risk": "red",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-199",
+    "name": "Maroon Chanderi Tunic",
+    "warehouse": 33,
+    "shopify": null,
+    "myntra": 31,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Myntra",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Myntra": -2
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-200",
+    "name": "Peach Chanderi Tunic",
+    "warehouse": 43,
+    "shopify": 42,
+    "myntra": 46,
+    "ajio": 47,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 3,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-201",
+    "name": "Sage Green Linen Lehenga",
+    "warehouse": 60,
+    "shopify": 62,
+    "myntra": 64,
+    "ajio": 62,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 4,
+      "Ajio": 2
+    },
+    "risk": "amber",
+    "lastSync": "09 Feb 2026"
+  },
+  {
+    "sku": "SK-KUR-202",
+    "name": "Lavender Georgette Kurta Set",
+    "warehouse": 43,
+    "shopify": 42,
+    "myntra": 38,
+    "ajio": 40,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": -5,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -5,
+      "Ajio": -3
+    },
+    "risk": "green",
+    "lastSync": "06 Feb 2026"
+  },
+  {
+    "sku": "SK-CRO-203",
+    "name": "Teal Rayon Crop Top",
+    "warehouse": 31,
+    "shopify": 30,
+    "myntra": 30,
+    "ajio": 27,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": -4,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -1,
+      "Ajio": -4
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-204",
+    "name": "Peach Rayon Kurta Set",
+    "warehouse": 19,
+    "shopify": 19,
+    "myntra": 23,
+    "ajio": 19,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 4,
+      "Ajio": 0
+    },
+    "risk": "amber",
+    "lastSync": "14 Feb 2026"
+  },
+  {
+    "sku": "SK-SHA-205",
+    "name": "Rust Khadi Sharara Set",
+    "warehouse": 12,
+    "shopify": 14,
+    "myntra": 12,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 0
+    },
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-206",
+    "name": "Mustard Linen Sharara Set",
+    "warehouse": 12,
+    "shopify": 29,
+    "myntra": 16,
+    "ajio": 15,
+    "delta": 17,
+    "worstPlatform": "Shopify",
+    "worstDelta": 17,
+    "platformDeltas": {
+      "Shopify": 17,
+      "Myntra": 4,
+      "Ajio": 3
+    },
+    "risk": "red",
+    "lastSync": "11 Feb 2026"
+  },
+  {
+    "sku": "SK-LEH-207",
+    "name": "Charcoal Chiffon Lehenga",
+    "warehouse": 22,
+    "shopify": 20,
+    "myntra": null,
+    "ajio": 25,
+    "delta": 3,
+    "worstPlatform": "Ajio",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "06 Feb 2026"
+  },
+  {
+    "sku": "SK-SAR-208",
+    "name": "Sage Green Viscose Saree",
+    "warehouse": 7,
+    "shopify": 7,
+    "myntra": 5,
+    "ajio": 8,
+    "delta": 1,
+    "worstPlatform": "Ajio",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": -2,
+      "Ajio": 1
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-209",
+    "name": "Ivory Silk Kurta Set",
+    "warehouse": 39,
+    "shopify": 39,
+    "myntra": 39,
+    "ajio": 39,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 0,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-210",
+    "name": "Coral Cotton Kurta Set",
+    "warehouse": 50,
+    "shopify": 50,
+    "myntra": 48,
+    "ajio": 49,
+    "delta": 2,
+    "worstPlatform": "Myntra",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": -2,
+      "Ajio": -1
+    },
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-211",
+    "name": "Teal Cotton Dupatta",
+    "warehouse": 18,
+    "shopify": 18,
+    "myntra": 23,
+    "ajio": 22,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 5,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-212",
+    "name": "Lavender Cotton Kurta Set",
+    "warehouse": 8,
+    "shopify": 6,
+    "myntra": 11,
+    "ajio": 12,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 3,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-DUP-214",
+    "name": "Mustard Rayon Dupatta",
+    "warehouse": 57,
+    "shopify": 56,
+    "myntra": 57,
+    "ajio": 55,
+    "delta": 2,
+    "worstPlatform": "Ajio",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 0,
+      "Ajio": -2
+    },
+    "risk": "green",
+    "lastSync": "04 Feb 2026"
+  },
+  {
+    "sku": "SK-PAL-215",
+    "name": "Lavender Georgette Palazzo Set",
+    "warehouse": 0,
+    "shopify": 13,
+    "myntra": 1,
+    "ajio": 0,
+    "delta": 13,
+    "worstPlatform": "Shopify",
+    "worstDelta": 13,
+    "platformDeltas": {
+      "Shopify": 13,
+      "Myntra": 1,
+      "Ajio": 0
+    },
+    "risk": "red",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-CRO-216",
+    "name": "Wine Linen Crop Top",
+    "warehouse": 57,
+    "shopify": 55,
+    "myntra": 59,
+    "ajio": 59,
+    "delta": 2,
+    "worstPlatform": "Myntra",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 2,
+      "Ajio": 2
+    },
+    "risk": "green",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-217",
+    "name": "Coral Georgette Lehenga",
+    "warehouse": 21,
+    "shopify": 24,
+    "myntra": null,
+    "ajio": 18,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Ajio": -3
+    },
+    "risk": "amber",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-218",
+    "name": "Coral Crepe Anarkali",
+    "warehouse": 45,
+    "shopify": 44,
+    "myntra": 43,
+    "ajio": 44,
+    "delta": 2,
+    "worstPlatform": "Myntra",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -2,
+      "Ajio": -1
+    },
+    "risk": "green",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-KUR-219",
+    "name": "Maroon Silk Kurta Set",
+    "warehouse": 13,
+    "shopify": 16,
+    "myntra": 10,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": -3
+    },
+    "risk": "amber",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-220",
+    "name": "Rust Viscose Dupatta",
+    "warehouse": 26,
+    "shopify": 25,
+    "myntra": 30,
+    "ajio": 28,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 4,
+      "Ajio": 2
+    },
+    "risk": "amber",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-SAR-221",
+    "name": "Indigo Chanderi Saree",
+    "warehouse": 35,
+    "shopify": 37,
+    "myntra": 32,
+    "ajio": 35,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -3,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-SHA-222",
+    "name": "Peach Georgette Sharara Set",
+    "warehouse": 56,
+    "shopify": 58,
+    "myntra": 55,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -1
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-223",
+    "name": "Blush Pink Crepe Lehenga",
+    "warehouse": 3,
+    "shopify": 6,
+    "myntra": 0,
+    "ajio": 7,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": -3,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-224",
+    "name": "Coral Silk Palazzo Set",
+    "warehouse": 28,
+    "shopify": 31,
+    "myntra": 26,
+    "ajio": 26,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": -2,
+      "Ajio": -2
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-225",
+    "name": "Charcoal Georgette Crop Top",
+    "warehouse": 21,
+    "shopify": 19,
+    "myntra": null,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -2
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-226",
+    "name": "Maroon Khadi Tunic",
+    "warehouse": 42,
+    "shopify": 41,
+    "myntra": null,
+    "ajio": 40,
+    "delta": 2,
+    "worstPlatform": "Ajio",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Ajio": -2
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-227",
+    "name": "Mustard Linen Saree",
+    "warehouse": 15,
+    "shopify": null,
+    "myntra": 10,
+    "ajio": null,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": -5,
+    "platformDeltas": {
+      "Myntra": -5
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-228",
+    "name": "Ivory Georgette Shrug",
+    "warehouse": 52,
+    "shopify": 50,
+    "myntra": 49,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": -3
+    },
+    "risk": "green",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-229",
+    "name": "Indigo Silk Saree",
+    "warehouse": 5,
+    "shopify": 3,
+    "myntra": 0,
+    "ajio": 1,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": -5,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": -5,
+      "Ajio": -4
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-230",
+    "name": "Coral Linen Sharara Set",
+    "warehouse": 42,
+    "shopify": 45,
+    "myntra": 44,
+    "ajio": 45,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 2,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-231",
+    "name": "Rust Rayon Lehenga",
+    "warehouse": 59,
+    "shopify": 61,
+    "myntra": 61,
+    "ajio": 62,
+    "delta": 3,
+    "worstPlatform": "Ajio",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 2,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-232",
+    "name": "Maroon Rayon Palazzo Set",
+    "warehouse": 11,
+    "shopify": 14,
+    "myntra": 11,
+    "ajio": 15,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 0,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-233",
+    "name": "Wine Khadi Sharara Set",
+    "warehouse": 60,
+    "shopify": 58,
+    "myntra": 56,
+    "ajio": 57,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": -4,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": -4,
+      "Ajio": -3
+    },
+    "risk": "green",
+    "lastSync": "01 Feb 2026"
+  },
+  {
+    "sku": "SK-SHA-234",
+    "name": "Charcoal Chanderi Sharara Set",
+    "warehouse": 7,
+    "shopify": 4,
+    "myntra": 10,
+    "ajio": 3,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 3,
+      "Ajio": -4
+    },
+    "risk": "amber",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-235",
+    "name": "Coral Viscose Palazzo Set",
+    "warehouse": 54,
+    "shopify": 74,
+    "myntra": null,
+    "ajio": 53,
+    "delta": 20,
+    "worstPlatform": "Shopify",
+    "worstDelta": 20,
+    "platformDeltas": {
+      "Shopify": 20,
+      "Ajio": -1
+    },
+    "risk": "red",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-236",
+    "name": "Navy Chiffon Crop Top",
+    "warehouse": 11,
+    "shopify": 14,
+    "myntra": 8,
+    "ajio": 14,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": -3,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-237",
+    "name": "Wine Chanderi Shrug",
+    "warehouse": 11,
+    "shopify": 10,
+    "myntra": 8,
+    "ajio": 12,
+    "delta": 1,
+    "worstPlatform": "Ajio",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -3,
+      "Ajio": 1
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-238",
+    "name": "Charcoal Rayon Sharara Set",
+    "warehouse": 54,
+    "shopify": 56,
+    "myntra": 52,
+    "ajio": 54,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -2,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-239",
+    "name": "Rust Linen Dupatta",
+    "warehouse": 19,
+    "shopify": 20,
+    "myntra": 14,
+    "ajio": 15,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": -5,
+      "Ajio": -4
+    },
+    "risk": "green",
+    "lastSync": "06 Feb 2026"
+  },
+  {
+    "sku": "SK-ANA-240",
+    "name": "Navy Rayon Anarkali",
+    "warehouse": 39,
+    "shopify": 41,
+    "myntra": 39,
+    "ajio": 42,
+    "delta": 3,
+    "worstPlatform": "Ajio",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 0,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-241",
+    "name": "Charcoal Cotton Palazzo Set",
+    "warehouse": 27,
+    "shopify": 28,
+    "myntra": 26,
+    "ajio": 30,
+    "delta": 3,
+    "worstPlatform": "Ajio",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": -1,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-242",
+    "name": "Olive Cotton Dupatta",
+    "warehouse": 36,
+    "shopify": 36,
+    "myntra": 40,
+    "ajio": 37,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 4,
+      "Ajio": 1
+    },
+    "risk": "amber",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-243",
+    "name": "Maroon Cotton Lehenga",
+    "warehouse": 7,
+    "shopify": 25,
+    "myntra": 7,
+    "ajio": 9,
+    "delta": 18,
+    "worstPlatform": "Shopify",
+    "worstDelta": 18,
+    "platformDeltas": {
+      "Shopify": 18,
+      "Myntra": 0,
+      "Ajio": 2
+    },
+    "risk": "red",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-244",
+    "name": "Teal Viscose Lehenga",
+    "warehouse": 11,
+    "shopify": 13,
+    "myntra": 12,
+    "ajio": 12,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "risk": "green",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-CRO-245",
+    "name": "Mustard Crepe Crop Top",
+    "warehouse": 42,
+    "shopify": 40,
+    "myntra": 45,
+    "ajio": 38,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 3,
+      "Ajio": -4
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-246",
+    "name": "Wine Georgette Dupatta",
+    "warehouse": 4,
+    "shopify": 7,
+    "myntra": 1,
+    "ajio": 5,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": -3,
+      "Ajio": 1
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-248",
+    "name": "Indigo Chiffon Tunic",
+    "warehouse": 35,
+    "shopify": 34,
+    "myntra": 40,
+    "ajio": null,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 5
+    },
+    "risk": "amber",
+    "lastSync": "15 Feb 2026"
+  },
+  {
+    "sku": "SK-LEH-249",
+    "name": "Indigo Cotton Lehenga",
+    "warehouse": 32,
+    "shopify": 34,
+    "myntra": 32,
+    "ajio": 34,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 0,
+      "Ajio": 2
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-250",
+    "name": "Lavender Crepe Tunic",
+    "warehouse": 49,
+    "shopify": 51,
+    "myntra": 46,
+    "ajio": 47,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -3,
+      "Ajio": -2
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-251",
+    "name": "Mustard Georgette Crop Top",
+    "warehouse": 12,
+    "shopify": 9,
+    "myntra": 22,
+    "ajio": 16,
+    "delta": 10,
+    "worstPlatform": "Myntra",
+    "worstDelta": 10,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 10,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-252",
+    "name": "Charcoal Khadi Sharara Set",
+    "warehouse": 60,
+    "shopify": 63,
+    "myntra": 56,
+    "ajio": 63,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": -4,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-253",
+    "name": "Blush Pink Crepe Shrug",
+    "warehouse": 36,
+    "shopify": 34,
+    "myntra": 39,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 3
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-254",
+    "name": "Coral Cotton Palazzo Set",
+    "warehouse": 45,
+    "shopify": 50,
+    "myntra": 42,
+    "ajio": 44,
+    "delta": 5,
+    "worstPlatform": "Shopify",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 5,
+      "Myntra": -3,
+      "Ajio": -1
+    },
+    "risk": "amber",
+    "lastSync": "02 Feb 2026"
+  },
+  {
+    "sku": "SK-SHA-255",
+    "name": "Olive Silk Sharara Set",
+    "warehouse": 40,
+    "shopify": 50,
+    "myntra": 38,
+    "ajio": 36,
+    "delta": 10,
+    "worstPlatform": "Shopify",
+    "worstDelta": 10,
+    "platformDeltas": {
+      "Shopify": 10,
+      "Myntra": -2,
+      "Ajio": -4
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-256",
+    "name": "Coral Chiffon Lehenga",
+    "warehouse": 39,
+    "shopify": 42,
+    "myntra": 40,
+    "ajio": 41,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 1,
+      "Ajio": 2
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-257",
+    "name": "Wine Georgette Anarkali",
+    "warehouse": 54,
+    "shopify": 52,
+    "myntra": 55,
+    "ajio": 53,
+    "delta": 1,
+    "worstPlatform": "Myntra",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 1,
+      "Ajio": -1
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-259",
+    "name": "Wine Viscose Palazzo Set",
+    "warehouse": 0,
+    "shopify": 2,
+    "myntra": 0,
+    "ajio": 0,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 0,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-261",
+    "name": "Navy Viscose Lehenga",
+    "warehouse": 41,
+    "shopify": 66,
+    "myntra": 38,
+    "ajio": null,
+    "delta": 25,
+    "worstPlatform": "Shopify",
+    "worstDelta": 25,
+    "platformDeltas": {
+      "Shopify": 25,
+      "Myntra": -3
+    },
+    "risk": "red",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-262",
+    "name": "Sage Green Viscose Crop Top",
+    "warehouse": 4,
+    "shopify": 4,
+    "myntra": 7,
+    "ajio": 5,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 3,
+      "Ajio": 1
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-263",
+    "name": "Wine Viscose Anarkali",
+    "warehouse": 34,
+    "shopify": 34,
+    "myntra": 31,
+    "ajio": 36,
+    "delta": 2,
+    "worstPlatform": "Ajio",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": -3,
+      "Ajio": 2
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-264",
+    "name": "Coral Linen Tunic",
+    "warehouse": 48,
+    "shopify": 49,
+    "myntra": 50,
+    "ajio": 52,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 2,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-265",
+    "name": "Blush Pink Crepe Dupatta",
+    "warehouse": 14,
+    "shopify": 16,
+    "myntra": 13,
+    "ajio": 10,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -1,
+      "Ajio": -4
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-266",
+    "name": "Sage Green Silk Shrug",
+    "warehouse": 27,
+    "shopify": 24,
+    "myntra": 28,
+    "ajio": 31,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 1,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-267",
+    "name": "Olive Crepe Dupatta",
+    "warehouse": 16,
+    "shopify": 19,
+    "myntra": 12,
+    "ajio": 15,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": -4,
+      "Ajio": -1
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-268",
+    "name": "Rust Cotton Sharara Set",
+    "warehouse": 26,
+    "shopify": 26,
+    "myntra": 24,
+    "ajio": 30,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": -2,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "07 Feb 2026"
+  },
+  {
+    "sku": "SK-SHA-269",
+    "name": "Blush Pink Rayon Sharara Set",
+    "warehouse": 18,
+    "shopify": 17,
+    "myntra": null,
+    "ajio": 22,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-270",
+    "name": "Teal Silk Anarkali",
+    "warehouse": 7,
+    "shopify": 5,
+    "myntra": 2,
+    "ajio": 7,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": -5,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": -5,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-SHA-271",
+    "name": "Ivory Georgette Sharara Set",
+    "warehouse": 34,
+    "shopify": 33,
+    "myntra": 32,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Myntra",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -2
+    },
+    "risk": "green",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-272",
+    "name": "Maroon Chiffon Shrug",
+    "warehouse": 21,
+    "shopify": 22,
+    "myntra": 23,
+    "ajio": 18,
+    "delta": 2,
+    "worstPlatform": "Myntra",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 2,
+      "Ajio": -3
+    },
+    "risk": "green",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-273",
+    "name": "Mustard Georgette Sharara Set",
+    "warehouse": 9,
+    "shopify": 8,
+    "myntra": null,
+    "ajio": 10,
+    "delta": 1,
+    "worstPlatform": "Ajio",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Ajio": 1
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-274",
+    "name": "Charcoal Georgette Crop Top",
+    "warehouse": 41,
+    "shopify": 40,
+    "myntra": 40,
+    "ajio": 40,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -1,
+      "Ajio": -1
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-275",
+    "name": "Peach Georgette Dupatta",
+    "warehouse": 27,
+    "shopify": null,
+    "myntra": 22,
+    "ajio": 31,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Myntra": -5,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-276",
+    "name": "Olive Crepe Crop Top",
+    "warehouse": 1,
+    "shopify": 12,
+    "myntra": 0,
+    "ajio": null,
+    "delta": 11,
+    "worstPlatform": "Shopify",
+    "worstDelta": 11,
+    "platformDeltas": {
+      "Shopify": 11,
+      "Myntra": -1
+    },
+    "risk": "red",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-277",
+    "name": "Sage Green Crepe Anarkali",
+    "warehouse": 38,
+    "shopify": 37,
+    "myntra": 41,
+    "ajio": 40,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 3,
+      "Ajio": 2
+    },
+    "risk": "amber",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-278",
+    "name": "Mustard Khadi Crop Top",
+    "warehouse": 24,
+    "shopify": 21,
+    "myntra": 28,
+    "ajio": 27,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 4,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-279",
+    "name": "Coral Viscose Sharara Set",
+    "warehouse": 60,
+    "shopify": 57,
+    "myntra": 65,
+    "ajio": 60,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 5,
+      "Ajio": 0
+    },
+    "risk": "amber",
+    "lastSync": "08 Feb 2026"
+  },
+  {
+    "sku": "SK-PAL-280",
+    "name": "Ivory Chiffon Palazzo Set",
+    "warehouse": 19,
+    "shopify": 20,
+    "myntra": 19,
+    "ajio": 21,
+    "delta": 2,
+    "worstPlatform": "Ajio",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 0,
+      "Ajio": 2
+    },
+    "risk": "green",
+    "lastSync": "14 Feb 2026"
+  },
+  {
+    "sku": "SK-SAR-281",
+    "name": "Charcoal Chiffon Saree",
+    "warehouse": 52,
+    "shopify": 49,
+    "myntra": 49,
+    "ajio": 53,
+    "delta": 1,
+    "worstPlatform": "Ajio",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": -3,
+      "Ajio": 1
+    },
+    "risk": "green",
+    "lastSync": "14 Feb 2026"
+  },
+  {
+    "sku": "SK-ANA-282",
+    "name": "Ivory Rayon Anarkali",
+    "warehouse": 55,
+    "shopify": null,
+    "myntra": 60,
+    "ajio": 52,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Myntra": 5,
+      "Ajio": -3
+    },
+    "risk": "amber",
+    "lastSync": "12 Feb 2026"
+  },
+  {
+    "sku": "SK-SHR-283",
+    "name": "Peach Georgette Shrug",
+    "warehouse": 49,
+    "shopify": 51,
+    "myntra": 51,
+    "ajio": 49,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 2,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-284",
+    "name": "Indigo Chanderi Crop Top",
+    "warehouse": 35,
+    "shopify": 36,
+    "myntra": 40,
+    "ajio": 36,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 5,
+      "Ajio": 1
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-285",
+    "name": "Mustard Chanderi Dupatta",
+    "warehouse": 32,
+    "shopify": 29,
+    "myntra": 27,
+    "ajio": 28,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": -5,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": -5,
+      "Ajio": -4
+    },
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-286",
+    "name": "Navy Crepe Kurta Set",
+    "warehouse": 19,
+    "shopify": 18,
+    "myntra": 16,
+    "ajio": 23,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -3,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-287",
+    "name": "Indigo Chanderi Anarkali",
+    "warehouse": 7,
+    "shopify": 10,
+    "myntra": 6,
+    "ajio": 6,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": -1,
+      "Ajio": -1
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-288",
+    "name": "Navy Linen Lehenga",
+    "warehouse": 12,
+    "shopify": 9,
+    "myntra": 10,
+    "ajio": 16,
+    "delta": 4,
+    "worstPlatform": "Ajio",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": -2,
+      "Ajio": 4
+    },
+    "risk": "amber",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-289",
+    "name": "Wine Linen Dupatta",
+    "warehouse": 32,
+    "shopify": 30,
+    "myntra": 32,
+    "ajio": 35,
+    "delta": 3,
+    "worstPlatform": "Ajio",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 0,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "05 Feb 2026"
+  },
+  {
+    "sku": "SK-SAR-290",
+    "name": "Ivory Cotton Saree",
+    "warehouse": 52,
+    "shopify": 54,
+    "myntra": 62,
+    "ajio": 52,
+    "delta": 10,
+    "worstPlatform": "Myntra",
+    "worstDelta": 10,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 10,
+      "Ajio": 0
+    },
+    "risk": "amber",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-291",
+    "name": "Navy Rayon Sharara Set",
+    "warehouse": 46,
+    "shopify": 49,
+    "myntra": 50,
+    "ajio": 47,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 4,
+      "Ajio": 1
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-292",
+    "name": "Peach Silk Shrug",
+    "warehouse": 31,
+    "shopify": 51,
+    "myntra": 28,
+    "ajio": 33,
+    "delta": 20,
+    "worstPlatform": "Shopify",
+    "worstDelta": 20,
+    "platformDeltas": {
+      "Shopify": 20,
+      "Myntra": -3,
+      "Ajio": 2
+    },
+    "risk": "red",
+    "lastSync": "05 Feb 2026"
+  },
+  {
+    "sku": "SK-TUN-293",
+    "name": "Maroon Viscose Tunic",
+    "warehouse": 52,
+    "shopify": 53,
+    "myntra": 53,
+    "ajio": 53,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "risk": "green",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-294",
+    "name": "Sage Green Chiffon Kurta Set",
+    "warehouse": 7,
+    "shopify": 31,
+    "myntra": 11,
+    "ajio": null,
+    "delta": 24,
+    "worstPlatform": "Shopify",
+    "worstDelta": 24,
+    "platformDeltas": {
+      "Shopify": 24,
+      "Myntra": 4
+    },
+    "risk": "red",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-295",
+    "name": "Mustard Chanderi Kurta Set",
+    "warehouse": 45,
+    "shopify": 69,
+    "myntra": 44,
+    "ajio": 45,
+    "delta": 24,
+    "worstPlatform": "Shopify",
+    "worstDelta": 24,
+    "platformDeltas": {
+      "Shopify": 24,
+      "Myntra": -1,
+      "Ajio": 0
+    },
+    "risk": "red",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-296",
+    "name": "Coral Viscose Tunic",
+    "warehouse": 60,
+    "shopify": 62,
+    "myntra": 57,
+    "ajio": 61,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -3,
+      "Ajio": 1
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-297",
+    "name": "Blush Pink Silk Kurta Set",
+    "warehouse": 48,
+    "shopify": 50,
+    "myntra": 45,
+    "ajio": 51,
+    "delta": 3,
+    "worstPlatform": "Ajio",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -3,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-298",
+    "name": "Navy Crepe Palazzo Set",
+    "warehouse": 52,
+    "shopify": 50,
+    "myntra": 54,
+    "ajio": 55,
+    "delta": 3,
+    "worstPlatform": "Ajio",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 2,
+      "Ajio": 3
+    },
+    "risk": "amber",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-299",
+    "name": "Lavender Viscose Kurta Set",
+    "warehouse": 59,
+    "shopify": 58,
+    "myntra": 61,
+    "ajio": 57,
+    "delta": 2,
+    "worstPlatform": "Myntra",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 2,
+      "Ajio": -2
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-300",
+    "name": "Mustard Chiffon Tunic",
+    "warehouse": 11,
+    "shopify": 9,
+    "myntra": 12,
+    "ajio": 8,
+    "delta": 1,
+    "worstPlatform": "Myntra",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 1,
+      "Ajio": -3
+    },
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-301",
+    "name": "Sage Green Crepe Tunic",
+    "warehouse": 53,
+    "shopify": 52,
+    "myntra": 48,
+    "ajio": 51,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": -5,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -5,
+      "Ajio": -2
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-302",
+    "name": "Coral Rayon Anarkali",
+    "warehouse": 20,
+    "shopify": 20,
+    "myntra": 20,
+    "ajio": 21,
+    "delta": 1,
+    "worstPlatform": "Ajio",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 0,
+      "Ajio": 1
+    },
+    "risk": "green",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-TUN-303",
+    "name": "Rust Georgette Tunic",
+    "warehouse": 46,
+    "shopify": 49,
+    "myntra": 43,
+    "ajio": 42,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": -3,
+      "Ajio": -4
+    },
+    "risk": "amber",
+    "lastSync": "10 Feb 2026"
+  },
+  {
+    "sku": "SK-SHA-305",
+    "name": "Indigo Chiffon Sharara Set",
+    "warehouse": 15,
+    "shopify": null,
+    "myntra": 31,
+    "ajio": 19,
+    "delta": 16,
+    "worstPlatform": "Myntra",
+    "worstDelta": 16,
+    "platformDeltas": {
+      "Myntra": 16,
+      "Ajio": 4
+    },
+    "risk": "red",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-306",
+    "name": "Lavender Viscose Palazzo Set",
+    "warehouse": 18,
+    "shopify": 17,
+    "myntra": 19,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Myntra",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 1
+    },
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-307",
+    "name": "Peach Chanderi Saree",
+    "warehouse": 13,
+    "shopify": 13,
+    "myntra": 32,
+    "ajio": 15,
+    "delta": 19,
+    "worstPlatform": "Myntra",
+    "worstDelta": 19,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 19,
+      "Ajio": 2
+    },
+    "risk": "red",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-308",
+    "name": "Olive Khadi Dupatta",
+    "warehouse": 45,
+    "shopify": 60,
+    "myntra": 46,
+    "ajio": 45,
+    "delta": 15,
+    "worstPlatform": "Shopify",
+    "worstDelta": 15,
+    "platformDeltas": {
+      "Shopify": 15,
+      "Myntra": 1,
+      "Ajio": 0
+    },
+    "risk": "red",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-309",
+    "name": "Charcoal Chanderi Tunic",
+    "warehouse": 15,
+    "shopify": 14,
+    "myntra": 11,
+    "ajio": 14,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": -4,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -4,
+      "Ajio": -1
+    },
+    "risk": "green",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-SHR-310",
+    "name": "Charcoal Rayon Shrug",
+    "warehouse": 8,
+    "shopify": 8,
+    "myntra": 5,
+    "ajio": 10,
+    "delta": 2,
+    "worstPlatform": "Ajio",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": -3,
+      "Ajio": 2
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-311",
+    "name": "Sage Green Khadi Saree",
+    "warehouse": 58,
+    "shopify": 55,
+    "myntra": 54,
+    "ajio": 60,
+    "delta": 2,
+    "worstPlatform": "Ajio",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": -4,
+      "Ajio": 2
+    },
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-312",
+    "name": "Navy Crepe Lehenga",
+    "warehouse": 60,
+    "shopify": 59,
+    "myntra": 59,
+    "ajio": 60,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -1,
+      "Ajio": 0
+    },
+    "risk": "green",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-PAL-313",
+    "name": "Charcoal Linen Palazzo Set",
+    "warehouse": 42,
+    "shopify": null,
+    "myntra": 41,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Myntra",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Myntra": -1
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-314",
+    "name": "Wine Viscose Saree",
+    "warehouse": 16,
+    "shopify": 16,
+    "myntra": 14,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Myntra",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": -2
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-315",
+    "name": "Mustard Georgette Sharara Set",
+    "warehouse": 36,
+    "shopify": 36,
+    "myntra": 41,
+    "ajio": null,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 5
+    },
+    "risk": "amber",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-316",
+    "name": "Lavender Khadi Shrug",
+    "warehouse": 36,
+    "shopify": 39,
+    "myntra": 39,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 3
+    },
+    "risk": "amber",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-317",
+    "name": "Rust Linen Anarkali",
+    "warehouse": 7,
+    "shopify": 10,
+    "myntra": 9,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 2
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-318",
+    "name": "Sage Green Crepe Dupatta",
+    "warehouse": 1,
+    "shopify": 2,
+    "myntra": 0,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": -1
+    },
+    "risk": "green",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-319",
+    "name": "Teal Cotton Anarkali",
+    "warehouse": 12,
+    "shopify": 13,
+    "myntra": 15,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 3
+    },
+    "risk": "amber",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-320",
+    "name": "Mustard Silk Palazzo Set",
+    "warehouse": 32,
+    "shopify": 32,
+    "myntra": 27,
+    "ajio": null,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": -5,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": -5
+    },
+    "risk": "green",
+    "lastSync": "12 Feb 2026"
+  },
+  {
+    "sku": "SK-SHA-321",
+    "name": "Blush Pink Crepe Sharara Set",
+    "warehouse": 0,
+    "shopify": 0,
+    "myntra": 3,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 3
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-322",
+    "name": "Indigo Georgette Shrug",
+    "warehouse": 34,
+    "shopify": 33,
+    "myntra": 33,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -1
+    },
+    "risk": "green",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-323",
+    "name": "Olive Viscose Crop Top",
+    "warehouse": 57,
+    "shopify": 63,
+    "myntra": 59,
+    "ajio": null,
+    "delta": 6,
+    "worstPlatform": "Shopify",
+    "worstDelta": 6,
+    "platformDeltas": {
+      "Shopify": 6,
+      "Myntra": 2
+    },
+    "risk": "amber",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-324",
+    "name": "Peach Chiffon Anarkali",
+    "warehouse": 44,
+    "shopify": 46,
+    "myntra": 41,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -3
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-325",
+    "name": "Coral Linen Dupatta",
+    "warehouse": 3,
+    "shopify": 2,
+    "myntra": 21,
+    "ajio": null,
+    "delta": 18,
+    "worstPlatform": "Myntra",
+    "worstDelta": 18,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 18
+    },
+    "risk": "red",
+    "lastSync": "05 Feb 2026"
+  },
+  {
+    "sku": "SK-TUN-326",
+    "name": "Teal Linen Tunic",
+    "warehouse": 34,
+    "shopify": null,
+    "myntra": 31,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Myntra": -3
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-327",
+    "name": "Wine Chanderi Kurta Set",
+    "warehouse": 13,
+    "shopify": 13,
+    "myntra": 10,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": -3
+    },
+    "risk": "green",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-328",
+    "name": "Teal Viscose Palazzo Set",
+    "warehouse": 11,
+    "shopify": 14,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3
+    },
+    "risk": "amber",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-SHR-329",
+    "name": "Navy Chanderi Shrug",
+    "warehouse": 24,
+    "shopify": 22,
+    "myntra": 29,
+    "ajio": null,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 5
+    },
+    "risk": "amber",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-330",
+    "name": "Indigo Georgette Crop Top",
+    "warehouse": 2,
+    "shopify": 0,
+    "myntra": 0,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": -2
+    },
+    "risk": "green",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-331",
+    "name": "Coral Khadi Sharara Set",
+    "warehouse": 0,
+    "shopify": 0,
+    "myntra": 9,
+    "ajio": null,
+    "delta": 9,
+    "worstPlatform": "Myntra",
+    "worstDelta": 9,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 9
+    },
+    "risk": "amber",
+    "lastSync": "13 Feb 2026"
+  },
+  {
+    "sku": "SK-CRO-332",
+    "name": "Navy Rayon Crop Top",
+    "warehouse": 36,
+    "shopify": null,
+    "myntra": 32,
+    "ajio": null,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": -4,
+    "platformDeltas": {
+      "Myntra": -4
+    },
+    "risk": "green",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-333",
+    "name": "Maroon Chiffon Shrug",
+    "warehouse": 10,
+    "shopify": 21,
+    "myntra": 5,
+    "ajio": null,
+    "delta": 11,
+    "worstPlatform": "Shopify",
+    "worstDelta": 11,
+    "platformDeltas": {
+      "Shopify": 11,
+      "Myntra": -5
+    },
+    "risk": "red",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-DUP-334",
+    "name": "Peach Linen Dupatta",
+    "warehouse": 9,
+    "shopify": null,
+    "myntra": 8,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Myntra",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Myntra": -1
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-335",
+    "name": "Rust Khadi Lehenga",
+    "warehouse": 36,
+    "shopify": 33,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3
+    },
+    "risk": "green",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-ANA-336",
+    "name": "Mustard Silk Anarkali",
+    "warehouse": 9,
+    "shopify": 8,
+    "myntra": 6,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -3
+    },
+    "risk": "green",
+    "lastSync": "11 Feb 2026"
+  },
+  {
+    "sku": "SK-SAR-337",
+    "name": "Coral Cotton Saree",
+    "warehouse": 25,
+    "shopify": 40,
+    "myntra": 24,
+    "ajio": null,
+    "delta": 15,
+    "worstPlatform": "Shopify",
+    "worstDelta": 15,
+    "platformDeltas": {
+      "Shopify": 15,
+      "Myntra": -1
+    },
+    "risk": "red",
+    "lastSync": "12 Feb 2026"
+  },
+  {
+    "sku": "SK-ANA-338",
+    "name": "Charcoal Rayon Anarkali",
+    "warehouse": 42,
+    "shopify": 41,
+    "myntra": 44,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Myntra",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 2
+    },
+    "risk": "green",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-KUR-339",
+    "name": "Sage Green Silk Kurta Set",
+    "warehouse": 43,
+    "shopify": 42,
+    "myntra": 40,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -3
+    },
+    "risk": "green",
+    "lastSync": "08 Feb 2026"
+  },
+  {
+    "sku": "SK-DUP-340",
+    "name": "Mustard Georgette Dupatta",
+    "warehouse": 38,
+    "shopify": 35,
+    "myntra": 37,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": -1
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-342",
+    "name": "Teal Viscose Crop Top",
+    "warehouse": 34,
+    "shopify": 36,
+    "myntra": 37,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 3
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-343",
+    "name": "Ivory Crepe Lehenga",
+    "warehouse": 8,
+    "shopify": 5,
+    "myntra": 7,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": -1
+    },
+    "risk": "green",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-344",
+    "name": "Sage Green Viscose Saree",
+    "warehouse": 28,
+    "shopify": 25,
+    "myntra": 23,
+    "ajio": null,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": -5,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": -5
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-345",
+    "name": "Charcoal Linen Lehenga",
+    "warehouse": 27,
+    "shopify": null,
+    "myntra": 30,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Myntra": 3
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-346",
+    "name": "Olive Khadi Shrug",
+    "warehouse": 25,
+    "shopify": 23,
+    "myntra": 23,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": -2
+    },
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-347",
+    "name": "Wine Rayon Palazzo Set",
+    "warehouse": 60,
+    "shopify": 57,
+    "myntra": 61,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Myntra",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 1
+    },
+    "risk": "green",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-348",
+    "name": "Coral Silk Sharara Set",
+    "warehouse": 10,
+    "shopify": 20,
+    "myntra": 15,
+    "ajio": null,
+    "delta": 10,
+    "worstPlatform": "Shopify",
+    "worstDelta": 10,
+    "platformDeltas": {
+      "Shopify": 10,
+      "Myntra": 5
+    },
+    "risk": "amber",
+    "lastSync": "01 Feb 2026"
+  },
+  {
+    "sku": "SK-ANA-349",
+    "name": "Mustard Cotton Anarkali",
+    "warehouse": 21,
+    "shopify": 32,
+    "myntra": null,
+    "ajio": null,
+    "delta": 11,
+    "worstPlatform": "Shopify",
+    "worstDelta": 11,
+    "platformDeltas": {
+      "Shopify": 11
+    },
+    "risk": "red",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-350",
+    "name": "Mustard Silk Saree",
+    "warehouse": 25,
+    "shopify": 26,
+    "myntra": 41,
+    "ajio": null,
+    "delta": 16,
+    "worstPlatform": "Myntra",
+    "worstDelta": 16,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 16
+    },
+    "risk": "red",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-351",
+    "name": "Peach Cotton Palazzo Set",
+    "warehouse": 7,
+    "shopify": 4,
+    "myntra": 16,
+    "ajio": null,
+    "delta": 9,
+    "worstPlatform": "Myntra",
+    "worstDelta": 9,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": 9
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-352",
+    "name": "Blush Pink Khadi Shrug",
+    "warehouse": 8,
+    "shopify": 8,
+    "myntra": 11,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 3
+    },
+    "risk": "amber",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-353",
+    "name": "Lavender Silk Dupatta",
+    "warehouse": 24,
+    "shopify": 39,
+    "myntra": 20,
+    "ajio": null,
+    "delta": 15,
+    "worstPlatform": "Shopify",
+    "worstDelta": 15,
+    "platformDeltas": {
+      "Shopify": 15,
+      "Myntra": -4
+    },
+    "risk": "red",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-354",
+    "name": "Olive Viscose Crop Top",
+    "warehouse": 24,
+    "shopify": null,
+    "myntra": 28,
+    "ajio": null,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Myntra": 4
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-355",
+    "name": "Coral Silk Palazzo Set",
+    "warehouse": 56,
+    "shopify": 68,
+    "myntra": 52,
+    "ajio": null,
+    "delta": 12,
+    "worstPlatform": "Shopify",
+    "worstDelta": 12,
+    "platformDeltas": {
+      "Shopify": 12,
+      "Myntra": -4
+    },
+    "risk": "red",
+    "lastSync": "02 Feb 2026"
+  },
+  {
+    "sku": "SK-TUN-356",
+    "name": "Coral Crepe Tunic",
+    "warehouse": 35,
+    "shopify": 34,
+    "myntra": 34,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": -1
+    },
+    "risk": "green",
+    "lastSync": "11 Feb 2026"
+  },
+  {
+    "sku": "SK-SAR-357",
+    "name": "Lavender Crepe Saree",
+    "warehouse": 16,
+    "shopify": 13,
+    "myntra": 14,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": -2
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-358",
+    "name": "Olive Cotton Sharara Set",
+    "warehouse": 60,
+    "shopify": 59,
+    "myntra": 61,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Myntra",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 1
+    },
+    "risk": "green",
+    "lastSync": "01 Feb 2026"
+  },
+  {
+    "sku": "SK-PAL-359",
+    "name": "Blush Pink Silk Palazzo Set",
+    "warehouse": 6,
+    "shopify": 15,
+    "myntra": 1,
+    "ajio": null,
+    "delta": 9,
+    "worstPlatform": "Shopify",
+    "worstDelta": 9,
+    "platformDeltas": {
+      "Shopify": 9,
+      "Myntra": -5
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-360",
+    "name": "Navy Viscose Crop Top",
+    "warehouse": 9,
+    "shopify": 10,
+    "myntra": 8,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": -1
+    },
+    "risk": "green",
+    "lastSync": "15 Feb 2026"
+  },
+  {
+    "sku": "SK-TUN-361",
+    "name": "Charcoal Silk Tunic",
+    "warehouse": 25,
+    "shopify": 26,
+    "myntra": 25,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 0
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-362",
+    "name": "Blush Pink Viscose Crop Top",
+    "warehouse": 40,
+    "shopify": 38,
+    "myntra": 42,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Myntra",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 2
+    },
+    "risk": "green",
+    "lastSync": "10 Feb 2026"
+  },
+  {
+    "sku": "SK-PAL-363",
+    "name": "Peach Silk Palazzo Set",
+    "warehouse": 6,
+    "shopify": 4,
+    "myntra": 9,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 3
+    },
+    "risk": "amber",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-KUR-364",
+    "name": "Mustard Crepe Kurta Set",
+    "warehouse": 11,
+    "shopify": 10,
+    "myntra": 12,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Myntra",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 1
+    },
+    "risk": "green",
+    "lastSync": "08 Feb 2026"
+  },
+  {
+    "sku": "SK-LEH-365",
+    "name": "Sage Green Viscose Lehenga",
+    "warehouse": 38,
+    "shopify": null,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {},
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-366",
+    "name": "Maroon Viscose Tunic",
+    "warehouse": 5,
+    "shopify": 15,
+    "myntra": 9,
+    "ajio": null,
+    "delta": 10,
+    "worstPlatform": "Shopify",
+    "worstDelta": 10,
+    "platformDeltas": {
+      "Shopify": 10,
+      "Myntra": 4
+    },
+    "risk": "amber",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-367",
+    "name": "Peach Silk Lehenga",
+    "warehouse": 1,
+    "shopify": 2,
+    "myntra": null,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-368",
+    "name": "Ivory Crepe Anarkali",
+    "warehouse": 19,
+    "shopify": null,
+    "myntra": 16,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Myntra": -3
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-369",
+    "name": "Olive Chanderi Kurta Set",
+    "warehouse": 24,
+    "shopify": null,
+    "myntra": 19,
+    "ajio": null,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": -5,
+    "platformDeltas": {
+      "Myntra": -5
+    },
+    "risk": "green",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-370",
+    "name": "Wine Crepe Sharara Set",
+    "warehouse": 46,
+    "shopify": 45,
+    "myntra": 47,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Myntra",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 1
+    },
+    "risk": "green",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-371",
+    "name": "Coral Georgette Crop Top",
+    "warehouse": 60,
+    "shopify": 62,
+    "myntra": 57,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -3
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-372",
+    "name": "Charcoal Silk Shrug",
+    "warehouse": 45,
+    "shopify": 47,
+    "myntra": 42,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -3
+    },
+    "risk": "green",
+    "lastSync": "15 Feb 2026"
+  },
+  {
+    "sku": "SK-KUR-373",
+    "name": "Rust Khadi Kurta Set",
+    "warehouse": 39,
+    "shopify": 39,
+    "myntra": 38,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Myntra",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": -1
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-374",
+    "name": "Olive Chanderi Anarkali",
+    "warehouse": 42,
+    "shopify": null,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {},
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-375",
+    "name": "Sage Green Linen Palazzo Set",
+    "warehouse": 32,
+    "shopify": 30,
+    "myntra": 31,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": -1
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-376",
+    "name": "Peach Viscose Anarkali",
+    "warehouse": 56,
+    "shopify": 54,
+    "myntra": 56,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 0
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-377",
+    "name": "Indigo Viscose Kurta Set",
+    "warehouse": 10,
+    "shopify": 8,
+    "myntra": 24,
+    "ajio": null,
+    "delta": 14,
+    "worstPlatform": "Myntra",
+    "worstDelta": 14,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 14
+    },
+    "risk": "red",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-378",
+    "name": "Lavender Linen Dupatta",
+    "warehouse": 49,
+    "shopify": 50,
+    "myntra": 52,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": 3
+    },
+    "risk": "amber",
+    "lastSync": "04 Feb 2026"
+  },
+  {
+    "sku": "SK-SHR-379",
+    "name": "Coral Rayon Shrug",
+    "warehouse": 0,
+    "shopify": 0,
+    "myntra": 0,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 0
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-380",
+    "name": "Maroon Silk Saree",
+    "warehouse": 33,
+    "shopify": 33,
+    "myntra": 34,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Myntra",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 1
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-381",
+    "name": "Ivory Crepe Saree",
+    "warehouse": 52,
+    "shopify": 58,
+    "myntra": 52,
+    "ajio": null,
+    "delta": 6,
+    "worstPlatform": "Shopify",
+    "worstDelta": 6,
+    "platformDeltas": {
+      "Shopify": 6,
+      "Myntra": 0
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-382",
+    "name": "Navy Cotton Dupatta",
+    "warehouse": 1,
+    "shopify": 18,
+    "myntra": 18,
+    "ajio": null,
+    "delta": 17,
+    "worstPlatform": "Shopify",
+    "worstDelta": 17,
+    "platformDeltas": {
+      "Shopify": 17,
+      "Myntra": 17
+    },
+    "risk": "red",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-TUN-383",
+    "name": "Teal Georgette Tunic",
+    "warehouse": 31,
+    "shopify": 33,
+    "myntra": 26,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -5
+    },
+    "risk": "green",
+    "lastSync": "12 Feb 2026"
+  },
+  {
+    "sku": "SK-KUR-384",
+    "name": "Blush Pink Viscose Kurta Set",
+    "warehouse": 12,
+    "shopify": 31,
+    "myntra": 16,
+    "ajio": null,
+    "delta": 19,
+    "worstPlatform": "Shopify",
+    "worstDelta": 19,
+    "platformDeltas": {
+      "Shopify": 19,
+      "Myntra": 4
+    },
+    "risk": "red",
+    "lastSync": "02 Feb 2026"
+  },
+  {
+    "sku": "SK-LEH-385",
+    "name": "Coral Rayon Lehenga",
+    "warehouse": 2,
+    "shopify": 2,
+    "myntra": 4,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Myntra",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 2
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-386",
+    "name": "Teal Khadi Tunic",
+    "warehouse": 2,
+    "shopify": 4,
+    "myntra": 0,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -2
+    },
+    "risk": "green",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-387",
+    "name": "Navy Khadi Sharara Set",
+    "warehouse": 46,
+    "shopify": 48,
+    "myntra": 48,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 2
+    },
+    "risk": "green",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-388",
+    "name": "Sage Green Georgette Palazzo Set",
+    "warehouse": 40,
+    "shopify": 40,
+    "myntra": 37,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": -3
+    },
+    "risk": "green",
+    "lastSync": "15 Feb 2026"
+  },
+  {
+    "sku": "SK-TUN-389",
+    "name": "Teal Khadi Tunic",
+    "warehouse": 10,
+    "shopify": 13,
+    "myntra": 12,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 2
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-390",
+    "name": "Rust Viscose Palazzo Set",
+    "warehouse": 29,
+    "shopify": 47,
+    "myntra": null,
+    "ajio": null,
+    "delta": 18,
+    "worstPlatform": "Shopify",
+    "worstDelta": 18,
+    "platformDeltas": {
+      "Shopify": 18
+    },
+    "risk": "red",
+    "lastSync": "10 Feb 2026"
+  },
+  {
+    "sku": "SK-CRO-391",
+    "name": "Rust Chanderi Crop Top",
+    "warehouse": 53,
+    "shopify": 55,
+    "myntra": 58,
+    "ajio": null,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": 5
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-392",
+    "name": "Sage Green Chiffon Crop Top",
+    "warehouse": 34,
+    "shopify": 32,
+    "myntra": 48,
+    "ajio": null,
+    "delta": 14,
+    "worstPlatform": "Myntra",
+    "worstDelta": 14,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 14
+    },
+    "risk": "red",
+    "lastSync": "15 Feb 2026"
+  },
+  {
+    "sku": "SK-TUN-393",
+    "name": "Navy Linen Tunic",
+    "warehouse": 0,
+    "shopify": 0,
+    "myntra": 0,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 0
+    },
+    "risk": "green",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-394",
+    "name": "Ivory Khadi Crop Top",
+    "warehouse": 0,
+    "shopify": 3,
+    "myntra": 0,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 0
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-395",
+    "name": "Lavender Viscose Lehenga",
+    "warehouse": 25,
+    "shopify": 25,
+    "myntra": 28,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Myntra",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 0,
+      "Myntra": 3
+    },
+    "risk": "amber",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-396",
+    "name": "Olive Chiffon Dupatta",
+    "warehouse": 1,
+    "shopify": 3,
+    "myntra": 0,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2,
+      "Myntra": -1
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-397",
+    "name": "Blush Pink Cotton Palazzo Set",
+    "warehouse": 44,
+    "shopify": 42,
+    "myntra": 52,
+    "ajio": null,
+    "delta": 8,
+    "worstPlatform": "Myntra",
+    "worstDelta": 8,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 8
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-398",
+    "name": "Maroon Rayon Crop Top",
+    "warehouse": 24,
+    "shopify": 44,
+    "myntra": 24,
+    "ajio": null,
+    "delta": 20,
+    "worstPlatform": "Shopify",
+    "worstDelta": 20,
+    "platformDeltas": {
+      "Shopify": 20,
+      "Myntra": 0
+    },
+    "risk": "red",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-399",
+    "name": "Indigo Cotton Anarkali",
+    "warehouse": 13,
+    "shopify": 14,
+    "myntra": 10,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1,
+      "Myntra": -3
+    },
+    "risk": "green",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-400",
+    "name": "Coral Rayon Palazzo Set",
+    "warehouse": 1,
+    "shopify": 9,
+    "myntra": 0,
+    "ajio": null,
+    "delta": 8,
+    "worstPlatform": "Shopify",
+    "worstDelta": 8,
+    "platformDeltas": {
+      "Shopify": 8,
+      "Myntra": -1
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-401",
+    "name": "Maroon Chiffon Dupatta",
+    "warehouse": 58,
+    "shopify": 78,
+    "myntra": 61,
+    "ajio": null,
+    "delta": 20,
+    "worstPlatform": "Shopify",
+    "worstDelta": 20,
+    "platformDeltas": {
+      "Shopify": 20,
+      "Myntra": 3
+    },
+    "risk": "red",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-402",
+    "name": "Indigo Rayon Palazzo Set",
+    "warehouse": 55,
+    "shopify": 53,
+    "myntra": 50,
+    "ajio": null,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": -5,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": -5
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-403",
+    "name": "Indigo Silk Crop Top",
+    "warehouse": 58,
+    "shopify": 56,
+    "myntra": 62,
+    "ajio": null,
+    "delta": 4,
+    "worstPlatform": "Myntra",
+    "worstDelta": 4,
+    "platformDeltas": {
+      "Shopify": -2,
+      "Myntra": 4
+    },
+    "risk": "amber",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-404",
+    "name": "Wine Rayon Kurta Set",
+    "warehouse": 15,
+    "shopify": 18,
+    "myntra": 18,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3,
+      "Myntra": 3
+    },
+    "risk": "amber",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-405",
+    "name": "Sage Green Khadi Dupatta",
+    "warehouse": 51,
+    "shopify": 63,
+    "myntra": 53,
+    "ajio": null,
+    "delta": 12,
+    "worstPlatform": "Shopify",
+    "worstDelta": 12,
+    "platformDeltas": {
+      "Shopify": 12,
+      "Myntra": 2
+    },
+    "risk": "red",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-406",
+    "name": "Mustard Linen Anarkali",
+    "warehouse": 40,
+    "shopify": 64,
+    "myntra": 41,
+    "ajio": null,
+    "delta": 24,
+    "worstPlatform": "Shopify",
+    "worstDelta": 24,
+    "platformDeltas": {
+      "Shopify": 24,
+      "Myntra": 1
+    },
+    "risk": "red",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-407",
+    "name": "Teal Chiffon Anarkali",
+    "warehouse": 27,
+    "shopify": 24,
+    "myntra": 22,
+    "ajio": null,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": -5,
+    "platformDeltas": {
+      "Shopify": -3,
+      "Myntra": -5
+    },
+    "risk": "green",
+    "lastSync": "09 Feb 2026"
+  },
+  {
+    "sku": "SK-CRO-408",
+    "name": "Maroon Chiffon Crop Top",
+    "warehouse": 29,
+    "shopify": 28,
+    "myntra": 34,
+    "ajio": null,
+    "delta": 5,
+    "worstPlatform": "Myntra",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": -1,
+      "Myntra": 5
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-409",
+    "name": "Ivory Viscose Dupatta",
+    "warehouse": 6,
+    "shopify": 4,
+    "myntra": null,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -2
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-410",
+    "name": "Blush Pink Chiffon Crop Top",
+    "warehouse": 52,
+    "shopify": 66,
+    "myntra": null,
+    "ajio": null,
+    "delta": 14,
+    "worstPlatform": "Shopify",
+    "worstDelta": 14,
+    "platformDeltas": {
+      "Shopify": 14
+    },
+    "risk": "red",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-411",
+    "name": "Olive Georgette Crop Top",
+    "warehouse": 10,
+    "shopify": 13,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-412",
+    "name": "Coral Cotton Shrug",
+    "warehouse": 57,
+    "shopify": 60,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3
+    },
+    "risk": "amber",
+    "lastSync": "07 Feb 2026"
+  },
+  {
+    "sku": "SK-TUN-413",
+    "name": "Coral Chanderi Tunic",
+    "warehouse": 27,
+    "shopify": null,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {},
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-PAL-414",
+    "name": "Wine Cotton Palazzo Set",
+    "warehouse": 60,
+    "shopify": 71,
+    "myntra": null,
+    "ajio": null,
+    "delta": 11,
+    "worstPlatform": "Shopify",
+    "worstDelta": 11,
+    "platformDeltas": {
+      "Shopify": 11
+    },
+    "risk": "red",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-415",
+    "name": "Peach Viscose Kurta Set",
+    "warehouse": 44,
+    "shopify": 42,
+    "myntra": null,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -2
+    },
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-416",
+    "name": "Blush Pink Silk Anarkali",
+    "warehouse": 38,
+    "shopify": 43,
+    "myntra": null,
+    "ajio": null,
+    "delta": 5,
+    "worstPlatform": "Shopify",
+    "worstDelta": 5,
+    "platformDeltas": {
+      "Shopify": 5
+    },
+    "risk": "amber",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-417",
+    "name": "Navy Georgette Shrug",
+    "warehouse": 14,
+    "shopify": 17,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3
+    },
+    "risk": "amber",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-SAR-418",
+    "name": "Navy Rayon Saree",
+    "warehouse": 50,
+    "shopify": 71,
+    "myntra": null,
+    "ajio": null,
+    "delta": 21,
+    "worstPlatform": "Shopify",
+    "worstDelta": 21,
+    "platformDeltas": {
+      "Shopify": 21
+    },
+    "risk": "red",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-419",
+    "name": "Rust Rayon Anarkali",
+    "warehouse": 47,
+    "shopify": 62,
+    "myntra": null,
+    "ajio": null,
+    "delta": 15,
+    "worstPlatform": "Shopify",
+    "worstDelta": 15,
+    "platformDeltas": {
+      "Shopify": 15
+    },
+    "risk": "red",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-420",
+    "name": "Olive Cotton Kurta Set",
+    "warehouse": 43,
+    "shopify": 43,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0
+    },
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-421",
+    "name": "Indigo Chiffon Shrug",
+    "warehouse": 45,
+    "shopify": 45,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0
+    },
+    "risk": "green",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-422",
+    "name": "Wine Georgette Shrug",
+    "warehouse": 53,
+    "shopify": 56,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3
+    },
+    "risk": "amber",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-423",
+    "name": "Charcoal Silk Crop Top",
+    "warehouse": 29,
+    "shopify": 31,
+    "myntra": null,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-424",
+    "name": "Mustard Crepe Anarkali",
+    "warehouse": 6,
+    "shopify": 9,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3
+    },
+    "risk": "amber",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-425",
+    "name": "Rust Chanderi Kurta Set",
+    "warehouse": 31,
+    "shopify": 41,
+    "myntra": null,
+    "ajio": null,
+    "delta": 10,
+    "worstPlatform": "Shopify",
+    "worstDelta": 10,
+    "platformDeltas": {
+      "Shopify": 10
+    },
+    "risk": "amber",
+    "lastSync": "15 Feb 2026"
+  },
+  {
+    "sku": "SK-PAL-426",
+    "name": "Rust Rayon Palazzo Set",
+    "warehouse": 7,
+    "shopify": 7,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-427",
+    "name": "Blush Pink Chiffon Crop Top",
+    "warehouse": 53,
+    "shopify": 51,
+    "myntra": null,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -2
+    },
+    "risk": "green",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-428",
+    "name": "Blush Pink Crepe Sharara Set",
+    "warehouse": 47,
+    "shopify": 48,
+    "myntra": null,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1
+    },
+    "risk": "green",
+    "lastSync": "15 Feb 2026"
+  },
+  {
+    "sku": "SK-CRO-429",
+    "name": "Sage Green Crepe Crop Top",
+    "warehouse": 17,
+    "shopify": 17,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0
+    },
+    "risk": "green",
+    "lastSync": "09 Feb 2026"
+  },
+  {
+    "sku": "SK-SHR-430",
+    "name": "Lavender Georgette Shrug",
+    "warehouse": 1,
+    "shopify": 4,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3
+    },
+    "risk": "amber",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-ANA-431",
+    "name": "Lavender Cotton Anarkali",
+    "warehouse": 59,
+    "shopify": 56,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-432",
+    "name": "Blush Pink Cotton Sharara Set",
+    "warehouse": 37,
+    "shopify": 40,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-433",
+    "name": "Navy Chanderi Shrug",
+    "warehouse": 54,
+    "shopify": 73,
+    "myntra": null,
+    "ajio": null,
+    "delta": 19,
+    "worstPlatform": "Shopify",
+    "worstDelta": 19,
+    "platformDeltas": {
+      "Shopify": 19
+    },
+    "risk": "red",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-434",
+    "name": "Charcoal Linen Saree",
+    "warehouse": 0,
+    "shopify": 0,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0
+    },
+    "risk": "green",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-435",
+    "name": "Blush Pink Viscose Lehenga",
+    "warehouse": 10,
+    "shopify": 11,
+    "myntra": null,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1
+    },
+    "risk": "green",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-436",
+    "name": "Charcoal Chanderi Tunic",
+    "warehouse": 47,
+    "shopify": 49,
+    "myntra": null,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-437",
+    "name": "Wine Chiffon Shrug",
+    "warehouse": 10,
+    "shopify": 10,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-438",
+    "name": "Mustard Silk Kurta Set",
+    "warehouse": 3,
+    "shopify": 3,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0
+    },
+    "risk": "green",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-439",
+    "name": "Peach Georgette Shrug",
+    "warehouse": 55,
+    "shopify": 54,
+    "myntra": null,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Shopify": -1
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-440",
+    "name": "Lavender Cotton Crop Top",
+    "warehouse": 1,
+    "shopify": null,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {},
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-441",
+    "name": "Navy Silk Lehenga",
+    "warehouse": 47,
+    "shopify": 47,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0
+    },
+    "risk": "green",
+    "lastSync": "01 Feb 2026"
+  },
+  {
+    "sku": "SK-PAL-442",
+    "name": "Rust Crepe Palazzo Set",
+    "warehouse": 34,
+    "shopify": 42,
+    "myntra": null,
+    "ajio": null,
+    "delta": 8,
+    "worstPlatform": "Shopify",
+    "worstDelta": 8,
+    "platformDeltas": {
+      "Shopify": 8
+    },
+    "risk": "amber",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-443",
+    "name": "Mustard Chanderi Anarkali",
+    "warehouse": 49,
+    "shopify": 65,
+    "myntra": null,
+    "ajio": null,
+    "delta": 16,
+    "worstPlatform": "Shopify",
+    "worstDelta": 16,
+    "platformDeltas": {
+      "Shopify": 16
+    },
+    "risk": "red",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-444",
+    "name": "Indigo Linen Lehenga",
+    "warehouse": 17,
+    "shopify": 14,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3
+    },
+    "risk": "green",
+    "lastSync": "03 Feb 2026"
+  },
+  {
+    "sku": "SK-LEH-445",
+    "name": "Charcoal Viscose Lehenga",
+    "warehouse": 22,
+    "shopify": 20,
+    "myntra": null,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -2
+    },
+    "risk": "green",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-SHA-446",
+    "name": "Lavender Chiffon Sharara Set",
+    "warehouse": 9,
+    "shopify": 12,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3
+    },
+    "risk": "amber",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-ANA-447",
+    "name": "Charcoal Linen Anarkali",
+    "warehouse": 39,
+    "shopify": 38,
+    "myntra": null,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Shopify": -1
+    },
+    "risk": "green",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-448",
+    "name": "Wine Chanderi Anarkali",
+    "warehouse": 14,
+    "shopify": 17,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-449",
+    "name": "Navy Chiffon Lehenga",
+    "warehouse": 39,
+    "shopify": 37,
+    "myntra": null,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -2
+    },
+    "risk": "green",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-450",
+    "name": "Wine Georgette Crop Top",
+    "warehouse": 37,
+    "shopify": null,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {},
+    "risk": "green",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-SAR-451",
+    "name": "Coral Chiffon Saree",
+    "warehouse": 7,
+    "shopify": 6,
+    "myntra": null,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Shopify": -1
+    },
+    "risk": "green",
+    "lastSync": "15 Feb 2026"
+  },
+  {
+    "sku": "SK-LEH-452",
+    "name": "Coral Crepe Lehenga",
+    "warehouse": 37,
+    "shopify": 52,
+    "myntra": null,
+    "ajio": null,
+    "delta": 15,
+    "worstPlatform": "Shopify",
+    "worstDelta": 15,
+    "platformDeltas": {
+      "Shopify": 15
+    },
+    "risk": "red",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-453",
+    "name": "Mustard Linen Anarkali",
+    "warehouse": 7,
+    "shopify": 7,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-454",
+    "name": "Mustard Crepe Anarkali",
+    "warehouse": 17,
+    "shopify": 17,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-DUP-455",
+    "name": "Ivory Linen Dupatta",
+    "warehouse": 36,
+    "shopify": 37,
+    "myntra": null,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1
+    },
+    "risk": "green",
+    "lastSync": "03 Feb 2026"
+  },
+  {
+    "sku": "SK-DUP-456",
+    "name": "Charcoal Cotton Dupatta",
+    "warehouse": 11,
+    "shopify": null,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {},
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-457",
+    "name": "Charcoal Viscose Sharara Set",
+    "warehouse": 8,
+    "shopify": 7,
+    "myntra": null,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Shopify": -1
+    },
+    "risk": "green",
+    "lastSync": "14 Feb 2026"
+  },
+  {
+    "sku": "SK-ANA-458",
+    "name": "Lavender Crepe Anarkali",
+    "warehouse": 32,
+    "shopify": 32,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-459",
+    "name": "Navy Linen Tunic",
+    "warehouse": 7,
+    "shopify": 4,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3
+    },
+    "risk": "green",
+    "lastSync": "12 Feb 2026"
+  },
+  {
+    "sku": "SK-SAR-460",
+    "name": "Charcoal Rayon Saree",
+    "warehouse": 56,
+    "shopify": 59,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3
+    },
+    "risk": "amber",
+    "lastSync": "03 Feb 2026"
+  },
+  {
+    "sku": "SK-SHR-461",
+    "name": "Blush Pink Crepe Shrug",
+    "warehouse": 45,
+    "shopify": 61,
+    "myntra": null,
+    "ajio": null,
+    "delta": 16,
+    "worstPlatform": "Shopify",
+    "worstDelta": 16,
+    "platformDeltas": {
+      "Shopify": 16
+    },
+    "risk": "red",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-KUR-462",
+    "name": "Mustard Linen Kurta Set",
+    "warehouse": 13,
+    "shopify": 14,
+    "myntra": null,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1
+    },
+    "risk": "green",
+    "lastSync": "10 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-463",
+    "name": "Peach Linen Lehenga",
+    "warehouse": 33,
+    "shopify": 34,
+    "myntra": null,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1
+    },
+    "risk": "green",
+    "lastSync": "08 Feb 2026"
+  },
+  {
+    "sku": "SK-SHR-464",
+    "name": "Rust Cotton Shrug",
+    "warehouse": 38,
+    "shopify": 40,
+    "myntra": null,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": 2,
+    "platformDeltas": {
+      "Shopify": 2
+    },
+    "risk": "green",
+    "lastSync": "02 Feb 2026"
+  },
+  {
+    "sku": "SK-TUN-465",
+    "name": "Navy Chanderi Tunic",
+    "warehouse": 32,
+    "shopify": 31,
+    "myntra": null,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Shopify": -1
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-466",
+    "name": "Teal Viscose Lehenga",
+    "warehouse": 37,
+    "shopify": 34,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-467",
+    "name": "Charcoal Cotton Shrug",
+    "warehouse": 31,
+    "shopify": 29,
+    "myntra": null,
+    "ajio": null,
+    "delta": 2,
+    "worstPlatform": "Shopify",
+    "worstDelta": -2,
+    "platformDeltas": {
+      "Shopify": -2
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-SHA-471",
+    "name": "Mustard Cotton Sharara Set",
+    "warehouse": 45,
+    "shopify": 48,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3
+    },
+    "risk": "amber",
+    "lastSync": "17 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-472",
+    "name": "Navy Chiffon Lehenga",
+    "warehouse": 8,
+    "shopify": 7,
+    "myntra": null,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Shopify": -1
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-473",
+    "name": "Ivory Chiffon Shrug",
+    "warehouse": 47,
+    "shopify": 47,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0
+    },
+    "risk": "green",
+    "lastSync": "03 Feb 2026"
+  },
+  {
+    "sku": "SK-TUN-474",
+    "name": "Maroon Silk Tunic",
+    "warehouse": 55,
+    "shopify": 56,
+    "myntra": null,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-475",
+    "name": "Rust Linen Crop Top",
+    "warehouse": 10,
+    "shopify": 10,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-476",
+    "name": "Navy Khadi Anarkali",
+    "warehouse": 56,
+    "shopify": null,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {},
+    "risk": "green",
+    "lastSync": "03 Feb 2026"
+  },
+  {
+    "sku": "SK-PAL-477",
+    "name": "Olive Rayon Palazzo Set",
+    "warehouse": 15,
+    "shopify": 16,
+    "myntra": null,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-ANA-478",
+    "name": "Rust Georgette Anarkali",
+    "warehouse": 25,
+    "shopify": 22,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3
+    },
+    "risk": "green",
+    "lastSync": "15 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-479",
+    "name": "Maroon Rayon Shrug",
+    "warehouse": 52,
+    "shopify": 51,
+    "myntra": null,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": -1,
+    "platformDeltas": {
+      "Shopify": -1
+    },
+    "risk": "green",
+    "lastSync": "08 Feb 2026"
+  },
+  {
+    "sku": "SK-SHA-480",
+    "name": "Indigo Khadi Sharara Set",
+    "warehouse": 53,
+    "shopify": null,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {},
+    "risk": "green",
+    "lastSync": null
+  },
+  {
+    "sku": "SK-PAL-481",
+    "name": "Rust Georgette Palazzo Set",
+    "warehouse": 48,
+    "shopify": 60,
+    "myntra": null,
+    "ajio": null,
+    "delta": 12,
+    "worstPlatform": "Shopify",
+    "worstDelta": 12,
+    "platformDeltas": {
+      "Shopify": 12
+    },
+    "risk": "red",
+    "lastSync": "12 Mar 2026"
+  },
+  {
+    "sku": "SK-TUN-482",
+    "name": "Olive Linen Tunic",
+    "warehouse": 19,
+    "shopify": 20,
+    "myntra": null,
+    "ajio": null,
+    "delta": 1,
+    "worstPlatform": "Shopify",
+    "worstDelta": 1,
+    "platformDeltas": {
+      "Shopify": 1
+    },
+    "risk": "green",
+    "lastSync": "16 Mar 2026"
+  },
+  {
+    "sku": "SK-LEH-483",
+    "name": "Blush Pink Khadi Lehenga",
+    "warehouse": 1,
+    "shopify": 1,
+    "myntra": null,
+    "ajio": null,
+    "delta": 0,
+    "worstPlatform": null,
+    "worstDelta": 0,
+    "platformDeltas": {
+      "Shopify": 0
+    },
+    "risk": "green",
+    "lastSync": "11 Mar 2026"
+  },
+  {
+    "sku": "SK-SHR-484",
+    "name": "Rust Khadi Shrug",
+    "warehouse": 59,
+    "shopify": 62,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": 3,
+    "platformDeltas": {
+      "Shopify": 3
+    },
+    "risk": "amber",
+    "lastSync": "13 Mar 2026"
+  },
+  {
+    "sku": "SK-CRO-485",
+    "name": "Rust Chiffon Crop Top",
+    "warehouse": 45,
+    "shopify": 42,
+    "myntra": null,
+    "ajio": null,
+    "delta": 3,
+    "worstPlatform": "Shopify",
+    "worstDelta": -3,
+    "platformDeltas": {
+      "Shopify": -3
+    },
+    "risk": "green",
+    "lastSync": "14 Mar 2026"
+  }
+]

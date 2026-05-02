@@ -1,0 +1,7291 @@
+[
+  {
+    "sku": "SK-LEH-367",
+    "name": "Peach Silk Lehenga",
+    "returnCount": 4,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "better price on myntra",
+    "platforms": {
+      "Myntra": 2,
+      "Ajio": 2
+    },
+    "refundTotal": 8060
+  },
+  {
+    "sku": "SK-DUP-318",
+    "name": "Sage Green Crepe Dupatta",
+    "returnCount": 2,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 3821
+  },
+  {
+    "sku": "SK-DUP-045",
+    "name": "Zari Silk Dupatta",
+    "returnCount": 72,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Ajio": 25,
+      "Shopify": 30,
+      "Myntra": 17
+    },
+    "refundTotal": 159425
+  },
+  {
+    "sku": "SK-PAL-003",
+    "name": "Cotton Palazzo Set",
+    "returnCount": 88,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 36,
+      "Ajio": 35,
+      "Myntra": 17
+    },
+    "refundTotal": 189382
+  },
+  {
+    "sku": "SK-SAR-112",
+    "name": "Chanderi Saree",
+    "returnCount": 71,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 34,
+      "Ajio": 23,
+      "Myntra": 14
+    },
+    "refundTotal": 142543
+  },
+  {
+    "sku": "SK-KUR-001",
+    "name": "Indigo Kurta Set",
+    "returnCount": 82,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Ajio": 35,
+      "Myntra": 21,
+      "Shopify": 26
+    },
+    "refundTotal": 164961
+  },
+  {
+    "sku": "SK-TUN-088",
+    "name": "Teal Rayon Tunic",
+    "returnCount": 73,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 20,
+      "Ajio": 29,
+      "Shopify": 24
+    },
+    "refundTotal": 165190
+  },
+  {
+    "sku": "SK-PAL-400",
+    "name": "Coral Rayon Palazzo Set",
+    "returnCount": 2,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 2
+    },
+    "refundTotal": 3671
+  },
+  {
+    "sku": "SK-ANA-030",
+    "name": "Lavender Chanderi Anarkali",
+    "returnCount": 4,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "material is cheap",
+    "platforms": {
+      "Ajio": 4
+    },
+    "refundTotal": 9816
+  },
+  {
+    "sku": "SK-SHR-430",
+    "name": "Lavender Georgette Shrug",
+    "returnCount": 1,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "material is cheap",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 2605
+  },
+  {
+    "sku": "SK-LEH-056",
+    "name": "Teal Chanderi Lehenga",
+    "returnCount": 6,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 3,
+      "Myntra": 1
+    },
+    "refundTotal": 13890
+  },
+  {
+    "sku": "SK-DUP-325",
+    "name": "Coral Linen Dupatta",
+    "returnCount": 6,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "defective product received",
+    "platforms": {
+      "Ajio": 3,
+      "Shopify": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 14636
+  },
+  {
+    "sku": "SK-KUR-212",
+    "name": "Lavender Cotton Kurta Set",
+    "returnCount": 9,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Ajio": 3,
+      "Shopify": 3,
+      "Myntra": 3
+    },
+    "refundTotal": 19324
+  },
+  {
+    "sku": "SK-PAL-046",
+    "name": "Navy Viscose Palazzo Set",
+    "returnCount": 6,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 2,
+      "Myntra": 2,
+      "Ajio": 2
+    },
+    "refundTotal": 14793
+  },
+  {
+    "sku": "SK-DUP-246",
+    "name": "Wine Georgette Dupatta",
+    "returnCount": 5,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "Size too large",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 2,
+      "Ajio": 2
+    },
+    "refundTotal": 13338
+  },
+  {
+    "sku": "SK-SAR-229",
+    "name": "Indigo Silk Saree",
+    "returnCount": 5,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 2,
+      "Ajio": 2
+    },
+    "refundTotal": 14897
+  },
+  {
+    "sku": "SK-SHA-039",
+    "name": "Wine Crepe Sharara Set",
+    "returnCount": 4,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 7278
+  },
+  {
+    "sku": "SK-KUR-153",
+    "name": "Charcoal Khadi Kurta Set",
+    "returnCount": 4,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "material is cheap",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 9613
+  },
+  {
+    "sku": "SK-CRO-082",
+    "name": "Indigo Georgette Crop Top",
+    "returnCount": 2,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 2282
+  },
+  {
+    "sku": "SK-CRO-440",
+    "name": "Lavender Cotton Crop Top",
+    "returnCount": 3,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 8924
+  },
+  {
+    "sku": "SK-DUP-396",
+    "name": "Olive Chiffon Dupatta",
+    "returnCount": 3,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 5063
+  },
+  {
+    "sku": "SK-LEH-385",
+    "name": "Coral Rayon Lehenga",
+    "returnCount": 4,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 6862
+  },
+  {
+    "sku": "SK-DUP-382",
+    "name": "Navy Cotton Dupatta",
+    "returnCount": 2,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 5994
+  },
+  {
+    "sku": "SK-TUN-139",
+    "name": "Lavender Chanderi Tunic",
+    "returnCount": 1,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1010
+  },
+  {
+    "sku": "SK-TUN-386",
+    "name": "Teal Khadi Tunic",
+    "returnCount": 4,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 2,
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 11342
+  },
+  {
+    "sku": "SK-LEH-483",
+    "name": "Blush Pink Khadi Lehenga",
+    "returnCount": 2,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "defective product received",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 2459
+  },
+  {
+    "sku": "SK-CRO-276",
+    "name": "Olive Crepe Crop Top",
+    "returnCount": 1,
+    "returnRate": 95.0,
+    "band": "red",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3939
+  },
+  {
+    "sku": "SK-CRO-068",
+    "name": "Olive Chiffon Crop Top",
+    "returnCount": 6,
+    "returnRate": 85.7,
+    "band": "red",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 3,
+      "Myntra": 1
+    },
+    "refundTotal": 9549
+  },
+  {
+    "sku": "SK-DUP-035",
+    "name": "Maroon Crepe Dupatta",
+    "returnCount": 4,
+    "returnRate": 66.7,
+    "band": "red",
+    "topReason": "colour faded after wash",
+    "platforms": {
+      "Ajio": 3,
+      "Myntra": 1
+    },
+    "refundTotal": 9996
+  },
+  {
+    "sku": "SK-KUR-438",
+    "name": "Mustard Silk Kurta Set",
+    "returnCount": 2,
+    "returnRate": 66.7,
+    "band": "red",
+    "topReason": "ordered by mistake",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 5055
+  },
+  {
+    "sku": "SK-DUP-456",
+    "name": "Charcoal Cotton Dupatta",
+    "returnCount": 7,
+    "returnRate": 63.6,
+    "band": "red",
+    "topReason": "too tight",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 2,
+      "Shopify": 3
+    },
+    "refundTotal": 18572
+  },
+  {
+    "sku": "SK-SHR-310",
+    "name": "Charcoal Rayon Shrug",
+    "returnCount": 5,
+    "returnRate": 62.5,
+    "band": "red",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 2,
+      "Shopify": 2
+    },
+    "refundTotal": 5346
+  },
+  {
+    "sku": "SK-ANA-317",
+    "name": "Rust Linen Anarkali",
+    "returnCount": 4,
+    "returnRate": 57.1,
+    "band": "red",
+    "topReason": "material is cheap",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 2
+    },
+    "refundTotal": 8159
+  },
+  {
+    "sku": "SK-SHA-234",
+    "name": "Charcoal Chanderi Sharara Set",
+    "returnCount": 4,
+    "returnRate": 57.1,
+    "band": "red",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 5621
+  },
+  {
+    "sku": "SK-SAR-451",
+    "name": "Coral Chiffon Saree",
+    "returnCount": 4,
+    "returnRate": 57.1,
+    "band": "red",
+    "topReason": "ordered by mistake",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 2
+    },
+    "refundTotal": 9166
+  },
+  {
+    "sku": "SK-ANA-453",
+    "name": "Mustard Linen Anarkali",
+    "returnCount": 4,
+    "returnRate": 57.1,
+    "band": "red",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 8800
+  },
+  {
+    "sku": "SK-LEH-243",
+    "name": "Maroon Cotton Lehenga",
+    "returnCount": 4,
+    "returnRate": 57.1,
+    "band": "red",
+    "topReason": "better price on myntra",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 2
+    },
+    "refundTotal": 9832
+  },
+  {
+    "sku": "NSKU_Chanderi Saree",
+    "name": "Chanderi Saree",
+    "returnCount": 13,
+    "returnRate": 52.0,
+    "band": "red",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 13
+    },
+    "refundTotal": 26151
+  },
+  {
+    "sku": "SK-LEH-343",
+    "name": "Ivory Crepe Lehenga",
+    "returnCount": 4,
+    "returnRate": 50.0,
+    "band": "red",
+    "topReason": "colour faded after wash",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 2
+    },
+    "refundTotal": 5015
+  },
+  {
+    "sku": "SK-TUN-047",
+    "name": "Mustard Crepe Tunic",
+    "returnCount": 3,
+    "returnRate": 50.0,
+    "band": "red",
+    "topReason": "looks different from photo",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 2
+    },
+    "refundTotal": 7508
+  },
+  {
+    "sku": "SK-SHR-152",
+    "name": "Mustard Khadi Shrug",
+    "returnCount": 4,
+    "returnRate": 50.0,
+    "band": "red",
+    "topReason": "wrong size sent",
+    "platforms": {
+      "Ajio": 4
+    },
+    "refundTotal": 2585
+  },
+  {
+    "sku": "SK-CRO-330",
+    "name": "Indigo Georgette Crop Top",
+    "returnCount": 1,
+    "returnRate": 50.0,
+    "band": "red",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 1677
+  },
+  {
+    "sku": "SK-LEH-021",
+    "name": "Mustard Crepe Lehenga",
+    "returnCount": 1,
+    "returnRate": 50.0,
+    "band": "red",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2534
+  },
+  {
+    "sku": "SK-SHA-457",
+    "name": "Charcoal Viscose Sharara Set",
+    "returnCount": 4,
+    "returnRate": 50.0,
+    "band": "red",
+    "topReason": "fabric not good",
+    "platforms": {
+      "Ajio": 3,
+      "Myntra": 1
+    },
+    "refundTotal": 7295
+  },
+  {
+    "sku": "SK-SHR-352",
+    "name": "Blush Pink Khadi Shrug",
+    "returnCount": 4,
+    "returnRate": 50.0,
+    "band": "red",
+    "topReason": "fabric not good",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 2
+    },
+    "refundTotal": 5961
+  },
+  {
+    "sku": "SK-DUP-334",
+    "name": "Peach Linen Dupatta",
+    "returnCount": 4,
+    "returnRate": 44.4,
+    "band": "red",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 2
+    },
+    "refundTotal": 7527
+  },
+  {
+    "sku": "SK-CRO-360",
+    "name": "Navy Viscose Crop Top",
+    "returnCount": 4,
+    "returnRate": 44.4,
+    "band": "red",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 3,
+      "Ajio": 1
+    },
+    "refundTotal": 7994
+  },
+  {
+    "sku": "NSKU_Teal Rayon Tunic",
+    "name": "Teal Rayon Tunic",
+    "returnCount": 11,
+    "returnRate": 44.0,
+    "band": "red",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 11
+    },
+    "refundTotal": 14372
+  },
+  {
+    "sku": "SK-DUP-017",
+    "name": "Rust Rayon Dupatta",
+    "returnCount": 3,
+    "returnRate": 42.9,
+    "band": "red",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 2
+    },
+    "refundTotal": 3316
+  },
+  {
+    "sku": "SK-ANA-067",
+    "name": "Indigo Chiffon Anarkali",
+    "returnCount": 3,
+    "returnRate": 42.9,
+    "band": "red",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 2
+    },
+    "refundTotal": 6084
+  },
+  {
+    "sku": "SK-KUR-294",
+    "name": "Sage Green Chiffon Kurta Set",
+    "returnCount": 3,
+    "returnRate": 42.9,
+    "band": "red",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 8254
+  },
+  {
+    "sku": "SK-ANA-099",
+    "name": "Wine Linen Anarkali",
+    "returnCount": 5,
+    "returnRate": 41.7,
+    "band": "red",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 1,
+      "Shopify": 2
+    },
+    "refundTotal": 9495
+  },
+  {
+    "sku": "SK-CRO-251",
+    "name": "Mustard Georgette Crop Top",
+    "returnCount": 5,
+    "returnRate": 41.7,
+    "band": "red",
+    "topReason": "stitching came off",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 3,
+      "Myntra": 1
+    },
+    "refundTotal": 6694
+  },
+  {
+    "sku": "SK-SHR-163",
+    "name": "Olive Cotton Shrug",
+    "returnCount": 2,
+    "returnRate": 40.0,
+    "band": "red",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 4560
+  },
+  {
+    "sku": "SK-TUN-389",
+    "name": "Teal Khadi Tunic",
+    "returnCount": 4,
+    "returnRate": 40.0,
+    "band": "red",
+    "topReason": "delayed delivery dont want now",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 11141
+  },
+  {
+    "sku": "SK-TUN-366",
+    "name": "Maroon Viscose Tunic",
+    "returnCount": 2,
+    "returnRate": 40.0,
+    "band": "red",
+    "topReason": "better price on myntra",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 3453
+  },
+  {
+    "sku": "SK-KUR-327",
+    "name": "Wine Chanderi Kurta Set",
+    "returnCount": 5,
+    "returnRate": 38.5,
+    "band": "red",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 3,
+      "Shopify": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 15469
+  },
+  {
+    "sku": "SK-TUN-300",
+    "name": "Mustard Chiffon Tunic",
+    "returnCount": 4,
+    "returnRate": 36.4,
+    "band": "red",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 2,
+      "Shopify": 1
+    },
+    "refundTotal": 8651
+  },
+  {
+    "sku": "SK-PAL-191",
+    "name": "Mustard Crepe Palazzo Set",
+    "returnCount": 4,
+    "returnRate": 36.4,
+    "band": "red",
+    "topReason": "colour faded after wash",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 9485
+  },
+  {
+    "sku": "SK-SHR-237",
+    "name": "Wine Chanderi Shrug",
+    "returnCount": 4,
+    "returnRate": 36.4,
+    "band": "red",
+    "topReason": "not same as picture",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 2,
+      "Shopify": 1
+    },
+    "refundTotal": 5243
+  },
+  {
+    "sku": "NSKU_Cotton Palazzo Set",
+    "name": "Cotton Palazzo Set",
+    "returnCount": 9,
+    "returnRate": 36.0,
+    "band": "red",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 9
+    },
+    "refundTotal": 19234
+  },
+  {
+    "sku": "SK-PAL-363",
+    "name": "Peach Silk Palazzo Set",
+    "returnCount": 2,
+    "returnRate": 33.3,
+    "band": "red",
+    "topReason": "wrong size sent",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 4991
+  },
+  {
+    "sku": "SK-DUP-409",
+    "name": "Ivory Viscose Dupatta",
+    "returnCount": 2,
+    "returnRate": 33.3,
+    "band": "red",
+    "topReason": "stitching came off",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 4035
+  },
+  {
+    "sku": "SK-LEH-223",
+    "name": "Blush Pink Crepe Lehenga",
+    "returnCount": 1,
+    "returnRate": 33.3,
+    "band": "red",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2986
+  },
+  {
+    "sku": "SK-KUR-384",
+    "name": "Blush Pink Viscose Kurta Set",
+    "returnCount": 4,
+    "returnRate": 33.3,
+    "band": "red",
+    "topReason": "didnt like the color",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 2
+    },
+    "refundTotal": 8038
+  },
+  {
+    "sku": "NSKU_Indigo Kurta Set",
+    "name": "Indigo Kurta Set",
+    "returnCount": 8,
+    "returnRate": 32.0,
+    "band": "red",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 8
+    },
+    "refundTotal": 20431
+  },
+  {
+    "sku": "SK-ANA-368",
+    "name": "Ivory Crepe Anarkali",
+    "returnCount": 6,
+    "returnRate": 31.6,
+    "band": "red",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 3,
+      "Ajio": 3
+    },
+    "refundTotal": 12025
+  },
+  {
+    "sku": "SK-KUR-377",
+    "name": "Indigo Viscose Kurta Set",
+    "returnCount": 3,
+    "returnRate": 30.0,
+    "band": "amber",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 6928
+  },
+  {
+    "sku": "SK-CRO-411",
+    "name": "Olive Georgette Crop Top",
+    "returnCount": 3,
+    "returnRate": 30.0,
+    "band": "amber",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 3
+    },
+    "refundTotal": 6899
+  },
+  {
+    "sku": "SK-TUN-459",
+    "name": "Navy Linen Tunic",
+    "returnCount": 2,
+    "returnRate": 28.6,
+    "band": "amber",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 5143
+  },
+  {
+    "sku": "SK-SAR-208",
+    "name": "Sage Green Viscose Saree",
+    "returnCount": 2,
+    "returnRate": 28.6,
+    "band": "amber",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 5079
+  },
+  {
+    "sku": "SK-PAL-426",
+    "name": "Rust Rayon Palazzo Set",
+    "returnCount": 2,
+    "returnRate": 28.6,
+    "band": "amber",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 5946
+  },
+  {
+    "sku": "SK-DUP-005",
+    "name": "Olive Khadi Dupatta",
+    "returnCount": 7,
+    "returnRate": 28.0,
+    "band": "amber",
+    "topReason": "size issue pls refund",
+    "platforms": {
+      "Ajio": 3,
+      "Myntra": 2,
+      "Shopify": 2
+    },
+    "refundTotal": 13318
+  },
+  {
+    "sku": "SK-SHR-132",
+    "name": "Blush Pink Linen Shrug",
+    "returnCount": 5,
+    "returnRate": 27.8,
+    "band": "amber",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 11153
+  },
+  {
+    "sku": "SK-ANA-036",
+    "name": "Mustard Chiffon Anarkali",
+    "returnCount": 3,
+    "returnRate": 27.3,
+    "band": "amber",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 3
+    },
+    "refundTotal": 5867
+  },
+  {
+    "sku": "SK-DUP-195",
+    "name": "Maroon Khadi Dupatta",
+    "returnCount": 3,
+    "returnRate": 27.3,
+    "band": "amber",
+    "topReason": "stitching came off",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 1
+    },
+    "refundTotal": 5092
+  },
+  {
+    "sku": "SK-PAL-232",
+    "name": "Maroon Rayon Palazzo Set",
+    "returnCount": 3,
+    "returnRate": 27.3,
+    "band": "amber",
+    "topReason": "material is cheap",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 2
+    },
+    "refundTotal": 5338
+  },
+  {
+    "sku": "SK-KUR-404",
+    "name": "Wine Rayon Kurta Set",
+    "returnCount": 4,
+    "returnRate": 26.7,
+    "band": "amber",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 9178
+  },
+  {
+    "sku": "SK-SHR-086",
+    "name": "Lavender Chiffon Shrug",
+    "returnCount": 4,
+    "returnRate": 26.7,
+    "band": "amber",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 2,
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 6487
+  },
+  {
+    "sku": "SK-DUP-002",
+    "name": "Maroon Crepe Dupatta",
+    "returnCount": 2,
+    "returnRate": 25.0,
+    "band": "amber",
+    "topReason": "material is cheap",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 5591
+  },
+  {
+    "sku": "SK-LEH-108",
+    "name": "Mustard Crepe Lehenga",
+    "returnCount": 5,
+    "returnRate": 25.0,
+    "band": "amber",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 3
+    },
+    "refundTotal": 12892
+  },
+  {
+    "sku": "SK-CRO-083",
+    "name": "Mustard Linen Crop Top",
+    "returnCount": 2,
+    "returnRate": 25.0,
+    "band": "amber",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 5163
+  },
+  {
+    "sku": "SK-CRO-144",
+    "name": "Sage Green Crepe Crop Top",
+    "returnCount": 5,
+    "returnRate": 25.0,
+    "band": "amber",
+    "topReason": "too tight",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 1,
+      "Shopify": 2
+    },
+    "refundTotal": 10418
+  },
+  {
+    "sku": "SK-LEH-472",
+    "name": "Navy Chiffon Lehenga",
+    "returnCount": 2,
+    "returnRate": 25.0,
+    "band": "amber",
+    "topReason": "not same as picture",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 2745
+  },
+  {
+    "sku": "SK-SAR-357",
+    "name": "Lavender Crepe Saree",
+    "returnCount": 4,
+    "returnRate": 25.0,
+    "band": "amber",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 2,
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 5227
+  },
+  {
+    "sku": "SK-SAR-147",
+    "name": "Wine Viscose Saree",
+    "returnCount": 1,
+    "returnRate": 25.0,
+    "band": "amber",
+    "topReason": "looks different from photo",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 2590
+  },
+  {
+    "sku": "SK-CRO-262",
+    "name": "Sage Green Viscose Crop Top",
+    "returnCount": 1,
+    "returnRate": 25.0,
+    "band": "amber",
+    "topReason": "size issue pls refund",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 1866
+  },
+  {
+    "sku": "SK-SHR-007",
+    "name": "Charcoal Linen Shrug",
+    "returnCount": 6,
+    "returnRate": 24.0,
+    "band": "amber",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 3,
+      "Shopify": 2
+    },
+    "refundTotal": 14329
+  },
+  {
+    "sku": "NSKU_Zari Silk Dupatta",
+    "name": "Zari Silk Dupatta",
+    "returnCount": 6,
+    "returnRate": 24.0,
+    "band": "amber",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 6
+    },
+    "refundTotal": 15365
+  },
+  {
+    "sku": "SK-DUP-125",
+    "name": "Rust Crepe Dupatta",
+    "returnCount": 5,
+    "returnRate": 23.8,
+    "band": "amber",
+    "topReason": "size issue pls refund",
+    "platforms": {
+      "Ajio": 4,
+      "Myntra": 1
+    },
+    "refundTotal": 12105
+  },
+  {
+    "sku": "SK-ANA-349",
+    "name": "Mustard Cotton Anarkali",
+    "returnCount": 5,
+    "returnRate": 23.8,
+    "band": "amber",
+    "topReason": "didnt like the color",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 10636
+  },
+  {
+    "sku": "SK-ANA-454",
+    "name": "Mustard Crepe Anarkali",
+    "returnCount": 4,
+    "returnRate": 23.5,
+    "band": "amber",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 3,
+      "Shopify": 1
+    },
+    "refundTotal": 9319
+  },
+  {
+    "sku": "SK-SAR-307",
+    "name": "Peach Chanderi Saree",
+    "returnCount": 3,
+    "returnRate": 23.1,
+    "band": "amber",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 4618
+  },
+  {
+    "sku": "SK-KUR-219",
+    "name": "Maroon Silk Kurta Set",
+    "returnCount": 3,
+    "returnRate": 23.1,
+    "band": "amber",
+    "topReason": "material is cheap",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 2
+    },
+    "refundTotal": 7483
+  },
+  {
+    "sku": "SK-SHA-142",
+    "name": "Coral Chiffon Sharara Set",
+    "returnCount": 5,
+    "returnRate": 22.7,
+    "band": "amber",
+    "topReason": "fabric not good",
+    "platforms": {
+      "Ajio": 3,
+      "Shopify": 2
+    },
+    "refundTotal": 10455
+  },
+  {
+    "sku": "SK-ANA-336",
+    "name": "Mustard Silk Anarkali",
+    "returnCount": 2,
+    "returnRate": 22.2,
+    "band": "amber",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 5246
+  },
+  {
+    "sku": "SK-ANA-448",
+    "name": "Wine Chanderi Anarkali",
+    "returnCount": 3,
+    "returnRate": 21.4,
+    "band": "amber",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 6665
+  },
+  {
+    "sku": "SK-CRO-194",
+    "name": "Charcoal Silk Crop Top",
+    "returnCount": 3,
+    "returnRate": 21.4,
+    "band": "amber",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 2
+    },
+    "refundTotal": 1901
+  },
+  {
+    "sku": "SK-KUR-286",
+    "name": "Navy Crepe Kurta Set",
+    "returnCount": 4,
+    "returnRate": 21.1,
+    "band": "amber",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 3,
+      "Myntra": 1
+    },
+    "refundTotal": 9644
+  },
+  {
+    "sku": "SK-ANA-198",
+    "name": "Peach Linen Anarkali",
+    "returnCount": 4,
+    "returnRate": 21.1,
+    "band": "amber",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 3,
+      "Ajio": 1
+    },
+    "refundTotal": 9391
+  },
+  {
+    "sku": "SK-CRO-475",
+    "name": "Rust Linen Crop Top",
+    "returnCount": 2,
+    "returnRate": 20.0,
+    "band": "amber",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 5055
+  },
+  {
+    "sku": "NSKU_Charcoal Silk Crop Top",
+    "name": "Charcoal Silk Crop Top",
+    "returnCount": 5,
+    "returnRate": 20.0,
+    "band": "amber",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 8669
+  },
+  {
+    "sku": "SK-SHR-333",
+    "name": "Maroon Chiffon Shrug",
+    "returnCount": 2,
+    "returnRate": 20.0,
+    "band": "amber",
+    "topReason": "wrong size sent",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 4596
+  },
+  {
+    "sku": "SK-SHR-379",
+    "name": "Coral Rayon Shrug",
+    "returnCount": 5,
+    "returnRate": 20.0,
+    "band": "amber",
+    "topReason": "better price on myntra",
+    "platforms": {
+      "Ajio": 4,
+      "Shopify": 1
+    },
+    "refundTotal": 13404
+  },
+  {
+    "sku": "SK-TUN-393",
+    "name": "Navy Linen Tunic",
+    "returnCount": 5,
+    "returnRate": 20.0,
+    "band": "amber",
+    "topReason": "not same as picture",
+    "platforms": {
+      "Ajio": 4,
+      "Shopify": 1
+    },
+    "refundTotal": 12532
+  },
+  {
+    "sku": "SK-SHA-305",
+    "name": "Indigo Chiffon Sharara Set",
+    "returnCount": 3,
+    "returnRate": 20.0,
+    "band": "amber",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 2,
+      "Shopify": 1
+    },
+    "refundTotal": 4790
+  },
+  {
+    "sku": "SK-KUR-078",
+    "name": "Peach Silk Kurta Set",
+    "returnCount": 1,
+    "returnRate": 20.0,
+    "band": "amber",
+    "topReason": "ordered by mistake",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 2514
+  },
+  {
+    "sku": "SK-SHR-272",
+    "name": "Maroon Chiffon Shrug",
+    "returnCount": 4,
+    "returnRate": 19.0,
+    "band": "amber",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 2
+    },
+    "refundTotal": 5151
+  },
+  {
+    "sku": "SK-SHR-027",
+    "name": "Maroon Chiffon Shrug",
+    "returnCount": 3,
+    "returnRate": 18.8,
+    "band": "amber",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 2
+    },
+    "refundTotal": 7651
+  },
+  {
+    "sku": "SK-SHR-266",
+    "name": "Sage Green Silk Shrug",
+    "returnCount": 5,
+    "returnRate": 18.5,
+    "band": "amber",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 3,
+      "Ajio": 1
+    },
+    "refundTotal": 10753
+  },
+  {
+    "sku": "SK-LEH-187",
+    "name": "Maroon Viscose Lehenga",
+    "returnCount": 4,
+    "returnRate": 18.2,
+    "band": "amber",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 2,
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 8453
+  },
+  {
+    "sku": "SK-CRO-236",
+    "name": "Navy Chiffon Crop Top",
+    "returnCount": 2,
+    "returnRate": 18.2,
+    "band": "amber",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 5418
+  },
+  {
+    "sku": "SK-KUR-364",
+    "name": "Mustard Crepe Kurta Set",
+    "returnCount": 2,
+    "returnRate": 18.2,
+    "band": "amber",
+    "topReason": "delayed delivery dont want now",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 5528
+  },
+  {
+    "sku": "SK-ANA-055",
+    "name": "Navy Cotton Anarkali",
+    "returnCount": 2,
+    "returnRate": 18.2,
+    "band": "amber",
+    "topReason": "too tight",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 3743
+  },
+  {
+    "sku": "SK-PAL-328",
+    "name": "Teal Viscose Palazzo Set",
+    "returnCount": 2,
+    "returnRate": 18.2,
+    "band": "amber",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 5507
+  },
+  {
+    "sku": "SK-CRO-196",
+    "name": "Teal Viscose Crop Top",
+    "returnCount": 3,
+    "returnRate": 17.6,
+    "band": "amber",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 3331
+  },
+  {
+    "sku": "SK-LEH-444",
+    "name": "Indigo Linen Lehenga",
+    "returnCount": 3,
+    "returnRate": 17.6,
+    "band": "amber",
+    "topReason": "defective product received",
+    "platforms": {
+      "Ajio": 3
+    },
+    "refundTotal": 7033
+  },
+  {
+    "sku": "SK-CRO-429",
+    "name": "Sage Green Crepe Crop Top",
+    "returnCount": 3,
+    "returnRate": 17.6,
+    "band": "amber",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 2558
+  },
+  {
+    "sku": "SK-DUP-001",
+    "name": "Coral Cotton Dupatta",
+    "returnCount": 4,
+    "returnRate": 16.7,
+    "band": "amber",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 9549
+  },
+  {
+    "sku": "SK-KUR-369",
+    "name": "Olive Chanderi Kurta Set",
+    "returnCount": 4,
+    "returnRate": 16.7,
+    "band": "amber",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 2,
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 10394
+  },
+  {
+    "sku": "SK-TUN-186",
+    "name": "Lavender Viscose Tunic",
+    "returnCount": 4,
+    "returnRate": 16.7,
+    "band": "amber",
+    "topReason": "looks different from photo",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 2
+    },
+    "refundTotal": 6065
+  },
+  {
+    "sku": "SK-SHA-269",
+    "name": "Blush Pink Rayon Sharara Set",
+    "returnCount": 3,
+    "returnRate": 16.7,
+    "band": "amber",
+    "topReason": "material is cheap",
+    "platforms": {
+      "Ajio": 3
+    },
+    "refundTotal": 6710
+  },
+  {
+    "sku": "SK-PAL-313",
+    "name": "Charcoal Linen Palazzo Set",
+    "returnCount": 7,
+    "returnRate": 16.7,
+    "band": "amber",
+    "topReason": "stitching came off",
+    "platforms": {
+      "Ajio": 4,
+      "Myntra": 2,
+      "Shopify": 1
+    },
+    "refundTotal": 13942
+  },
+  {
+    "sku": "SK-LEH-022",
+    "name": "Lavender Chanderi Lehenga",
+    "returnCount": 3,
+    "returnRate": 16.7,
+    "band": "amber",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 2607
+  },
+  {
+    "sku": "SK-ANA-319",
+    "name": "Teal Cotton Anarkali",
+    "returnCount": 2,
+    "returnRate": 16.7,
+    "band": "amber",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 2
+    },
+    "refundTotal": 3822
+  },
+  {
+    "sku": "SK-PAL-359",
+    "name": "Blush Pink Silk Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 16.7,
+    "band": "amber",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1600
+  },
+  {
+    "sku": "SK-SAR-434",
+    "name": "Charcoal Linen Saree",
+    "returnCount": 4,
+    "returnRate": 16.0,
+    "band": "amber",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 8377
+  },
+  {
+    "sku": "SK-SHR-346",
+    "name": "Olive Khadi Shrug",
+    "returnCount": 4,
+    "returnRate": 16.0,
+    "band": "amber",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 3,
+      "Ajio": 1
+    },
+    "refundTotal": 6123
+  },
+  {
+    "sku": "SK-PAL-077",
+    "name": "Blush Pink Chanderi Palazzo Set",
+    "returnCount": 4,
+    "returnRate": 16.0,
+    "band": "amber",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 1,
+      "Ajio": 2
+    },
+    "refundTotal": 9164
+  },
+  {
+    "sku": "NSKU_Rust Khadi Palazzo Set",
+    "name": "Rust Khadi Palazzo Set",
+    "returnCount": 4,
+    "returnRate": 16.0,
+    "band": "amber",
+    "topReason": "material is cheap",
+    "platforms": {
+      "Ajio": 3,
+      "Myntra": 1
+    },
+    "refundTotal": 8908
+  },
+  {
+    "sku": "NSKU_Blush Pink Crepe Saree",
+    "name": "Blush Pink Crepe Saree",
+    "returnCount": 4,
+    "returnRate": 16.0,
+    "band": "amber",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 8672
+  },
+  {
+    "sku": "NSKU_Lavender Linen Anarkali",
+    "name": "Lavender Linen Anarkali",
+    "returnCount": 4,
+    "returnRate": 16.0,
+    "band": "amber",
+    "topReason": "Size too large",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1,
+      "Myntra": 2
+    },
+    "refundTotal": 11910
+  },
+  {
+    "sku": "SK-CRO-394",
+    "name": "Ivory Khadi Crop Top",
+    "returnCount": 4,
+    "returnRate": 16.0,
+    "band": "amber",
+    "topReason": "looks different from photo",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 2
+    },
+    "refundTotal": 7869
+  },
+  {
+    "sku": "NSKU_Rust Linen Palazzo Set",
+    "name": "Rust Linen Palazzo Set",
+    "returnCount": 4,
+    "returnRate": 16.0,
+    "band": "amber",
+    "topReason": "size issue pls refund",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 1,
+      "Shopify": 2
+    },
+    "refundTotal": 9221
+  },
+  {
+    "sku": "SK-ANA-458",
+    "name": "Lavender Crepe Anarkali",
+    "returnCount": 5,
+    "returnRate": 15.6,
+    "band": "amber",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 3,
+      "Ajio": 2
+    },
+    "refundTotal": 10079
+  },
+  {
+    "sku": "SK-PAL-138",
+    "name": "Blush Pink Chanderi Palazzo Set",
+    "returnCount": 5,
+    "returnRate": 15.6,
+    "band": "amber",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 3
+    },
+    "refundTotal": 11933
+  },
+  {
+    "sku": "SK-ANA-399",
+    "name": "Indigo Cotton Anarkali",
+    "returnCount": 2,
+    "returnRate": 15.4,
+    "band": "amber",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 3722
+  },
+  {
+    "sku": "SK-LEH-463",
+    "name": "Peach Linen Lehenga",
+    "returnCount": 5,
+    "returnRate": 15.2,
+    "band": "amber",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 2,
+      "Myntra": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 11674
+  },
+  {
+    "sku": "SK-PAL-241",
+    "name": "Charcoal Cotton Palazzo Set",
+    "returnCount": 4,
+    "returnRate": 14.8,
+    "band": "green",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 2,
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 2552
+  },
+  {
+    "sku": "SK-SHA-026",
+    "name": "Maroon Rayon Sharara Set",
+    "returnCount": 2,
+    "returnRate": 14.3,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 6555
+  },
+  {
+    "sku": "SK-ANA-287",
+    "name": "Indigo Chanderi Anarkali",
+    "returnCount": 1,
+    "returnRate": 14.3,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1997
+  },
+  {
+    "sku": "SK-SHR-040",
+    "name": "Wine Silk Shrug",
+    "returnCount": 6,
+    "returnRate": 14.3,
+    "band": "green",
+    "topReason": "stitching came off",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 3,
+      "Myntra": 1
+    },
+    "refundTotal": 11255
+  },
+  {
+    "sku": "SK-CRO-031",
+    "name": "Sage Green Chiffon Crop Top",
+    "returnCount": 4,
+    "returnRate": 14.3,
+    "band": "green",
+    "topReason": "didnt like the color",
+    "platforms": {
+      "Ajio": 3,
+      "Shopify": 1
+    },
+    "refundTotal": 6666
+  },
+  {
+    "sku": "SK-ANA-270",
+    "name": "Teal Silk Anarkali",
+    "returnCount": 1,
+    "returnRate": 14.3,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 904
+  },
+  {
+    "sku": "SK-PAL-351",
+    "name": "Peach Cotton Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 14.3,
+    "band": "green",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 2110
+  },
+  {
+    "sku": "SK-KUR-420",
+    "name": "Olive Cotton Kurta Set",
+    "returnCount": 6,
+    "returnRate": 14.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 4,
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 7327
+  },
+  {
+    "sku": "SK-SHR-316",
+    "name": "Lavender Khadi Shrug",
+    "returnCount": 5,
+    "returnRate": 13.9,
+    "band": "green",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 2,
+      "Myntra": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 7332
+  },
+  {
+    "sku": "SK-SAR-113",
+    "name": "Sage Green Linen Saree",
+    "returnCount": 4,
+    "returnRate": 13.8,
+    "band": "green",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 2,
+      "Myntra": 2
+    },
+    "refundTotal": 5281
+  },
+  {
+    "sku": "SK-DUP-160",
+    "name": "Charcoal Chanderi Dupatta",
+    "returnCount": 4,
+    "returnRate": 13.8,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Shopify": 2,
+      "Myntra": 2
+    },
+    "refundTotal": 6450
+  },
+  {
+    "sku": "SK-LEH-466",
+    "name": "Teal Viscose Lehenga",
+    "returnCount": 5,
+    "returnRate": 13.5,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 3
+    },
+    "refundTotal": 10240
+  },
+  {
+    "sku": "SK-TUN-173",
+    "name": "Teal Chanderi Tunic",
+    "returnCount": 2,
+    "returnRate": 13.3,
+    "band": "green",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 3764
+  },
+  {
+    "sku": "SK-SHA-471",
+    "name": "Mustard Cotton Sharara Set",
+    "returnCount": 6,
+    "returnRate": 13.3,
+    "band": "green",
+    "topReason": "ordered by mistake",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 2,
+      "Ajio": 3
+    },
+    "refundTotal": 9968
+  },
+  {
+    "sku": "SK-TUN-309",
+    "name": "Charcoal Chanderi Tunic",
+    "returnCount": 2,
+    "returnRate": 13.3,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 2
+    },
+    "refundTotal": 5227
+  },
+  {
+    "sku": "SK-PAL-477",
+    "name": "Olive Rayon Palazzo Set",
+    "returnCount": 2,
+    "returnRate": 13.3,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 6556
+  },
+  {
+    "sku": "SK-ANA-170",
+    "name": "Rust Rayon Anarkali",
+    "returnCount": 3,
+    "returnRate": 13.0,
+    "band": "green",
+    "topReason": "ordered by mistake",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 9895
+  },
+  {
+    "sku": "SK-LEH-256",
+    "name": "Coral Chiffon Lehenga",
+    "returnCount": 5,
+    "returnRate": 12.8,
+    "band": "green",
+    "topReason": "size issue pls refund",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 11263
+  },
+  {
+    "sku": "SK-DUP-140",
+    "name": "Navy Crepe Dupatta",
+    "returnCount": 3,
+    "returnRate": 12.5,
+    "band": "green",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 8895
+  },
+  {
+    "sku": "SK-DUP-267",
+    "name": "Olive Crepe Dupatta",
+    "returnCount": 2,
+    "returnRate": 12.5,
+    "band": "green",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 4631
+  },
+  {
+    "sku": "SK-CRO-063",
+    "name": "Blush Pink Viscose Crop Top",
+    "returnCount": 6,
+    "returnRate": 12.5,
+    "band": "green",
+    "topReason": "better price on myntra",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 1,
+      "Shopify": 3
+    },
+    "refundTotal": 10285
+  },
+  {
+    "sku": "SK-SAR-093",
+    "name": "Teal Linen Saree",
+    "returnCount": 1,
+    "returnRate": 12.5,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 3157
+  },
+  {
+    "sku": "SK-KUR-081",
+    "name": "Navy Linen Kurta Set",
+    "returnCount": 2,
+    "returnRate": 12.5,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 3961
+  },
+  {
+    "sku": "SK-SAR-314",
+    "name": "Wine Viscose Saree",
+    "returnCount": 2,
+    "returnRate": 12.5,
+    "band": "green",
+    "topReason": "ordered by mistake",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 6605
+  },
+  {
+    "sku": "SK-CRO-157",
+    "name": "Sage Green Rayon Crop Top",
+    "returnCount": 6,
+    "returnRate": 12.2,
+    "band": "green",
+    "topReason": "better price on myntra",
+    "platforms": {
+      "Ajio": 4,
+      "Myntra": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 14813
+  },
+  {
+    "sku": "SK-TUN-199",
+    "name": "Maroon Chanderi Tunic",
+    "returnCount": 4,
+    "returnRate": 12.1,
+    "band": "green",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 3,
+      "Myntra": 1
+    },
+    "refundTotal": 10020
+  },
+  {
+    "sku": "NSKU_Lavender Chanderi Saree",
+    "name": "Lavender Chanderi Saree",
+    "returnCount": 3,
+    "returnRate": 12.0,
+    "band": "green",
+    "topReason": "too tight",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 1
+    },
+    "refundTotal": 5621
+  },
+  {
+    "sku": "SK-LEH-395",
+    "name": "Lavender Viscose Lehenga",
+    "returnCount": 3,
+    "returnRate": 12.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 2,
+      "Shopify": 1
+    },
+    "refundTotal": 6298
+  },
+  {
+    "sku": "NSKU_Charcoal Khadi Kurta Set",
+    "name": "Charcoal Khadi Kurta Set",
+    "returnCount": 3,
+    "returnRate": 12.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 3
+    },
+    "refundTotal": 3527
+  },
+  {
+    "sku": "SK-SHA-331",
+    "name": "Coral Khadi Sharara Set",
+    "returnCount": 3,
+    "returnRate": 12.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 2,
+      "Shopify": 1
+    },
+    "refundTotal": 10189
+  },
+  {
+    "sku": "SK-TUN-361",
+    "name": "Charcoal Silk Tunic",
+    "returnCount": 3,
+    "returnRate": 12.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 2
+    },
+    "refundTotal": 10368
+  },
+  {
+    "sku": "NSKU_Blush Pink Chiffon Crop Top",
+    "name": "Blush Pink Chiffon Crop Top",
+    "returnCount": 3,
+    "returnRate": 12.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 3
+    },
+    "refundTotal": 5662
+  },
+  {
+    "sku": "NSKU_Coral Chiffon Lehenga",
+    "name": "Coral Chiffon Lehenga",
+    "returnCount": 3,
+    "returnRate": 12.0,
+    "band": "green",
+    "topReason": "fabric not good",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 4551
+  },
+  {
+    "sku": "SK-SAR-337",
+    "name": "Coral Cotton Saree",
+    "returnCount": 3,
+    "returnRate": 12.0,
+    "band": "green",
+    "topReason": "too tight",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 2
+    },
+    "refundTotal": 5275
+  },
+  {
+    "sku": "SK-SHR-097",
+    "name": "Teal Crepe Shrug",
+    "returnCount": 3,
+    "returnRate": 12.0,
+    "band": "green",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 8605
+  },
+  {
+    "sku": "SK-ANA-146",
+    "name": "Wine Chanderi Anarkali",
+    "returnCount": 3,
+    "returnRate": 12.0,
+    "band": "green",
+    "topReason": "fabric not good",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 4182
+  },
+  {
+    "sku": "SK-SHR-094",
+    "name": "Maroon Silk Shrug",
+    "returnCount": 5,
+    "returnRate": 11.9,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 10859
+  },
+  {
+    "sku": "SK-DUP-166",
+    "name": "Maroon Rayon Dupatta",
+    "returnCount": 5,
+    "returnRate": 11.9,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 3
+    },
+    "refundTotal": 13530
+  },
+  {
+    "sku": "SK-DUP-405",
+    "name": "Sage Green Khadi Dupatta",
+    "returnCount": 6,
+    "returnRate": 11.8,
+    "band": "green",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Myntra": 2,
+      "Shopify": 2,
+      "Ajio": 2
+    },
+    "refundTotal": 13782
+  },
+  {
+    "sku": "SK-KUR-109",
+    "name": "Olive Khadi Kurta Set",
+    "returnCount": 4,
+    "returnRate": 11.8,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 3,
+      "Myntra": 1
+    },
+    "refundTotal": 7648
+  },
+  {
+    "sku": "SK-PAL-028",
+    "name": "Maroon Khadi Palazzo Set",
+    "returnCount": 2,
+    "returnRate": 11.8,
+    "band": "green",
+    "topReason": "size issue pls refund",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 4157
+  },
+  {
+    "sku": "SK-ANA-263",
+    "name": "Wine Viscose Anarkali",
+    "returnCount": 4,
+    "returnRate": 11.8,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 2,
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 6315
+  },
+  {
+    "sku": "SK-KUR-202",
+    "name": "Lavender Georgette Kurta Set",
+    "returnCount": 5,
+    "returnRate": 11.6,
+    "band": "green",
+    "topReason": "defective product received",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 1,
+      "Shopify": 2
+    },
+    "refundTotal": 11723
+  },
+  {
+    "sku": "SK-CRO-123",
+    "name": "Teal Crepe Crop Top",
+    "returnCount": 3,
+    "returnRate": 11.5,
+    "band": "green",
+    "topReason": "size issue pls refund",
+    "platforms": {
+      "Ajio": 3
+    },
+    "refundTotal": 7433
+  },
+  {
+    "sku": "SK-PAL-397",
+    "name": "Blush Pink Cotton Palazzo Set",
+    "returnCount": 5,
+    "returnRate": 11.4,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 3
+    },
+    "refundTotal": 7816
+  },
+  {
+    "sku": "SK-ANA-324",
+    "name": "Peach Chiffon Anarkali",
+    "returnCount": 5,
+    "returnRate": 11.4,
+    "band": "green",
+    "topReason": "better price on myntra",
+    "platforms": {
+      "Ajio": 4,
+      "Myntra": 1
+    },
+    "refundTotal": 11798
+  },
+  {
+    "sku": "SK-DUP-189",
+    "name": "Navy Crepe Dupatta",
+    "returnCount": 5,
+    "returnRate": 11.4,
+    "band": "green",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 11897
+  },
+  {
+    "sku": "SK-SHA-126",
+    "name": "Charcoal Viscose Sharara Set",
+    "returnCount": 4,
+    "returnRate": 11.1,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 7649
+  },
+  {
+    "sku": "SK-DUP-242",
+    "name": "Olive Cotton Dupatta",
+    "returnCount": 4,
+    "returnRate": 11.1,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 1,
+      "Shopify": 2
+    },
+    "refundTotal": 2952
+  },
+  {
+    "sku": "SK-DUP-211",
+    "name": "Teal Cotton Dupatta",
+    "returnCount": 2,
+    "returnRate": 11.1,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 2980
+  },
+  {
+    "sku": "SK-ANA-155",
+    "name": "Peach Khadi Anarkali",
+    "returnCount": 5,
+    "returnRate": 11.1,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 2,
+      "Shopify": 1,
+      "Ajio": 2
+    },
+    "refundTotal": 8802
+  },
+  {
+    "sku": "SK-DUP-455",
+    "name": "Ivory Linen Dupatta",
+    "returnCount": 4,
+    "returnRate": 11.1,
+    "band": "green",
+    "topReason": "looks different from photo",
+    "platforms": {
+      "Ajio": 3,
+      "Shopify": 1
+    },
+    "refundTotal": 9636
+  },
+  {
+    "sku": "SK-PAL-254",
+    "name": "Coral Cotton Palazzo Set",
+    "returnCount": 5,
+    "returnRate": 11.1,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 3,
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 8091
+  },
+  {
+    "sku": "SK-SHA-446",
+    "name": "Lavender Chiffon Sharara Set",
+    "returnCount": 1,
+    "returnRate": 11.1,
+    "band": "green",
+    "topReason": "fabric not good",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 551
+  },
+  {
+    "sku": "SK-TUN-303",
+    "name": "Rust Georgette Tunic",
+    "returnCount": 5,
+    "returnRate": 10.9,
+    "band": "green",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 4,
+      "Myntra": 1
+    },
+    "refundTotal": 15201
+  },
+  {
+    "sku": "SK-SHA-104",
+    "name": "Lavender Cotton Sharara Set",
+    "returnCount": 5,
+    "returnRate": 10.9,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 10751
+  },
+  {
+    "sku": "SK-ANA-053",
+    "name": "Ivory Chanderi Anarkali",
+    "returnCount": 4,
+    "returnRate": 10.8,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 1,
+      "Shopify": 2
+    },
+    "refundTotal": 9236
+  },
+  {
+    "sku": "SK-LEH-452",
+    "name": "Coral Crepe Lehenga",
+    "returnCount": 4,
+    "returnRate": 10.8,
+    "band": "green",
+    "topReason": "too tight",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 2578
+  },
+  {
+    "sku": "SK-CRO-450",
+    "name": "Wine Georgette Crop Top",
+    "returnCount": 4,
+    "returnRate": 10.8,
+    "band": "green",
+    "topReason": "didnt like the color",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 2
+    },
+    "refundTotal": 5902
+  },
+  {
+    "sku": "SK-KUR-092",
+    "name": "Coral Chiffon Kurta Set",
+    "returnCount": 3,
+    "returnRate": 10.7,
+    "band": "green",
+    "topReason": "looks different from photo",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 1
+    },
+    "refundTotal": 8912
+  },
+  {
+    "sku": "SK-LEH-003",
+    "name": "Navy Georgette Lehenga",
+    "returnCount": 5,
+    "returnRate": 10.6,
+    "band": "green",
+    "topReason": "not same as picture",
+    "platforms": {
+      "Ajio": 3,
+      "Shopify": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 12025
+  },
+  {
+    "sku": "SK-ANA-277",
+    "name": "Sage Green Crepe Anarkali",
+    "returnCount": 4,
+    "returnRate": 10.5,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 4730
+  },
+  {
+    "sku": "SK-LEH-365",
+    "name": "Sage Green Viscose Lehenga",
+    "returnCount": 4,
+    "returnRate": 10.5,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 10194
+  },
+  {
+    "sku": "SK-SHA-233",
+    "name": "Wine Khadi Sharara Set",
+    "returnCount": 6,
+    "returnRate": 10.0,
+    "band": "green",
+    "topReason": "too tight",
+    "platforms": {
+      "Ajio": 3,
+      "Shopify": 3
+    },
+    "refundTotal": 9814
+  },
+  {
+    "sku": "SK-LEH-435",
+    "name": "Blush Pink Viscose Lehenga",
+    "returnCount": 1,
+    "returnRate": 10.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3709
+  },
+  {
+    "sku": "SK-KUR-006",
+    "name": "Peach Silk Kurta Set",
+    "returnCount": 3,
+    "returnRate": 10.0,
+    "band": "green",
+    "topReason": "ordered by mistake",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 5534
+  },
+  {
+    "sku": "SK-SHA-348",
+    "name": "Coral Silk Sharara Set",
+    "returnCount": 1,
+    "returnRate": 10.0,
+    "band": "green",
+    "topReason": "material is cheap",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 964
+  },
+  {
+    "sku": "SK-PAL-010",
+    "name": "Rust Cotton Palazzo Set",
+    "returnCount": 2,
+    "returnRate": 10.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 6738
+  },
+  {
+    "sku": "SK-TUN-029",
+    "name": "Charcoal Silk Tunic",
+    "returnCount": 4,
+    "returnRate": 9.8,
+    "band": "green",
+    "topReason": "defective product received",
+    "platforms": {
+      "Ajio": 3,
+      "Myntra": 1
+    },
+    "refundTotal": 12304
+  },
+  {
+    "sku": "SK-DUP-043",
+    "name": "Lavender Linen Dupatta",
+    "returnCount": 4,
+    "returnRate": 9.8,
+    "band": "green",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 3,
+      "Ajio": 1
+    },
+    "refundTotal": 10929
+  },
+  {
+    "sku": "SK-TUN-383",
+    "name": "Teal Georgette Tunic",
+    "returnCount": 3,
+    "returnRate": 9.7,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 5587
+  },
+  {
+    "sku": "SK-KUR-425",
+    "name": "Rust Chanderi Kurta Set",
+    "returnCount": 3,
+    "returnRate": 9.7,
+    "band": "green",
+    "topReason": "not same as picture",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 8244
+  },
+  {
+    "sku": "SK-CRO-203",
+    "name": "Teal Rayon Crop Top",
+    "returnCount": 3,
+    "returnRate": 9.7,
+    "band": "green",
+    "topReason": "ordered by mistake",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 3136
+  },
+  {
+    "sku": "SK-CRO-013",
+    "name": "Wine Cotton Crop Top",
+    "returnCount": 3,
+    "returnRate": 9.7,
+    "band": "green",
+    "topReason": "looks different from photo",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 7778
+  },
+  {
+    "sku": "SK-LEH-127",
+    "name": "Coral Rayon Lehenga",
+    "returnCount": 4,
+    "returnRate": 9.5,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 9619
+  },
+  {
+    "sku": "SK-CRO-225",
+    "name": "Charcoal Georgette Crop Top",
+    "returnCount": 2,
+    "returnRate": 9.5,
+    "band": "green",
+    "topReason": "ordered by mistake",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 2105
+  },
+  {
+    "sku": "SK-TUN-301",
+    "name": "Sage Green Crepe Tunic",
+    "returnCount": 5,
+    "returnRate": 9.4,
+    "band": "green",
+    "topReason": "better price on myntra",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 1,
+      "Shopify": 2
+    },
+    "refundTotal": 12283
+  },
+  {
+    "sku": "SK-PAL-088",
+    "name": "Rust Silk Palazzo Set",
+    "returnCount": 3,
+    "returnRate": 9.4,
+    "band": "green",
+    "topReason": "too tight",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 5889
+  },
+  {
+    "sku": "SK-ANA-257",
+    "name": "Wine Georgette Anarkali",
+    "returnCount": 5,
+    "returnRate": 9.3,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 2,
+      "Shopify": 2
+    },
+    "refundTotal": 12663
+  },
+  {
+    "sku": "SK-ANA-167",
+    "name": "Ivory Georgette Anarkali",
+    "returnCount": 5,
+    "returnRate": 9.3,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 2,
+      "Shopify": 1,
+      "Ajio": 2
+    },
+    "refundTotal": 13480
+  },
+  {
+    "sku": "SK-LEH-066",
+    "name": "Coral Linen Lehenga",
+    "returnCount": 4,
+    "returnRate": 9.1,
+    "band": "green",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 4
+    },
+    "refundTotal": 14399
+  },
+  {
+    "sku": "SK-CRO-183",
+    "name": "Charcoal Viscose Crop Top",
+    "returnCount": 2,
+    "returnRate": 9.1,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 2
+    },
+    "refundTotal": 3179
+  },
+  {
+    "sku": "SK-SAR-119",
+    "name": "Wine Viscose Saree",
+    "returnCount": 4,
+    "returnRate": 9.1,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 3,
+      "Ajio": 1
+    },
+    "refundTotal": 7462
+  },
+  {
+    "sku": "SK-ANA-182",
+    "name": "Indigo Khadi Anarkali",
+    "returnCount": 2,
+    "returnRate": 9.1,
+    "band": "green",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 6184
+  },
+  {
+    "sku": "SK-LEH-015",
+    "name": "Maroon Cotton Lehenga",
+    "returnCount": 3,
+    "returnRate": 9.1,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 5177
+  },
+  {
+    "sku": "SK-DUP-158",
+    "name": "Navy Chiffon Dupatta",
+    "returnCount": 3,
+    "returnRate": 9.1,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 3
+    },
+    "refundTotal": 5281
+  },
+  {
+    "sku": "SK-LEH-244",
+    "name": "Teal Viscose Lehenga",
+    "returnCount": 1,
+    "returnRate": 9.1,
+    "band": "green",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 2794
+  },
+  {
+    "sku": "SK-DUP-057",
+    "name": "Wine Silk Dupatta",
+    "returnCount": 2,
+    "returnRate": 9.1,
+    "band": "green",
+    "topReason": "delayed delivery dont want now",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 5453
+  },
+  {
+    "sku": "SK-KUR-054",
+    "name": "Blush Pink Crepe Kurta Set",
+    "returnCount": 1,
+    "returnRate": 9.1,
+    "band": "green",
+    "topReason": "not same as picture",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 1486
+  },
+  {
+    "sku": "SK-SAR-041",
+    "name": "Indigo Viscose Saree",
+    "returnCount": 4,
+    "returnRate": 8.9,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 3,
+      "Myntra": 1
+    },
+    "refundTotal": 7668
+  },
+  {
+    "sku": "SK-SHR-162",
+    "name": "Sage Green Georgette Shrug",
+    "returnCount": 4,
+    "returnRate": 8.9,
+    "band": "green",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 3
+    },
+    "refundTotal": 11201
+  },
+  {
+    "sku": "SK-DUP-214",
+    "name": "Mustard Rayon Dupatta",
+    "returnCount": 5,
+    "returnRate": 8.8,
+    "band": "green",
+    "topReason": "not same as picture",
+    "platforms": {
+      "Ajio": 3,
+      "Myntra": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 8929
+  },
+  {
+    "sku": "SK-LEH-049",
+    "name": "Blush Pink Georgette Lehenga",
+    "returnCount": 3,
+    "returnRate": 8.8,
+    "band": "green",
+    "topReason": "size issue pls refund",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 2
+    },
+    "refundTotal": 7426
+  },
+  {
+    "sku": "SK-PAL-442",
+    "name": "Rust Crepe Palazzo Set",
+    "returnCount": 3,
+    "returnRate": 8.8,
+    "band": "green",
+    "topReason": "too tight",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 1
+    },
+    "refundTotal": 7825
+  },
+  {
+    "sku": "SK-KUR-135",
+    "name": "Rust Viscose Kurta Set",
+    "returnCount": 3,
+    "returnRate": 8.8,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 8400
+  },
+  {
+    "sku": "SK-CRO-342",
+    "name": "Teal Viscose Crop Top",
+    "returnCount": 3,
+    "returnRate": 8.8,
+    "band": "green",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 3
+    },
+    "refundTotal": 2514
+  },
+  {
+    "sku": "SK-LEH-192",
+    "name": "Sage Green Crepe Lehenga",
+    "returnCount": 3,
+    "returnRate": 8.8,
+    "band": "green",
+    "topReason": "didnt like the color",
+    "platforms": {
+      "Ajio": 3
+    },
+    "refundTotal": 7681
+  },
+  {
+    "sku": "SK-SHA-370",
+    "name": "Wine Crepe Sharara Set",
+    "returnCount": 4,
+    "returnRate": 8.7,
+    "band": "green",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 2
+    },
+    "refundTotal": 7746
+  },
+  {
+    "sku": "SK-CRO-284",
+    "name": "Indigo Chanderi Crop Top",
+    "returnCount": 3,
+    "returnRate": 8.6,
+    "band": "green",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 3
+    },
+    "refundTotal": 5472
+  },
+  {
+    "sku": "SK-SAR-004",
+    "name": "Sage Green Chiffon Saree",
+    "returnCount": 4,
+    "returnRate": 8.5,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 2,
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 8282
+  },
+  {
+    "sku": "SK-PAL-072",
+    "name": "Indigo Rayon Palazzo Set",
+    "returnCount": 5,
+    "returnRate": 8.5,
+    "band": "green",
+    "topReason": "delayed delivery dont want now",
+    "platforms": {
+      "Ajio": 3,
+      "Myntra": 2
+    },
+    "refundTotal": 12395
+  },
+  {
+    "sku": "SK-LEH-441",
+    "name": "Navy Silk Lehenga",
+    "returnCount": 4,
+    "returnRate": 8.5,
+    "band": "green",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 2,
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 10062
+  },
+  {
+    "sku": "SK-TUN-436",
+    "name": "Charcoal Chanderi Tunic",
+    "returnCount": 4,
+    "returnRate": 8.5,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 10221
+  },
+  {
+    "sku": "SK-CRO-398",
+    "name": "Maroon Rayon Crop Top",
+    "returnCount": 2,
+    "returnRate": 8.3,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 4474
+  },
+  {
+    "sku": "SK-CRO-354",
+    "name": "Olive Viscose Crop Top",
+    "returnCount": 2,
+    "returnRate": 8.3,
+    "band": "green",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 5318
+  },
+  {
+    "sku": "SK-SHR-329",
+    "name": "Navy Chanderi Shrug",
+    "returnCount": 2,
+    "returnRate": 8.3,
+    "band": "green",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 2
+    },
+    "refundTotal": 4799
+  },
+  {
+    "sku": "SK-PAL-073",
+    "name": "Rust Cotton Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 8.3,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 0
+  },
+  {
+    "sku": "SK-SHA-205",
+    "name": "Rust Khadi Sharara Set",
+    "returnCount": 1,
+    "returnRate": 8.3,
+    "band": "green",
+    "topReason": "wrong size sent",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 3783
+  },
+  {
+    "sku": "SK-DUP-353",
+    "name": "Lavender Silk Dupatta",
+    "returnCount": 2,
+    "returnRate": 8.3,
+    "band": "green",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 2
+    },
+    "refundTotal": 2337
+  },
+  {
+    "sku": "SK-SHA-206",
+    "name": "Mustard Linen Sharara Set",
+    "returnCount": 1,
+    "returnRate": 8.3,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3411
+  },
+  {
+    "sku": "SK-LEH-288",
+    "name": "Navy Linen Lehenga",
+    "returnCount": 1,
+    "returnRate": 8.3,
+    "band": "green",
+    "topReason": "size issue pls refund",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 3706
+  },
+  {
+    "sku": "SK-ANA-443",
+    "name": "Mustard Chanderi Anarkali",
+    "returnCount": 4,
+    "returnRate": 8.2,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 2,
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 5802
+  },
+  {
+    "sku": "NSKU_Mustard Chanderi Kurta Set",
+    "name": "Mustard Chanderi Kurta Set",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 6337
+  },
+  {
+    "sku": "NSKU_Sage Green Georgette Shrug",
+    "name": "Sage Green Georgette Shrug",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 3005
+  },
+  {
+    "sku": "NSKU_Indigo Chanderi Crop Top",
+    "name": "Indigo Chanderi Crop Top",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 5646
+  },
+  {
+    "sku": "SK-LEH-143",
+    "name": "Olive Silk Lehenga",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "defective product received",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 7153
+  },
+  {
+    "sku": "NSKU_Navy Linen Kurta Set",
+    "name": "Navy Linen Kurta Set",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 1140
+  },
+  {
+    "sku": "SK-PAL-052",
+    "name": "Maroon Linen Palazzo Set",
+    "returnCount": 4,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "looks different from photo",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 2
+    },
+    "refundTotal": 10320
+  },
+  {
+    "sku": "NSKU_Peach Viscose Tunic",
+    "name": "Peach Viscose Tunic",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 4126
+  },
+  {
+    "sku": "SK-PAL-259",
+    "name": "Wine Viscose Palazzo Set",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 2
+    },
+    "refundTotal": 4715
+  },
+  {
+    "sku": "NSKU_Wine Chanderi Anarkali",
+    "name": "Wine Chanderi Anarkali",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 2711
+  },
+  {
+    "sku": "SK-CRO-130",
+    "name": "Lavender Viscose Crop Top",
+    "returnCount": 4,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 7282
+  },
+  {
+    "sku": "SK-DUP-137",
+    "name": "Maroon Khadi Dupatta",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "material is cheap",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 4756
+  },
+  {
+    "sku": "NSKU_Navy Chiffon Dupatta",
+    "name": "Navy Chiffon Dupatta",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 4615
+  },
+  {
+    "sku": "NSKU_Rust Crepe Anarkali",
+    "name": "Rust Crepe Anarkali",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 4610
+  },
+  {
+    "sku": "NSKU_Peach Chanderi Shrug",
+    "name": "Peach Chanderi Shrug",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 3797
+  },
+  {
+    "sku": "SK-SAR-350",
+    "name": "Mustard Silk Saree",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 7191
+  },
+  {
+    "sku": "SK-ANA-478",
+    "name": "Rust Georgette Anarkali",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "didnt like the color",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 6476
+  },
+  {
+    "sku": "NSKU_Lavender Chiffon Saree",
+    "name": "Lavender Chiffon Saree",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 4816
+  },
+  {
+    "sku": "SK-PAL-215",
+    "name": "Lavender Georgette Palazzo Set",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 3570
+  },
+  {
+    "sku": "NSKU_Indigo Chanderi Anarkali",
+    "name": "Indigo Chanderi Anarkali",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 2963
+  },
+  {
+    "sku": "NSKU_Sage Green Chiffon Crop Top",
+    "name": "Sage Green Chiffon Crop Top",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 6196
+  },
+  {
+    "sku": "NSKU_Maroon Viscose Tunic",
+    "name": "Maroon Viscose Tunic",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 3672
+  },
+  {
+    "sku": "NSKU_Wine Linen Anarkali",
+    "name": "Wine Linen Anarkali",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 3386
+  },
+  {
+    "sku": "NSKU_Navy Linen Lehenga",
+    "name": "Navy Linen Lehenga",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 4399
+  },
+  {
+    "sku": "SK-ANA-114",
+    "name": "Indigo Silk Anarkali",
+    "returnCount": 2,
+    "returnRate": 8.0,
+    "band": "green",
+    "topReason": "colour faded after wash",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 3929
+  },
+  {
+    "sku": "SK-SHA-037",
+    "name": "Wine Chiffon Sharara Set",
+    "returnCount": 3,
+    "returnRate": 7.9,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 8341
+  },
+  {
+    "sku": "SK-KUR-373",
+    "name": "Rust Khadi Kurta Set",
+    "returnCount": 3,
+    "returnRate": 7.7,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 8656
+  },
+  {
+    "sku": "SK-KUR-462",
+    "name": "Mustard Linen Kurta Set",
+    "returnCount": 1,
+    "returnRate": 7.7,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 0
+  },
+  {
+    "sku": "SK-SAR-281",
+    "name": "Charcoal Chiffon Saree",
+    "returnCount": 4,
+    "returnRate": 7.7,
+    "band": "green",
+    "topReason": "size issue pls refund",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 3
+    },
+    "refundTotal": 7346
+  },
+  {
+    "sku": "SK-SAR-290",
+    "name": "Ivory Cotton Saree",
+    "returnCount": 4,
+    "returnRate": 7.7,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 1,
+      "Myntra": 2
+    },
+    "refundTotal": 9857
+  },
+  {
+    "sku": "SK-SHA-268",
+    "name": "Rust Cotton Sharara Set",
+    "returnCount": 2,
+    "returnRate": 7.7,
+    "band": "green",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 5493
+  },
+  {
+    "sku": "SK-DUP-076",
+    "name": "Blush Pink Rayon Dupatta",
+    "returnCount": 3,
+    "returnRate": 7.7,
+    "band": "green",
+    "topReason": "wrong size sent",
+    "platforms": {
+      "Ajio": 3
+    },
+    "refundTotal": 2699
+  },
+  {
+    "sku": "SK-SHA-069",
+    "name": "Teal Linen Sharara Set",
+    "returnCount": 2,
+    "returnRate": 7.7,
+    "band": "green",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 3834
+  },
+  {
+    "sku": "SK-TUN-148",
+    "name": "Indigo Chanderi Tunic",
+    "returnCount": 1,
+    "returnRate": 7.7,
+    "band": "green",
+    "topReason": "wrong size sent",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 938
+  },
+  {
+    "sku": "SK-SHA-480",
+    "name": "Indigo Khadi Sharara Set",
+    "returnCount": 4,
+    "returnRate": 7.5,
+    "band": "green",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 3,
+      "Ajio": 1
+    },
+    "refundTotal": 6465
+  },
+  {
+    "sku": "SK-CRO-391",
+    "name": "Rust Chanderi Crop Top",
+    "returnCount": 4,
+    "returnRate": 7.5,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 2,
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 9537
+  },
+  {
+    "sku": "SK-ANA-406",
+    "name": "Mustard Linen Anarkali",
+    "returnCount": 3,
+    "returnRate": 7.5,
+    "band": "green",
+    "topReason": "stitching came off",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 7341
+  },
+  {
+    "sku": "SK-SHA-085",
+    "name": "Peach Viscose Sharara Set",
+    "returnCount": 4,
+    "returnRate": 7.5,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 3
+    },
+    "refundTotal": 4172
+  },
+  {
+    "sku": "SK-KUR-079",
+    "name": "Mustard Cotton Kurta Set",
+    "returnCount": 4,
+    "returnRate": 7.4,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 8934
+  },
+  {
+    "sku": "SK-TUN-413",
+    "name": "Coral Chanderi Tunic",
+    "returnCount": 2,
+    "returnRate": 7.4,
+    "band": "green",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 4106
+  },
+  {
+    "sku": "SK-SAR-098",
+    "name": "Indigo Rayon Saree",
+    "returnCount": 3,
+    "returnRate": 7.3,
+    "band": "green",
+    "topReason": "size issue pls refund",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 2
+    },
+    "refundTotal": 6314
+  },
+  {
+    "sku": "SK-LEH-261",
+    "name": "Navy Viscose Lehenga",
+    "returnCount": 3,
+    "returnRate": 7.3,
+    "band": "green",
+    "topReason": "defective product received",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 4864
+  },
+  {
+    "sku": "SK-TUN-226",
+    "name": "Maroon Khadi Tunic",
+    "returnCount": 3,
+    "returnRate": 7.1,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 8605
+  },
+  {
+    "sku": "SK-CRO-245",
+    "name": "Mustard Crepe Crop Top",
+    "returnCount": 3,
+    "returnRate": 7.1,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 8295
+  },
+  {
+    "sku": "SK-SAR-344",
+    "name": "Sage Green Viscose Saree",
+    "returnCount": 2,
+    "returnRate": 7.1,
+    "band": "green",
+    "topReason": "size issue pls refund",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 3316
+  },
+  {
+    "sku": "SK-ANA-476",
+    "name": "Navy Khadi Anarkali",
+    "returnCount": 4,
+    "returnRate": 7.1,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 2,
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 8807
+  },
+  {
+    "sku": "SK-CRO-084",
+    "name": "Mustard Linen Crop Top",
+    "returnCount": 2,
+    "returnRate": 7.1,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 5402
+  },
+  {
+    "sku": "SK-ANA-338",
+    "name": "Charcoal Rayon Anarkali",
+    "returnCount": 3,
+    "returnRate": 7.1,
+    "band": "green",
+    "topReason": "colour faded after wash",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 1
+    },
+    "refundTotal": 5900
+  },
+  {
+    "sku": "SK-DUP-265",
+    "name": "Blush Pink Crepe Dupatta",
+    "returnCount": 1,
+    "returnRate": 7.1,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 3039
+  },
+  {
+    "sku": "SK-SHR-417",
+    "name": "Navy Georgette Shrug",
+    "returnCount": 1,
+    "returnRate": 7.1,
+    "band": "green",
+    "topReason": "colour faded after wash",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 1696
+  },
+  {
+    "sku": "SK-DUP-048",
+    "name": "Wine Crepe Dupatta",
+    "returnCount": 4,
+    "returnRate": 7.0,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 2,
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 12297
+  },
+  {
+    "sku": "SK-DUP-401",
+    "name": "Maroon Chiffon Dupatta",
+    "returnCount": 4,
+    "returnRate": 6.9,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 3,
+      "Myntra": 1
+    },
+    "refundTotal": 4585
+  },
+  {
+    "sku": "SK-LEH-133",
+    "name": "Indigo Cotton Lehenga",
+    "returnCount": 4,
+    "returnRate": 6.9,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 8695
+  },
+  {
+    "sku": "SK-CRO-408",
+    "name": "Maroon Chiffon Crop Top",
+    "returnCount": 2,
+    "returnRate": 6.9,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 2905
+  },
+  {
+    "sku": "SK-SHR-154",
+    "name": "Wine Rayon Shrug",
+    "returnCount": 4,
+    "returnRate": 6.8,
+    "band": "green",
+    "topReason": "didnt like the color",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 2
+    },
+    "refundTotal": 10442
+  },
+  {
+    "sku": "SK-TUN-102",
+    "name": "Maroon Cotton Tunic",
+    "returnCount": 3,
+    "returnRate": 6.7,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 3
+    },
+    "refundTotal": 6832
+  },
+  {
+    "sku": "SK-PAL-414",
+    "name": "Wine Cotton Palazzo Set",
+    "returnCount": 4,
+    "returnRate": 6.7,
+    "band": "green",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 3,
+      "Myntra": 1
+    },
+    "refundTotal": 12650
+  },
+  {
+    "sku": "SK-KUR-103",
+    "name": "Charcoal Georgette Kurta Set",
+    "returnCount": 2,
+    "returnRate": 6.7,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 5018
+  },
+  {
+    "sku": "SK-CRO-371",
+    "name": "Coral Georgette Crop Top",
+    "returnCount": 4,
+    "returnRate": 6.7,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 3,
+      "Ajio": 1
+    },
+    "refundTotal": 9033
+  },
+  {
+    "sku": "SK-CRO-485",
+    "name": "Rust Chiffon Crop Top",
+    "returnCount": 3,
+    "returnRate": 6.7,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 8503
+  },
+  {
+    "sku": "SK-SAR-227",
+    "name": "Mustard Linen Saree",
+    "returnCount": 1,
+    "returnRate": 6.7,
+    "band": "green",
+    "topReason": "fabric not good",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 3522
+  },
+  {
+    "sku": "SK-SAR-090",
+    "name": "Rust Viscose Saree",
+    "returnCount": 1,
+    "returnRate": 6.7,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3594
+  },
+  {
+    "sku": "SK-SHA-387",
+    "name": "Navy Khadi Sharara Set",
+    "returnCount": 3,
+    "returnRate": 6.5,
+    "band": "green",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 6620
+  },
+  {
+    "sku": "SK-SHR-292",
+    "name": "Peach Silk Shrug",
+    "returnCount": 2,
+    "returnRate": 6.5,
+    "band": "green",
+    "topReason": "colour faded after wash",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 6146
+  },
+  {
+    "sku": "SK-SAR-062",
+    "name": "Teal Silk Saree",
+    "returnCount": 2,
+    "returnRate": 6.5,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 6828
+  },
+  {
+    "sku": "SK-SHA-291",
+    "name": "Navy Rayon Sharara Set",
+    "returnCount": 3,
+    "returnRate": 6.5,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 7289
+  },
+  {
+    "sku": "SK-ANA-419",
+    "name": "Rust Rayon Anarkali",
+    "returnCount": 3,
+    "returnRate": 6.4,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 10532
+  },
+  {
+    "sku": "SK-KUR-184",
+    "name": "Ivory Rayon Kurta Set",
+    "returnCount": 3,
+    "returnRate": 6.1,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 1154
+  },
+  {
+    "sku": "SK-CRO-172",
+    "name": "Sage Green Chiffon Crop Top",
+    "returnCount": 3,
+    "returnRate": 6.1,
+    "band": "green",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 2
+    },
+    "refundTotal": 6584
+  },
+  {
+    "sku": "SK-SHR-283",
+    "name": "Peach Georgette Shrug",
+    "returnCount": 3,
+    "returnRate": 6.1,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 3
+    },
+    "refundTotal": 5567
+  },
+  {
+    "sku": "SK-SAR-181",
+    "name": "Indigo Silk Saree",
+    "returnCount": 3,
+    "returnRate": 6.1,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 3
+    },
+    "refundTotal": 3659
+  },
+  {
+    "sku": "SK-TUN-096",
+    "name": "Navy Khadi Tunic",
+    "returnCount": 2,
+    "returnRate": 6.1,
+    "band": "green",
+    "topReason": "didnt like the color",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 5434
+  },
+  {
+    "sku": "SK-LEH-071",
+    "name": "Charcoal Chanderi Lehenga",
+    "returnCount": 3,
+    "returnRate": 6.0,
+    "band": "green",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 2
+    },
+    "refundTotal": 8112
+  },
+  {
+    "sku": "SK-LEH-014",
+    "name": "Olive Crepe Lehenga",
+    "returnCount": 3,
+    "returnRate": 6.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 9317
+  },
+  {
+    "sku": "SK-KUR-185",
+    "name": "Sage Green Viscose Kurta Set",
+    "returnCount": 3,
+    "returnRate": 6.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Ajio": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 6302
+  },
+  {
+    "sku": "SK-SHA-016",
+    "name": "Navy Linen Sharara Set",
+    "returnCount": 3,
+    "returnRate": 5.9,
+    "band": "green",
+    "topReason": "didnt like the color",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 1
+    },
+    "refundTotal": 4843
+  },
+  {
+    "sku": "SK-DUP-121",
+    "name": "Teal Linen Dupatta",
+    "returnCount": 3,
+    "returnRate": 5.9,
+    "band": "green",
+    "topReason": "delayed delivery dont want now",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 1
+    },
+    "refundTotal": 7299
+  },
+  {
+    "sku": "SK-PAL-118",
+    "name": "Coral Viscose Palazzo Set",
+    "returnCount": 3,
+    "returnRate": 5.9,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 6650
+  },
+  {
+    "sku": "SK-DUP-025",
+    "name": "Ivory Rayon Dupatta",
+    "returnCount": 3,
+    "returnRate": 5.9,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 2
+    },
+    "refundTotal": 7214
+  },
+  {
+    "sku": "SK-TUN-197",
+    "name": "Rust Chiffon Tunic",
+    "returnCount": 3,
+    "returnRate": 5.9,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 2
+    },
+    "refundTotal": 5025
+  },
+  {
+    "sku": "SK-CRO-032",
+    "name": "Sage Green Rayon Crop Top",
+    "returnCount": 3,
+    "returnRate": 5.9,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 3
+    },
+    "refundTotal": 5239
+  },
+  {
+    "sku": "SK-SHA-271",
+    "name": "Ivory Georgette Sharara Set",
+    "returnCount": 2,
+    "returnRate": 5.9,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 4213
+  },
+  {
+    "sku": "SK-TUN-326",
+    "name": "Teal Linen Tunic",
+    "returnCount": 2,
+    "returnRate": 5.9,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 2
+    },
+    "refundTotal": 4624
+  },
+  {
+    "sku": "SK-ANA-176",
+    "name": "Teal Rayon Anarkali",
+    "returnCount": 3,
+    "returnRate": 5.8,
+    "band": "green",
+    "topReason": "too tight",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 1
+    },
+    "refundTotal": 7844
+  },
+  {
+    "sku": "SK-TUN-111",
+    "name": "Teal Cotton Tunic",
+    "returnCount": 3,
+    "returnRate": 5.8,
+    "band": "green",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 2,
+      "Myntra": 1
+    },
+    "refundTotal": 7030
+  },
+  {
+    "sku": "SK-LEH-156",
+    "name": "Ivory Cotton Lehenga",
+    "returnCount": 3,
+    "returnRate": 5.8,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 2998
+  },
+  {
+    "sku": "SK-SHR-033",
+    "name": "Peach Chiffon Shrug",
+    "returnCount": 2,
+    "returnRate": 5.7,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 838
+  },
+  {
+    "sku": "SK-TUN-356",
+    "name": "Coral Crepe Tunic",
+    "returnCount": 2,
+    "returnRate": 5.7,
+    "band": "green",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 6894
+  },
+  {
+    "sku": "SK-SHR-433",
+    "name": "Navy Chanderi Shrug",
+    "returnCount": 3,
+    "returnRate": 5.6,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 3801
+  },
+  {
+    "sku": "SK-PAL-306",
+    "name": "Lavender Viscose Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 5.6,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3304
+  },
+  {
+    "sku": "SK-CRO-332",
+    "name": "Navy Rayon Crop Top",
+    "returnCount": 2,
+    "returnRate": 5.6,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 7226
+  },
+  {
+    "sku": "SK-SHR-095",
+    "name": "Ivory Chiffon Shrug",
+    "returnCount": 2,
+    "returnRate": 5.6,
+    "band": "green",
+    "topReason": "too tight",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 4617
+  },
+  {
+    "sku": "SK-ANA-282",
+    "name": "Ivory Rayon Anarkali",
+    "returnCount": 3,
+    "returnRate": 5.5,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 2
+    },
+    "refundTotal": 7250
+  },
+  {
+    "sku": "SK-TUN-474",
+    "name": "Maroon Silk Tunic",
+    "returnCount": 3,
+    "returnRate": 5.5,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 4995
+  },
+  {
+    "sku": "SK-SHA-222",
+    "name": "Peach Georgette Sharara Set",
+    "returnCount": 3,
+    "returnRate": 5.4,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 2
+    },
+    "refundTotal": 4679
+  },
+  {
+    "sku": "SK-SAR-460",
+    "name": "Charcoal Rayon Saree",
+    "returnCount": 3,
+    "returnRate": 5.4,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 2
+    },
+    "refundTotal": 7159
+  },
+  {
+    "sku": "SK-TUN-482",
+    "name": "Olive Linen Tunic",
+    "returnCount": 1,
+    "returnRate": 5.3,
+    "band": "green",
+    "topReason": "didnt like the color",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 3456
+  },
+  {
+    "sku": "SK-CRO-059",
+    "name": "Mustard Chiffon Crop Top",
+    "returnCount": 2,
+    "returnRate": 5.3,
+    "band": "green",
+    "topReason": "delayed delivery dont want now",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 6006
+  },
+  {
+    "sku": "SK-ANA-416",
+    "name": "Blush Pink Silk Anarkali",
+    "returnCount": 2,
+    "returnRate": 5.3,
+    "band": "green",
+    "topReason": "size issue pls refund",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 6930
+  },
+  {
+    "sku": "SK-CRO-323",
+    "name": "Olive Viscose Crop Top",
+    "returnCount": 3,
+    "returnRate": 5.3,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 5945
+  },
+  {
+    "sku": "SK-SHA-110",
+    "name": "Coral Rayon Sharara Set",
+    "returnCount": 2,
+    "returnRate": 5.3,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 7288
+  },
+  {
+    "sku": "SK-PAL-280",
+    "name": "Ivory Chiffon Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 5.3,
+    "band": "green",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 1155
+  },
+  {
+    "sku": "SK-DUP-239",
+    "name": "Rust Linen Dupatta",
+    "returnCount": 1,
+    "returnRate": 5.3,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 611
+  },
+  {
+    "sku": "SK-KUR-204",
+    "name": "Peach Rayon Kurta Set",
+    "returnCount": 1,
+    "returnRate": 5.3,
+    "band": "green",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 3795
+  },
+  {
+    "sku": "SK-SAR-038",
+    "name": "Olive Chanderi Saree",
+    "returnCount": 3,
+    "returnRate": 5.2,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 2
+    },
+    "refundTotal": 4150
+  },
+  {
+    "sku": "SK-KUR-209",
+    "name": "Ivory Silk Kurta Set",
+    "returnCount": 2,
+    "returnRate": 5.1,
+    "band": "green",
+    "topReason": "stitching came off",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 1772
+  },
+  {
+    "sku": "SK-KUR-188",
+    "name": "Coral Linen Kurta Set",
+    "returnCount": 3,
+    "returnRate": 5.1,
+    "band": "green",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 2,
+      "Ajio": 1
+    },
+    "refundTotal": 4607
+  },
+  {
+    "sku": "SK-LEH-449",
+    "name": "Navy Chiffon Lehenga",
+    "returnCount": 2,
+    "returnRate": 5.1,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 5218
+  },
+  {
+    "sku": "SK-KUR-042",
+    "name": "Mustard Chanderi Kurta Set",
+    "returnCount": 2,
+    "returnRate": 5.1,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 3015
+  },
+  {
+    "sku": "SK-SHA-279",
+    "name": "Coral Viscose Sharara Set",
+    "returnCount": 3,
+    "returnRate": 5.0,
+    "band": "green",
+    "topReason": "looks different from photo",
+    "platforms": {
+      "Ajio": 2,
+      "Shopify": 1
+    },
+    "refundTotal": 9436
+  },
+  {
+    "sku": "SK-SHA-255",
+    "name": "Olive Silk Sharara Set",
+    "returnCount": 2,
+    "returnRate": 5.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 6180
+  },
+  {
+    "sku": "SK-TUN-070",
+    "name": "Rust Chanderi Tunic",
+    "returnCount": 2,
+    "returnRate": 4.9,
+    "band": "green",
+    "topReason": "didnt like the color",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 5603
+  },
+  {
+    "sku": "SK-TUN-193",
+    "name": "Teal Chiffon Tunic",
+    "returnCount": 2,
+    "returnRate": 4.9,
+    "band": "green",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 4405
+  },
+  {
+    "sku": "SK-SHR-008",
+    "name": "Maroon Georgette Shrug",
+    "returnCount": 2,
+    "returnRate": 4.9,
+    "band": "green",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 3975
+  },
+  {
+    "sku": "SK-LEH-217",
+    "name": "Coral Georgette Lehenga",
+    "returnCount": 1,
+    "returnRate": 4.8,
+    "band": "green",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 2075
+  },
+  {
+    "sku": "SK-SHA-230",
+    "name": "Coral Linen Sharara Set",
+    "returnCount": 2,
+    "returnRate": 4.8,
+    "band": "green",
+    "topReason": "wrong size sent",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 2620
+  },
+  {
+    "sku": "SK-SAR-024",
+    "name": "Lavender Chiffon Saree",
+    "returnCount": 2,
+    "returnRate": 4.8,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 5702
+  },
+  {
+    "sku": "SK-DUP-061",
+    "name": "Olive Georgette Dupatta",
+    "returnCount": 1,
+    "returnRate": 4.8,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3689
+  },
+  {
+    "sku": "SK-TUN-080",
+    "name": "Rust Georgette Tunic",
+    "returnCount": 1,
+    "returnRate": 4.8,
+    "band": "green",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 3976
+  },
+  {
+    "sku": "SK-SAR-128",
+    "name": "Blush Pink Rayon Saree",
+    "returnCount": 2,
+    "returnRate": 4.7,
+    "band": "green",
+    "topReason": "delayed delivery dont want now",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 3266
+  },
+  {
+    "sku": "SK-KUR-339",
+    "name": "Sage Green Silk Kurta Set",
+    "returnCount": 2,
+    "returnRate": 4.7,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 3595
+  },
+  {
+    "sku": "SK-CRO-020",
+    "name": "Olive Khadi Crop Top",
+    "returnCount": 2,
+    "returnRate": 4.7,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 6387
+  },
+  {
+    "sku": "SK-LEH-207",
+    "name": "Charcoal Chiffon Lehenga",
+    "returnCount": 1,
+    "returnRate": 4.5,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2518
+  },
+  {
+    "sku": "SK-SAR-134",
+    "name": "Mustard Linen Saree",
+    "returnCount": 2,
+    "returnRate": 4.5,
+    "band": "green",
+    "topReason": "fabric not good",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 6997
+  },
+  {
+    "sku": "SK-LEH-445",
+    "name": "Charcoal Viscose Lehenga",
+    "returnCount": 1,
+    "returnRate": 4.5,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 671
+  },
+  {
+    "sku": "SK-SHR-372",
+    "name": "Charcoal Silk Shrug",
+    "returnCount": 2,
+    "returnRate": 4.4,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 1338
+  },
+  {
+    "sku": "SK-ANA-218",
+    "name": "Coral Crepe Anarkali",
+    "returnCount": 2,
+    "returnRate": 4.4,
+    "band": "green",
+    "topReason": "wrong size sent",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 4310
+  },
+  {
+    "sku": "SK-SHR-461",
+    "name": "Blush Pink Crepe Shrug",
+    "returnCount": 2,
+    "returnRate": 4.4,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 4932
+  },
+  {
+    "sku": "SK-KUR-297",
+    "name": "Blush Pink Silk Kurta Set",
+    "returnCount": 2,
+    "returnRate": 4.2,
+    "band": "green",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 2
+    },
+    "refundTotal": 5901
+  },
+  {
+    "sku": "SK-CRO-278",
+    "name": "Mustard Khadi Crop Top",
+    "returnCount": 1,
+    "returnRate": 4.2,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 870
+  },
+  {
+    "sku": "SK-KUR-107",
+    "name": "Maroon Georgette Kurta Set",
+    "returnCount": 1,
+    "returnRate": 4.2,
+    "band": "green",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 1593
+  },
+  {
+    "sku": "SK-TUN-149",
+    "name": "Wine Khadi Tunic",
+    "returnCount": 1,
+    "returnRate": 4.2,
+    "band": "green",
+    "topReason": "looks different from photo",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 0
+  },
+  {
+    "sku": "SK-DUP-378",
+    "name": "Lavender Linen Dupatta",
+    "returnCount": 2,
+    "returnRate": 4.1,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 2
+    },
+    "refundTotal": 5149
+  },
+  {
+    "sku": "NSKU_Coral Crepe Anarkali",
+    "name": "Coral Crepe Anarkali",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2179
+  },
+  {
+    "sku": "NSKU_Sage Green Chiffon Kurta Set",
+    "name": "Sage Green Chiffon Kurta Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3971
+  },
+  {
+    "sku": "NSKU_Navy Chanderi Shrug",
+    "name": "Navy Chanderi Shrug",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 0
+  },
+  {
+    "sku": "NSKU_Indigo Chanderi Saree",
+    "name": "Indigo Chanderi Saree",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1514
+  },
+  {
+    "sku": "NSKU_Maroon Chiffon Shrug",
+    "name": "Maroon Chiffon Shrug",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1186
+  },
+  {
+    "sku": "SK-SAR-418",
+    "name": "Navy Rayon Saree",
+    "returnCount": 2,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 3494
+  },
+  {
+    "sku": "NSKU_Sage Green Crepe Anarkali",
+    "name": "Sage Green Crepe Anarkali",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1778
+  },
+  {
+    "sku": "NSKU_Rust Rayon Dupatta",
+    "name": "Rust Rayon Dupatta",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3526
+  },
+  {
+    "sku": "NSKU_Blush Pink Viscose Crop Top",
+    "name": "Blush Pink Viscose Crop Top",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 869
+  },
+  {
+    "sku": "NSKU_Charcoal Chiffon Dupatta",
+    "name": "Charcoal Chiffon Dupatta",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2374
+  },
+  {
+    "sku": "NSKU_Wine Linen Dupatta",
+    "name": "Wine Linen Dupatta",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1507
+  },
+  {
+    "sku": "NSKU_Maroon Georgette Kurta Set",
+    "name": "Maroon Georgette Kurta Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3645
+  },
+  {
+    "sku": "NSKU_Charcoal Khadi Sharara Set",
+    "name": "Charcoal Khadi Sharara Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3729
+  },
+  {
+    "sku": "NSKU_Blush Pink Viscose Anarkali",
+    "name": "Blush Pink Viscose Anarkali",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "fabric not good",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 3505
+  },
+  {
+    "sku": "NSKU_Rust Linen Crop Top",
+    "name": "Rust Linen Crop Top",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1053
+  },
+  {
+    "sku": "NSKU_Sage Green Linen Saree",
+    "name": "Sage Green Linen Saree",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1402
+  },
+  {
+    "sku": "NSKU_Navy Rayon Crop Top",
+    "name": "Navy Rayon Crop Top",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1809
+  },
+  {
+    "sku": "NSKU_Olive Khadi Dupatta",
+    "name": "Olive Khadi Dupatta",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1531
+  },
+  {
+    "sku": "NSKU_Blush Pink Silk Anarkali",
+    "name": "Blush Pink Silk Anarkali",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3191
+  },
+  {
+    "sku": "NSKU_Teal Crepe Shrug",
+    "name": "Teal Crepe Shrug",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3781
+  },
+  {
+    "sku": "SK-SHA-321",
+    "name": "Blush Pink Crepe Sharara Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 0
+  },
+  {
+    "sku": "NSKU_Coral Georgette Crop Top",
+    "name": "Coral Georgette Crop Top",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2214
+  },
+  {
+    "sku": "NSKU_Coral Viscose Tunic",
+    "name": "Coral Viscose Tunic",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2992
+  },
+  {
+    "sku": "NSKU_Teal Khadi Tunic",
+    "name": "Teal Khadi Tunic",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1294
+  },
+  {
+    "sku": "NSKU_Mustard Crepe Anarkali",
+    "name": "Mustard Crepe Anarkali",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3264
+  },
+  {
+    "sku": "NSKU_Navy Rayon Saree",
+    "name": "Navy Rayon Saree",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3111
+  },
+  {
+    "sku": "SK-PAL-012",
+    "name": "Mustard Rayon Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 1643
+  },
+  {
+    "sku": "NSKU_Olive Cotton Kurta Set",
+    "name": "Olive Cotton Kurta Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2778
+  },
+  {
+    "sku": "NSKU_Lavender Linen Tunic",
+    "name": "Lavender Linen Tunic",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3561
+  },
+  {
+    "sku": "NSKU_Mustard Rayon Dupatta",
+    "name": "Mustard Rayon Dupatta",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2290
+  },
+  {
+    "sku": "NSKU_Navy Khadi Anarkali",
+    "name": "Navy Khadi Anarkali",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1574
+  },
+  {
+    "sku": "NSKU_Indigo Chiffon Tunic",
+    "name": "Indigo Chiffon Tunic",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 688
+  },
+  {
+    "sku": "NSKU_Lavender Crepe Tunic",
+    "name": "Lavender Crepe Tunic",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3792
+  },
+  {
+    "sku": "NSKU_Olive Cotton Dupatta",
+    "name": "Olive Cotton Dupatta",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2341
+  },
+  {
+    "sku": "NSKU_Coral Linen Sharara Set",
+    "name": "Coral Linen Sharara Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3490
+  },
+  {
+    "sku": "SK-KUR-065",
+    "name": "Indigo Silk Kurta Set",
+    "returnCount": 2,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "better price on myntra",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 4631
+  },
+  {
+    "sku": "NSKU_Mustard Linen Anarkali",
+    "name": "Mustard Linen Anarkali",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2006
+  },
+  {
+    "sku": "NSKU_Peach Georgette Dupatta",
+    "name": "Peach Georgette Dupatta",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2459
+  },
+  {
+    "sku": "NSKU_Rust Cotton Palazzo Set",
+    "name": "Rust Cotton Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 707
+  },
+  {
+    "sku": "NSKU_Coral Linen Tunic",
+    "name": "Coral Linen Tunic",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 683
+  },
+  {
+    "sku": "NSKU_Wine Chiffon Sharara Set",
+    "name": "Wine Chiffon Sharara Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3476
+  },
+  {
+    "sku": "NSKU_Wine Viscose Saree",
+    "name": "Wine Viscose Saree",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2166
+  },
+  {
+    "sku": "NSKU_Sage Green Khadi Lehenga",
+    "name": "Sage Green Khadi Lehenga",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2774
+  },
+  {
+    "sku": "NSKU_Coral Cotton Sharara Set",
+    "name": "Coral Cotton Sharara Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2240
+  },
+  {
+    "sku": "NSKU_Wine Crepe Sharara Set",
+    "name": "Wine Crepe Sharara Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2002
+  },
+  {
+    "sku": "NSKU_Mustard Chiffon Anarkali",
+    "name": "Mustard Chiffon Anarkali",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3031
+  },
+  {
+    "sku": "NSKU_Coral Cotton Palazzo Set",
+    "name": "Coral Cotton Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3880
+  },
+  {
+    "sku": "NSKU_Mustard Rayon Palazzo Set",
+    "name": "Mustard Rayon Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3928
+  },
+  {
+    "sku": "NSKU_Indigo Rayon Tunic",
+    "name": "Indigo Rayon Tunic",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2329
+  },
+  {
+    "sku": "NSKU_Mustard Crepe Palazzo Set",
+    "name": "Mustard Crepe Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 0
+  },
+  {
+    "sku": "NSKU_Blush Pink Crepe Lehenga",
+    "name": "Blush Pink Crepe Lehenga",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3151
+  },
+  {
+    "sku": "NSKU_Teal Chanderi Lehenga",
+    "name": "Teal Chanderi Lehenga",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2282
+  },
+  {
+    "sku": "NSKU_Navy Crepe Lehenga",
+    "name": "Navy Crepe Lehenga",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2160
+  },
+  {
+    "sku": "NSKU_Wine Silk Shrug",
+    "name": "Wine Silk Shrug",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3983
+  },
+  {
+    "sku": "NSKU_Rust Chanderi Crop Top",
+    "name": "Rust Chanderi Crop Top",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2673
+  },
+  {
+    "sku": "NSKU_Sage Green Khadi Saree",
+    "name": "Sage Green Khadi Saree",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2671
+  },
+  {
+    "sku": "NSKU_Olive Georgette Dupatta",
+    "name": "Olive Georgette Dupatta",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3822
+  },
+  {
+    "sku": "NSKU_Lavender Chiffon Kurta Set",
+    "name": "Lavender Chiffon Kurta Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2476
+  },
+  {
+    "sku": "NSKU_Sage Green Viscose Saree",
+    "name": "Sage Green Viscose Saree",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 621
+  },
+  {
+    "sku": "NSKU_Wine Cotton Palazzo Set",
+    "name": "Wine Cotton Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3700
+  },
+  {
+    "sku": "NSKU_Blush Pink Chanderi Palazzo Set",
+    "name": "Blush Pink Chanderi Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2536
+  },
+  {
+    "sku": "NSKU_Olive Khadi Kurta Set",
+    "name": "Olive Khadi Kurta Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3126
+  },
+  {
+    "sku": "NSKU_Coral Rayon Lehenga",
+    "name": "Coral Rayon Lehenga",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1275
+  },
+  {
+    "sku": "NSKU_Mustard Crepe Crop Top",
+    "name": "Mustard Crepe Crop Top",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1510
+  },
+  {
+    "sku": "NSKU_Olive Khadi Lehenga",
+    "name": "Olive Khadi Lehenga",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2869
+  },
+  {
+    "sku": "SK-KUR-210",
+    "name": "Coral Cotton Kurta Set",
+    "returnCount": 2,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 2918
+  },
+  {
+    "sku": "NSKU_Peach Silk Palazzo Set",
+    "name": "Peach Silk Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3280
+  },
+  {
+    "sku": "NSKU_Mustard Crepe Lehenga",
+    "name": "Mustard Crepe Lehenga",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2450
+  },
+  {
+    "sku": "NSKU_Navy Georgette Lehenga",
+    "name": "Navy Georgette Lehenga",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3893
+  },
+  {
+    "sku": "SK-LEH-023",
+    "name": "Sage Green Khadi Lehenga",
+    "returnCount": 2,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 1439
+  },
+  {
+    "sku": "NSKU_Blush Pink Khadi Shrug",
+    "name": "Blush Pink Khadi Shrug",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2896
+  },
+  {
+    "sku": "NSKU_Lavender Cotton Sharara Set",
+    "name": "Lavender Cotton Sharara Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1293
+  },
+  {
+    "sku": "NSKU_Navy Cotton Dupatta",
+    "name": "Navy Cotton Dupatta",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2813
+  },
+  {
+    "sku": "NSKU_Charcoal Silk Shrug",
+    "name": "Charcoal Silk Shrug",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 914
+  },
+  {
+    "sku": "NSKU_Lavender Crepe Anarkali",
+    "name": "Lavender Crepe Anarkali",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3414
+  },
+  {
+    "sku": "SK-PAL-168",
+    "name": "Rust Cotton Palazzo Set",
+    "returnCount": 2,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 3870
+  },
+  {
+    "sku": "NSKU_Coral Chiffon Saree",
+    "name": "Coral Chiffon Saree",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1558
+  },
+  {
+    "sku": "NSKU_Ivory Chanderi Anarkali",
+    "name": "Ivory Chanderi Anarkali",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1909
+  },
+  {
+    "sku": "NSKU_Rust Viscose Dupatta",
+    "name": "Rust Viscose Dupatta",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1486
+  },
+  {
+    "sku": "NSKU_Charcoal Chanderi Sharara Set",
+    "name": "Charcoal Chanderi Sharara Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1627
+  },
+  {
+    "sku": "NSKU_Peach Linen Lehenga",
+    "name": "Peach Linen Lehenga",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2625
+  },
+  {
+    "sku": "NSKU_Wine Cotton Crop Top",
+    "name": "Wine Cotton Crop Top",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2335
+  },
+  {
+    "sku": "NSKU_Mustard Georgette Anarkali",
+    "name": "Mustard Georgette Anarkali",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2208
+  },
+  {
+    "sku": "NSKU_Maroon Viscose Palazzo Set",
+    "name": "Maroon Viscose Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 712
+  },
+  {
+    "sku": "NSKU_Maroon Crepe Dupatta",
+    "name": "Maroon Crepe Dupatta",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2221
+  },
+  {
+    "sku": "NSKU_Charcoal Chanderi Tunic",
+    "name": "Charcoal Chanderi Tunic",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1487
+  },
+  {
+    "sku": "NSKU_Indigo Rayon Palazzo Set",
+    "name": "Indigo Rayon Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2097
+  },
+  {
+    "sku": "NSKU_Mustard Chanderi Crop Top",
+    "name": "Mustard Chanderi Crop Top",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1642
+  },
+  {
+    "sku": "NSKU_Rust Crepe Palazzo Set",
+    "name": "Rust Crepe Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2994
+  },
+  {
+    "sku": "NSKU_Maroon Silk Shrug",
+    "name": "Maroon Silk Shrug",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3454
+  },
+  {
+    "sku": "NSKU_Maroon Silk Saree",
+    "name": "Maroon Silk Saree",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 749
+  },
+  {
+    "sku": "NSKU_Ivory Cotton Lehenga",
+    "name": "Ivory Cotton Lehenga",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2837
+  },
+  {
+    "sku": "NSKU_Rust Khadi Sharara Set",
+    "name": "Rust Khadi Sharara Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1993
+  },
+  {
+    "sku": "NSKU_Mustard Cotton Sharara Set",
+    "name": "Mustard Cotton Sharara Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2043
+  },
+  {
+    "sku": "NSKU_Rust Linen Anarkali",
+    "name": "Rust Linen Anarkali",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2567
+  },
+  {
+    "sku": "NSKU_Blush Pink Crepe Kurta Set",
+    "name": "Blush Pink Crepe Kurta Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 0
+  },
+  {
+    "sku": "NSKU_Charcoal Rayon Saree",
+    "name": "Charcoal Rayon Saree",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2474
+  },
+  {
+    "sku": "NSKU_Peach Linen Anarkali",
+    "name": "Peach Linen Anarkali",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1798
+  },
+  {
+    "sku": "NSKU_Navy Chanderi Tunic",
+    "name": "Navy Chanderi Tunic",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3898
+  },
+  {
+    "sku": "NSKU_Navy Crepe Kurta Set",
+    "name": "Navy Crepe Kurta Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 0
+  },
+  {
+    "sku": "NSKU_Ivory Crepe Anarkali",
+    "name": "Ivory Crepe Anarkali",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1930
+  },
+  {
+    "sku": "NSKU_Charcoal Georgette Dupatta",
+    "name": "Charcoal Georgette Dupatta",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2503
+  },
+  {
+    "sku": "NSKU_Coral Viscose Sharara Set",
+    "name": "Coral Viscose Sharara Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2196
+  },
+  {
+    "sku": "NSKU_Navy Rayon Sharara Set",
+    "name": "Navy Rayon Sharara Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3880
+  },
+  {
+    "sku": "NSKU_Indigo Khadi Sharara Set",
+    "name": "Indigo Khadi Sharara Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2587
+  },
+  {
+    "sku": "NSKU_Ivory Georgette Anarkali",
+    "name": "Ivory Georgette Anarkali",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3825
+  },
+  {
+    "sku": "NSKU_Indigo Chiffon Lehenga",
+    "name": "Indigo Chiffon Lehenga",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 0
+  },
+  {
+    "sku": "NSKU_Indigo Chanderi Tunic",
+    "name": "Indigo Chanderi Tunic",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 627
+  },
+  {
+    "sku": "NSKU_Ivory Silk Kurta Set",
+    "name": "Ivory Silk Kurta Set",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3075
+  },
+  {
+    "sku": "NSKU_Indigo Georgette Anarkali",
+    "name": "Indigo Georgette Anarkali",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3428
+  },
+  {
+    "sku": "NSKU_Mustard Rayon Lehenga",
+    "name": "Mustard Rayon Lehenga",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 585
+  },
+  {
+    "sku": "NSKU_Charcoal Silk Tunic",
+    "name": "Charcoal Silk Tunic",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3409
+  },
+  {
+    "sku": "NSKU_Peach Chanderi Saree",
+    "name": "Peach Chanderi Saree",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3148
+  },
+  {
+    "sku": "NSKU_Indigo Georgette Crop Top",
+    "name": "Indigo Georgette Crop Top",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3685
+  },
+  {
+    "sku": "NSKU_Maroon Silk Tunic",
+    "name": "Maroon Silk Tunic",
+    "returnCount": 1,
+    "returnRate": 4.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3408
+  },
+  {
+    "sku": "SK-SAR-009",
+    "name": "Sage Green Chanderi Saree",
+    "returnCount": 2,
+    "returnRate": 3.9,
+    "band": "green",
+    "topReason": "stitching came off",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 4882
+  },
+  {
+    "sku": "SK-SHR-228",
+    "name": "Ivory Georgette Shrug",
+    "returnCount": 2,
+    "returnRate": 3.8,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 2
+    },
+    "refundTotal": 2663
+  },
+  {
+    "sku": "SK-ANA-089",
+    "name": "Sage Green Chanderi Anarkali",
+    "returnCount": 2,
+    "returnRate": 3.8,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 6586
+  },
+  {
+    "sku": "SK-DUP-100",
+    "name": "Olive Chanderi Dupatta",
+    "returnCount": 2,
+    "returnRate": 3.8,
+    "band": "green",
+    "topReason": "fabric not good",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 4928
+  },
+  {
+    "sku": "SK-CRO-427",
+    "name": "Blush Pink Chiffon Crop Top",
+    "returnCount": 2,
+    "returnRate": 3.8,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 6516
+  },
+  {
+    "sku": "SK-LEH-051",
+    "name": "Charcoal Viscose Lehenga",
+    "returnCount": 2,
+    "returnRate": 3.8,
+    "band": "green",
+    "topReason": "material is cheap",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 4892
+  },
+  {
+    "sku": "SK-TUN-293",
+    "name": "Maroon Viscose Tunic",
+    "returnCount": 2,
+    "returnRate": 3.8,
+    "band": "green",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 3657
+  },
+  {
+    "sku": "SK-CRO-410",
+    "name": "Blush Pink Chiffon Crop Top",
+    "returnCount": 2,
+    "returnRate": 3.8,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 5977
+  },
+  {
+    "sku": "SK-SHR-479",
+    "name": "Maroon Rayon Shrug",
+    "returnCount": 2,
+    "returnRate": 3.8,
+    "band": "green",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 2
+    },
+    "refundTotal": 2621
+  },
+  {
+    "sku": "SK-DUP-220",
+    "name": "Rust Viscose Dupatta",
+    "returnCount": 1,
+    "returnRate": 3.8,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 2001
+  },
+  {
+    "sku": "SK-LEH-174",
+    "name": "Mustard Crepe Lehenga",
+    "returnCount": 1,
+    "returnRate": 3.8,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1040
+  },
+  {
+    "sku": "SK-DUP-275",
+    "name": "Peach Georgette Dupatta",
+    "returnCount": 1,
+    "returnRate": 3.7,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 668
+  },
+  {
+    "sku": "SK-PAL-235",
+    "name": "Coral Viscose Palazzo Set",
+    "returnCount": 2,
+    "returnRate": 3.7,
+    "band": "green",
+    "topReason": "too tight",
+    "platforms": {
+      "Ajio": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 3070
+  },
+  {
+    "sku": "SK-ANA-407",
+    "name": "Teal Chiffon Anarkali",
+    "returnCount": 1,
+    "returnRate": 3.7,
+    "band": "green",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 3083
+  },
+  {
+    "sku": "SK-TUN-034",
+    "name": "Coral Cotton Tunic",
+    "returnCount": 1,
+    "returnRate": 3.6,
+    "band": "green",
+    "topReason": "colour faded after wash",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 736
+  },
+  {
+    "sku": "SK-SHA-131",
+    "name": "Blush Pink Georgette Sharara Set",
+    "returnCount": 2,
+    "returnRate": 3.6,
+    "band": "green",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 2194
+  },
+  {
+    "sku": "SK-ANA-376",
+    "name": "Peach Viscose Anarkali",
+    "returnCount": 2,
+    "returnRate": 3.6,
+    "band": "green",
+    "topReason": "ordered by mistake",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 3632
+  },
+  {
+    "sku": "SK-PAL-224",
+    "name": "Coral Silk Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 3.6,
+    "band": "green",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 1220
+  },
+  {
+    "sku": "SK-PAL-355",
+    "name": "Coral Silk Palazzo Set",
+    "returnCount": 2,
+    "returnRate": 3.6,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 5384
+  },
+  {
+    "sku": "SK-SHR-439",
+    "name": "Peach Georgette Shrug",
+    "returnCount": 2,
+    "returnRate": 3.6,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 2
+    },
+    "refundTotal": 5974
+  },
+  {
+    "sku": "SK-CRO-216",
+    "name": "Wine Linen Crop Top",
+    "returnCount": 2,
+    "returnRate": 3.5,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 4651
+  },
+  {
+    "sku": "SK-SHR-412",
+    "name": "Coral Cotton Shrug",
+    "returnCount": 2,
+    "returnRate": 3.5,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 2
+    },
+    "refundTotal": 5542
+  },
+  {
+    "sku": "SK-PAL-390",
+    "name": "Rust Viscose Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 3.4,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 2036
+  },
+  {
+    "sku": "SK-CRO-403",
+    "name": "Indigo Silk Crop Top",
+    "returnCount": 2,
+    "returnRate": 3.4,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 4636
+  },
+  {
+    "sku": "SK-SHR-484",
+    "name": "Rust Khadi Shrug",
+    "returnCount": 2,
+    "returnRate": 3.4,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 1,
+      "Ajio": 1
+    },
+    "refundTotal": 3171
+  },
+  {
+    "sku": "SK-PAL-136",
+    "name": "Wine Crepe Palazzo Set",
+    "returnCount": 2,
+    "returnRate": 3.4,
+    "band": "green",
+    "topReason": "delayed delivery dont want now",
+    "platforms": {
+      "Ajio": 1,
+      "Myntra": 1
+    },
+    "refundTotal": 2286
+  },
+  {
+    "sku": "SK-SHA-358",
+    "name": "Olive Cotton Sharara Set",
+    "returnCount": 2,
+    "returnRate": 3.3,
+    "band": "green",
+    "topReason": "ordered by mistake",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 5587
+  },
+  {
+    "sku": "SK-TUN-296",
+    "name": "Coral Viscose Tunic",
+    "returnCount": 2,
+    "returnRate": 3.3,
+    "band": "green",
+    "topReason": "NOT_AS_SHOWN",
+    "platforms": {
+      "Myntra": 1,
+      "Shopify": 1
+    },
+    "refundTotal": 1986
+  },
+  {
+    "sku": "SK-PAL-347",
+    "name": "Wine Rayon Palazzo Set",
+    "returnCount": 2,
+    "returnRate": 3.3,
+    "band": "green",
+    "topReason": "stitching came off",
+    "platforms": {
+      "Ajio": 2
+    },
+    "refundTotal": 2738
+  },
+  {
+    "sku": "SK-SHR-467",
+    "name": "Charcoal Cotton Shrug",
+    "returnCount": 1,
+    "returnRate": 3.2,
+    "band": "green",
+    "topReason": "fabric not good",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 2379
+  },
+  {
+    "sku": "SK-DUP-285",
+    "name": "Mustard Chanderi Dupatta",
+    "returnCount": 1,
+    "returnRate": 3.1,
+    "band": "green",
+    "topReason": "ordered by mistake",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 2370
+  },
+  {
+    "sku": "SK-PAL-375",
+    "name": "Sage Green Linen Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 3.1,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3015
+  },
+  {
+    "sku": "SK-TUN-465",
+    "name": "Navy Chanderi Tunic",
+    "returnCount": 1,
+    "returnRate": 3.1,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1830
+  },
+  {
+    "sku": "SK-LEH-249",
+    "name": "Indigo Cotton Lehenga",
+    "returnCount": 1,
+    "returnRate": 3.1,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3209
+  },
+  {
+    "sku": "SK-DUP-289",
+    "name": "Wine Linen Dupatta",
+    "returnCount": 1,
+    "returnRate": 3.1,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 2296
+  },
+  {
+    "sku": "SK-SAR-380",
+    "name": "Maroon Silk Saree",
+    "returnCount": 1,
+    "returnRate": 3.0,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 869
+  },
+  {
+    "sku": "SK-SHR-322",
+    "name": "Indigo Georgette Shrug",
+    "returnCount": 1,
+    "returnRate": 2.9,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 816
+  },
+  {
+    "sku": "SK-TUN-248",
+    "name": "Indigo Chiffon Tunic",
+    "returnCount": 1,
+    "returnRate": 2.9,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 1101
+  },
+  {
+    "sku": "SK-SAR-221",
+    "name": "Indigo Chanderi Saree",
+    "returnCount": 1,
+    "returnRate": 2.9,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2497
+  },
+  {
+    "sku": "SK-CRO-392",
+    "name": "Sage Green Chiffon Crop Top",
+    "returnCount": 1,
+    "returnRate": 2.9,
+    "band": "green",
+    "topReason": "material is cheap",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 3239
+  },
+  {
+    "sku": "SK-SHA-164",
+    "name": "Rust Khadi Sharara Set",
+    "returnCount": 1,
+    "returnRate": 2.9,
+    "band": "green",
+    "topReason": "ordered by mistake",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 1823
+  },
+  {
+    "sku": "SK-LEH-335",
+    "name": "Rust Khadi Lehenga",
+    "returnCount": 1,
+    "returnRate": 2.8,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 720
+  },
+  {
+    "sku": "SK-KUR-011",
+    "name": "Lavender Chiffon Kurta Set",
+    "returnCount": 1,
+    "returnRate": 2.8,
+    "band": "green",
+    "topReason": "better price on myntra",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 2606
+  },
+  {
+    "sku": "SK-SHA-315",
+    "name": "Mustard Georgette Sharara Set",
+    "returnCount": 1,
+    "returnRate": 2.8,
+    "band": "green",
+    "topReason": "Doesn't match description",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 2777
+  },
+  {
+    "sku": "SK-SHR-253",
+    "name": "Blush Pink Crepe Shrug",
+    "returnCount": 1,
+    "returnRate": 2.8,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 3769
+  },
+  {
+    "sku": "SK-ANA-106",
+    "name": "Indigo Georgette Anarkali",
+    "returnCount": 1,
+    "returnRate": 2.8,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 1495
+  },
+  {
+    "sku": "SK-TUN-091",
+    "name": "Sage Green Linen Tunic",
+    "returnCount": 1,
+    "returnRate": 2.7,
+    "band": "green",
+    "topReason": "Changed mind",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 3842
+  },
+  {
+    "sku": "SK-ANA-019",
+    "name": "Mustard Georgette Anarkali",
+    "returnCount": 1,
+    "returnRate": 2.7,
+    "band": "green",
+    "topReason": "Unknown",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 3208
+  },
+  {
+    "sku": "SK-CRO-045",
+    "name": "Teal Georgette Crop Top",
+    "returnCount": 1,
+    "returnRate": 2.7,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3488
+  },
+  {
+    "sku": "SK-DUP-161",
+    "name": "Teal Crepe Dupatta",
+    "returnCount": 1,
+    "returnRate": 2.7,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 3613
+  },
+  {
+    "sku": "SK-DUP-340",
+    "name": "Mustard Georgette Dupatta",
+    "returnCount": 1,
+    "returnRate": 2.6,
+    "band": "green",
+    "topReason": "not same as picture",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 2330
+  },
+  {
+    "sku": "SK-SHR-464",
+    "name": "Rust Cotton Shrug",
+    "returnCount": 1,
+    "returnRate": 2.6,
+    "band": "green",
+    "topReason": "better price on myntra",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 2018
+  },
+  {
+    "sku": "SK-ANA-447",
+    "name": "Charcoal Linen Anarkali",
+    "returnCount": 1,
+    "returnRate": 2.6,
+    "band": "green",
+    "topReason": "didnt like the color",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 0
+  },
+  {
+    "sku": "SK-TUN-087",
+    "name": "Indigo Rayon Tunic",
+    "returnCount": 1,
+    "returnRate": 2.6,
+    "band": "green",
+    "topReason": "size issue pls refund",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 1074
+  },
+  {
+    "sku": "SK-PAL-388",
+    "name": "Sage Green Georgette Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 2.5,
+    "band": "green",
+    "topReason": "too tight",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 1653
+  },
+  {
+    "sku": "SK-CRO-362",
+    "name": "Blush Pink Viscose Crop Top",
+    "returnCount": 1,
+    "returnRate": 2.5,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 3902
+  },
+  {
+    "sku": "SK-CRO-274",
+    "name": "Charcoal Georgette Crop Top",
+    "returnCount": 1,
+    "returnRate": 2.4,
+    "band": "green",
+    "topReason": "Quality issue",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 3836
+  },
+  {
+    "sku": "SK-SAR-165",
+    "name": "Ivory Viscose Saree",
+    "returnCount": 1,
+    "returnRate": 2.4,
+    "band": "green",
+    "topReason": "size issue pls refund",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 2019
+  },
+  {
+    "sku": "SK-TUN-018",
+    "name": "Rust Cotton Tunic",
+    "returnCount": 1,
+    "returnRate": 2.4,
+    "band": "green",
+    "topReason": "colour faded after wash",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 0
+  },
+  {
+    "sku": "SK-KUR-415",
+    "name": "Peach Viscose Kurta Set",
+    "returnCount": 1,
+    "returnRate": 2.3,
+    "band": "green",
+    "topReason": "material is cheap",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 2704
+  },
+  {
+    "sku": "SK-SHR-075",
+    "name": "Blush Pink Khadi Shrug",
+    "returnCount": 1,
+    "returnRate": 2.3,
+    "band": "green",
+    "topReason": "better price on myntra",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 3820
+  },
+  {
+    "sku": "SK-DUP-308",
+    "name": "Olive Khadi Dupatta",
+    "returnCount": 1,
+    "returnRate": 2.2,
+    "band": "green",
+    "topReason": "Damaged in transit",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 2647
+  },
+  {
+    "sku": "SK-SHR-421",
+    "name": "Indigo Chiffon Shrug",
+    "returnCount": 1,
+    "returnRate": 2.2,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 3441
+  },
+  {
+    "sku": "SK-KUR-295",
+    "name": "Mustard Chanderi Kurta Set",
+    "returnCount": 1,
+    "returnRate": 2.2,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2942
+  },
+  {
+    "sku": "SK-SHR-473",
+    "name": "Ivory Chiffon Shrug",
+    "returnCount": 1,
+    "returnRate": 2.1,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 2433
+  },
+  {
+    "sku": "SK-DUP-159",
+    "name": "Charcoal Georgette Dupatta",
+    "returnCount": 1,
+    "returnRate": 2.0,
+    "band": "green",
+    "topReason": "WRONG_PRODUCT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 2024
+  },
+  {
+    "sku": "SK-LEH-179",
+    "name": "Coral Chiffon Lehenga",
+    "returnCount": 1,
+    "returnRate": 1.9,
+    "band": "green",
+    "topReason": "QUALITY_DEFECT",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 789
+  },
+  {
+    "sku": "SK-SAR-169",
+    "name": "Coral Crepe Saree",
+    "returnCount": 1,
+    "returnRate": 1.9,
+    "band": "green",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 1395
+  },
+  {
+    "sku": "SK-SHA-238",
+    "name": "Charcoal Rayon Sharara Set",
+    "returnCount": 1,
+    "returnRate": 1.9,
+    "band": "green",
+    "topReason": "Size too large",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 677
+  },
+  {
+    "sku": "SK-PAL-402",
+    "name": "Indigo Rayon Palazzo Set",
+    "returnCount": 1,
+    "returnRate": 1.8,
+    "band": "green",
+    "topReason": "CHANGED_MIND",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 1145
+  },
+  {
+    "sku": "SK-LEH-201",
+    "name": "Sage Green Linen Lehenga",
+    "returnCount": 1,
+    "returnRate": 1.7,
+    "band": "green",
+    "topReason": "colour faded after wash",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 702
+  },
+  {
+    "sku": "SK-TUN-124",
+    "name": "Peach Viscose Tunic",
+    "returnCount": 1,
+    "returnRate": 1.7,
+    "band": "green",
+    "topReason": "Size too small",
+    "platforms": {
+      "Shopify": 1
+    },
+    "refundTotal": 801
+  },
+  {
+    "sku": "SK-LEH-231",
+    "name": "Rust Rayon Lehenga",
+    "returnCount": 1,
+    "returnRate": 1.7,
+    "band": "green",
+    "topReason": "didnt like the color",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 1308
+  },
+  {
+    "sku": "SK-KUR-299",
+    "name": "Lavender Viscose Kurta Set",
+    "returnCount": 1,
+    "returnRate": 1.7,
+    "band": "green",
+    "topReason": "husband didn't like it",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 688
+  },
+  {
+    "sku": "SK-SHA-115",
+    "name": "Ivory Viscose Sharara Set",
+    "returnCount": 1,
+    "returnRate": 1.7,
+    "band": "green",
+    "topReason": "didnt like the color",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 2039
+  },
+  {
+    "sku": "SK-LEH-312",
+    "name": "Navy Crepe Lehenga",
+    "returnCount": 1,
+    "returnRate": 1.7,
+    "band": "green",
+    "topReason": "SIZE_ISSUE",
+    "platforms": {
+      "Myntra": 1
+    },
+    "refundTotal": 726
+  },
+  {
+    "sku": "SK-ANA-431",
+    "name": "Lavender Cotton Anarkali",
+    "returnCount": 1,
+    "returnRate": 1.7,
+    "band": "green",
+    "topReason": "stitching came off",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 1250
+  },
+  {
+    "sku": "SK-SAR-311",
+    "name": "Sage Green Khadi Saree",
+    "returnCount": 1,
+    "returnRate": 1.7,
+    "band": "green",
+    "topReason": "fabric not good",
+    "platforms": {
+      "Ajio": 1
+    },
+    "refundTotal": 2284
+  }
+]

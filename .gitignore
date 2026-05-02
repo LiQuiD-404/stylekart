@@ -1,0 +1,15 @@
+# Context / assignment files
+context/
+
+# Go binaries
+backend/stylekart-backend
+backend/server
+
+# Next.js
+dashboard/.next/
+dashboard/node_modules/
+dashboard/tsconfig.tsbuildinfo
+
+# Misc
+.DS_Store
+*.log
