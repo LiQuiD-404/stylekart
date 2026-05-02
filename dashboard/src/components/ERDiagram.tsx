@@ -1,4 +1,3 @@
-'use client';
 
 type FieldTag = 'PK' | 'FK' | 'UNIQUE' | 'MASKED';
 

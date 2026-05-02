@@ -5,8 +5,9 @@ context/
 backend/stylekart-backend
 backend/server
 
-# Next.js
+# Vite / Next.js build artefacts
 dashboard/.next/
+dashboard/dist/
 dashboard/node_modules/
 dashboard/tsconfig.tsbuildinfo
 

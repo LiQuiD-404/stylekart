@@ -1,5 +1,3 @@
-'use client';
-
 import { useState, useEffect } from 'react';
 import type { InventoryItem, ReturnItem, MappingEntry, SalesPoint } from './types';
 import Header from './components/Header';
@@ -12,7 +10,7 @@ import SyncModal from './components/SyncModal';
 import StatBar from './components/StatBar';
 import Footer from './components/Footer';
 
-export default function Home() {
+export default function App() {
   const [inventory, setInventory] = useState<InventoryItem[]>([]);
   const [returns, setReturns] = useState<ReturnItem[]>([]);
   const [mapping, setMapping] = useState<MappingEntry[]>([]);
@@ -23,10 +21,10 @@ export default function Home() {
   const [activeTab, setActiveTab] = useState<'inventory' | 'returns' | 'mapping' | 'system'>('inventory');
 
   useEffect(() => {
-    fetch('/api/inventory').then(r => r.json()).then(setInventory);
-    fetch('/api/returns').then(r => r.json()).then(setReturns);
-    fetch('/api/mapping').then(r => r.json()).then(setMapping);
-    fetch('/api/sales').then(r => r.json()).then(setSales);
+    fetch('/data/inventory.json').then(r => r.json()).then(setInventory);
+    fetch('/data/returns.json').then(r => r.json()).then(setReturns);
+    fetch('/data/mapping.json').then(r => r.json()).then(setMapping);
+    fetch('/data/sales.json').then(r => r.json()).then(setSales);
   }, []);
 
   const handleSync = () => {
@@ -58,10 +56,8 @@ export default function Home() {
 
       <main className="flex-1 max-w-screen-2xl mx-auto w-full px-6 py-6 space-y-6">
 
-        {/* Sales trend */}
         {sales.length > 0 && <SalesTrend data={sales} />}
 
-        {/* Alert banner for high-risk items */}
         {redCount > 0 && (
           <div className="flex items-center gap-3 bg-red-950/60 border border-red-800 rounded-xl px-4 py-3">
             <span className="text-red-400 text-lg">⚠️</span>
@@ -76,7 +72,6 @@ export default function Home() {
           </div>
         )}
 
-        {/* Stats row */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           <StatBar red={redCount} amber={amberCount} green={greenCount} total={inventory.length} label="Inventory Risk" />
 
@@ -130,7 +125,6 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Tab nav */}
         <div className="flex gap-1 border-b border-gray-800">
           {(
             [
@@ -157,7 +151,6 @@ export default function Home() {
           ))}
         </div>
 
-        {/* Tab content */}
         {activeTab === 'inventory' && (
           <section>
             <p className="text-xs text-gray-600 mb-3">

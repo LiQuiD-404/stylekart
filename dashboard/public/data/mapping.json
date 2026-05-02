@@ -1,0 +1,4818 @@
+[
+  {
+    "skCode": "SK-DUP-001",
+    "whCode": "WH-DUP-0001",
+    "myntraCode": "MYN-958933",
+    "ajioCode": null,
+    "productName": "Coral Cotton Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-002",
+    "whCode": "WH-DUP-0002",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Crepe Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-003",
+    "whCode": "WH-LEH-0003",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Georgette Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SAR-004",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Chiffon Saree",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-DUP-005",
+    "whCode": "WH-DUP-0005",
+    "myntraCode": "MYN-736938",
+    "ajioCode": null,
+    "productName": "Olive Khadi Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-KUR-006",
+    "whCode": "WH-KUR-0006",
+    "myntraCode": "MYN-154693",
+    "ajioCode": null,
+    "productName": "Peach Silk Kurta Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-007",
+    "whCode": "WH-SHR-0007",
+    "myntraCode": "MYN-870306",
+    "ajioCode": null,
+    "productName": "Charcoal Linen Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-008",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Georgette Shrug",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SAR-009",
+    "whCode": "WH-SAR-0009",
+    "myntraCode": "MYN-561929",
+    "ajioCode": null,
+    "productName": "Sage Green Chanderi Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-010",
+    "whCode": "WH-PAL-0010",
+    "myntraCode": "MYN-402224",
+    "ajioCode": null,
+    "productName": "Rust Cotton Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-KUR-011",
+    "whCode": "WH-KUR-0011",
+    "myntraCode": "MYN-405853",
+    "ajioCode": null,
+    "productName": "Lavender Chiffon Kurta Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-012",
+    "whCode": "WH-PAL-0012",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Rayon Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-013",
+    "whCode": "WH-CRO-0013",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Wine Cotton Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-014",
+    "whCode": "WH-LEH-0014",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Olive Crepe Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-015",
+    "whCode": "WH-LEH-0015",
+    "myntraCode": "MYN-996492",
+    "ajioCode": null,
+    "productName": "Maroon Cotton Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-016",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Linen Sharara Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-DUP-017",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Rayon Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-TUN-018",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Cotton Tunic",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-ANA-019",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Georgette Anarkali",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-CRO-020",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Olive Khadi Crop Top",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-021",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Crepe Lehenga",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-022",
+    "whCode": "WH-LEH-0022",
+    "myntraCode": "MYN-208926",
+    "ajioCode": null,
+    "productName": "Lavender Chanderi Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-023",
+    "whCode": "WH-LEH-0023",
+    "myntraCode": "MYN-280447",
+    "ajioCode": null,
+    "productName": "Sage Green Khadi Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SAR-024",
+    "whCode": "WH-SAR-0024",
+    "myntraCode": "MYN-292348",
+    "ajioCode": null,
+    "productName": "Lavender Chiffon Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-025",
+    "whCode": "WH-DUP-0025",
+    "myntraCode": "MYN-824201",
+    "ajioCode": null,
+    "productName": "Ivory Rayon Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-026",
+    "whCode": "WH-SHA-0026",
+    "myntraCode": "MYN-926402",
+    "ajioCode": null,
+    "productName": "Maroon Rayon Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-027",
+    "whCode": "WH-SHR-0027",
+    "myntraCode": "MYN-978889",
+    "ajioCode": null,
+    "productName": "Maroon Chiffon Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-028",
+    "whCode": "WH-PAL-0028",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Khadi Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-029",
+    "whCode": "WH-TUN-0029",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Charcoal Silk Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-030",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Lavender Chanderi Anarkali",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-CRO-031",
+    "whCode": "WH-CRO-0031",
+    "myntraCode": "MYN-629830",
+    "ajioCode": null,
+    "productName": "Sage Green Chiffon Crop Top",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-032",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Rayon Crop Top",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHR-033",
+    "whCode": "WH-SHR-0033",
+    "myntraCode": "MYN-698565",
+    "ajioCode": null,
+    "productName": "Peach Chiffon Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-TUN-034",
+    "whCode": "WH-TUN-0034",
+    "myntraCode": "MYN-263981",
+    "ajioCode": null,
+    "productName": "Coral Cotton Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-035",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Crepe Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-ANA-036",
+    "whCode": "WH-ANA-0036",
+    "myntraCode": "MYN-149387",
+    "ajioCode": null,
+    "productName": "Mustard Chiffon Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-037",
+    "whCode": "WH-SHA-0037",
+    "myntraCode": "MYN-278510",
+    "ajioCode": null,
+    "productName": "Wine Chiffon Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SAR-038",
+    "whCode": "WH-SAR-0038",
+    "myntraCode": "MYN-268605",
+    "ajioCode": null,
+    "productName": "Olive Chanderi Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-039",
+    "whCode": null,
+    "myntraCode": "MYN-855679",
+    "ajioCode": null,
+    "productName": "Wine Crepe Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-040",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Wine Silk Shrug",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SAR-041",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Viscose Saree",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-KUR-042",
+    "whCode": null,
+    "myntraCode": "MYN-758889",
+    "ajioCode": null,
+    "productName": "Mustard Chanderi Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-043",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Lavender Linen Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-044",
+    "whCode": "WH-LEH-0044",
+    "myntraCode": "MYN-468299",
+    "ajioCode": null,
+    "productName": "Navy Chanderi Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-045",
+    "whCode": "WH-CRO-0045",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Georgette Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-046",
+    "whCode": "WH-PAL-0046",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Viscose Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-047",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Crepe Tunic",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-DUP-048",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Wine Crepe Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-049",
+    "whCode": "WH-LEH-0049",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Georgette Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-050",
+    "whCode": null,
+    "myntraCode": "MYN-480189",
+    "ajioCode": null,
+    "productName": "Wine Linen Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-051",
+    "whCode": null,
+    "myntraCode": "MYN-230661",
+    "ajioCode": null,
+    "productName": "Charcoal Viscose Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-052",
+    "whCode": "WH-PAL-0052",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Linen Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-053",
+    "whCode": "WH-ANA-0053",
+    "myntraCode": "MYN-551317",
+    "ajioCode": null,
+    "productName": "Ivory Chanderi Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-KUR-054",
+    "whCode": "WH-KUR-0054",
+    "myntraCode": "MYN-935271",
+    "ajioCode": null,
+    "productName": "Blush Pink Crepe Kurta Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-ANA-055",
+    "whCode": null,
+    "myntraCode": "MYN-619320",
+    "ajioCode": null,
+    "productName": "Navy Cotton Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-056",
+    "whCode": null,
+    "myntraCode": "MYN-928404",
+    "ajioCode": null,
+    "productName": "Teal Chanderi Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-057",
+    "whCode": null,
+    "myntraCode": "MYN-274031",
+    "ajioCode": null,
+    "productName": "Wine Silk Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-058",
+    "whCode": "WH-DUP-0058",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Ivory Linen Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-059",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Chiffon Crop Top",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-060",
+    "whCode": null,
+    "myntraCode": "MYN-407292",
+    "ajioCode": null,
+    "productName": "Mustard Rayon Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-061",
+    "whCode": null,
+    "myntraCode": "MYN-609760",
+    "ajioCode": null,
+    "productName": "Olive Georgette Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SAR-062",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Silk Saree",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-CRO-063",
+    "whCode": null,
+    "myntraCode": "MYN-323792",
+    "ajioCode": null,
+    "productName": "Blush Pink Viscose Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-064",
+    "whCode": null,
+    "myntraCode": "MYN-223820",
+    "ajioCode": null,
+    "productName": "Mustard Chanderi Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-065",
+    "whCode": null,
+    "myntraCode": "MYN-467076",
+    "ajioCode": null,
+    "productName": "Indigo Silk Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-066",
+    "whCode": null,
+    "myntraCode": "MYN-317975",
+    "ajioCode": null,
+    "productName": "Coral Linen Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-067",
+    "whCode": "WH-ANA-0067",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Chiffon Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-068",
+    "whCode": "WH-CRO-0068",
+    "myntraCode": "MYN-382863",
+    "ajioCode": null,
+    "productName": "Olive Chiffon Crop Top",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-069",
+    "whCode": "WH-SHA-0069",
+    "myntraCode": "MYN-784705",
+    "ajioCode": null,
+    "productName": "Teal Linen Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-TUN-070",
+    "whCode": "WH-TUN-0070",
+    "myntraCode": "MYN-814357",
+    "ajioCode": null,
+    "productName": "Rust Chanderi Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-071",
+    "whCode": "WH-LEH-0071",
+    "myntraCode": "MYN-392280",
+    "ajioCode": null,
+    "productName": "Charcoal Chanderi Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-072",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Rayon Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-PAL-073",
+    "whCode": "WH-PAL-0073",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Cotton Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-074",
+    "whCode": "WH-KUR-0074",
+    "myntraCode": "MYN-359660",
+    "ajioCode": null,
+    "productName": "Mustard Cotton Kurta Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-075",
+    "whCode": "WH-SHR-0075",
+    "myntraCode": "MYN-238700",
+    "ajioCode": null,
+    "productName": "Blush Pink Khadi Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-076",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Rayon Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-PAL-077",
+    "whCode": "WH-PAL-0077",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Chanderi Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-078",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Silk Kurta Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-KUR-079",
+    "whCode": "WH-KUR-0079",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Cotton Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-080",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Georgette Tunic",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-KUR-081",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Linen Kurta Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-CRO-082",
+    "whCode": null,
+    "myntraCode": "MYN-587502",
+    "ajioCode": null,
+    "productName": "Indigo Georgette Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-083",
+    "whCode": "WH-CRO-0083",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Linen Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-084",
+    "whCode": null,
+    "myntraCode": "MYN-315571",
+    "ajioCode": null,
+    "productName": "Mustard Linen Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-085",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Viscose Sharara Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHR-086",
+    "whCode": "WH-SHR-0086",
+    "myntraCode": "MYN-889587",
+    "ajioCode": null,
+    "productName": "Lavender Chiffon Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-TUN-087",
+    "whCode": "WH-TUN-0087",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Rayon Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-088",
+    "whCode": null,
+    "myntraCode": "MYN-663392",
+    "ajioCode": null,
+    "productName": "Rust Silk Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-089",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Chanderi Anarkali",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SAR-090",
+    "whCode": "WH-SAR-0090",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Viscose Saree",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-091",
+    "whCode": "WH-TUN-0091",
+    "myntraCode": "MYN-295177",
+    "ajioCode": null,
+    "productName": "Sage Green Linen Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-KUR-092",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Chiffon Kurta Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SAR-093",
+    "whCode": "WH-SAR-0093",
+    "myntraCode": "MYN-288435",
+    "ajioCode": null,
+    "productName": "Teal Linen Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-094",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Silk Shrug",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHR-095",
+    "whCode": null,
+    "myntraCode": "MYN-725847",
+    "ajioCode": null,
+    "productName": "Ivory Chiffon Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-096",
+    "whCode": "WH-TUN-0096",
+    "myntraCode": "MYN-989283",
+    "ajioCode": null,
+    "productName": "Navy Khadi Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-097",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Crepe Shrug",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SAR-098",
+    "whCode": "WH-SAR-0098",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Rayon Saree",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-099",
+    "whCode": null,
+    "myntraCode": "MYN-524898",
+    "ajioCode": null,
+    "productName": "Wine Linen Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-100",
+    "whCode": "WH-DUP-0100",
+    "myntraCode": "MYN-370903",
+    "ajioCode": null,
+    "productName": "Olive Chanderi Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-TUN-102",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Cotton Tunic",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-KUR-103",
+    "whCode": "WH-KUR-0103",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Charcoal Georgette Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-104",
+    "whCode": "WH-SHA-0104",
+    "myntraCode": "MYN-686810",
+    "ajioCode": null,
+    "productName": "Lavender Cotton Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SAR-105",
+    "whCode": null,
+    "myntraCode": "MYN-638733",
+    "ajioCode": null,
+    "productName": "Lavender Khadi Saree",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-106",
+    "whCode": null,
+    "myntraCode": "MYN-636078",
+    "ajioCode": null,
+    "productName": "Indigo Georgette Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-107",
+    "whCode": null,
+    "myntraCode": "MYN-973677",
+    "ajioCode": null,
+    "productName": "Maroon Georgette Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-108",
+    "whCode": "WH-LEH-0108",
+    "myntraCode": "MYN-647826",
+    "ajioCode": null,
+    "productName": "Mustard Crepe Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-KUR-109",
+    "whCode": "WH-KUR-0109",
+    "myntraCode": "MYN-123205",
+    "ajioCode": null,
+    "productName": "Olive Khadi Kurta Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-110",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Rayon Sharara Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-TUN-111",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Cotton Tunic",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-TUN-112",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Ivory Rayon Tunic",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SAR-113",
+    "whCode": "WH-SAR-0113",
+    "myntraCode": "MYN-262936",
+    "ajioCode": null,
+    "productName": "Sage Green Linen Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-ANA-114",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Silk Anarkali",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHA-115",
+    "whCode": "WH-SHA-0115",
+    "myntraCode": "MYN-943554",
+    "ajioCode": null,
+    "productName": "Ivory Viscose Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-116",
+    "whCode": "WH-SHA-0116",
+    "myntraCode": "MYN-968045",
+    "ajioCode": null,
+    "productName": "Indigo Georgette Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-117",
+    "whCode": "WH-SHA-0117",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Cotton Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-118",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Viscose Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SAR-119",
+    "whCode": null,
+    "myntraCode": "MYN-265468",
+    "ajioCode": null,
+    "productName": "Wine Viscose Saree",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-120",
+    "whCode": "WH-LEH-0120",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Chiffon Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-121",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Linen Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHA-122",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Wine Khadi Sharara Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-CRO-123",
+    "whCode": "WH-CRO-0123",
+    "myntraCode": "MYN-812031",
+    "ajioCode": null,
+    "productName": "Teal Crepe Crop Top",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-TUN-124",
+    "whCode": null,
+    "myntraCode": "MYN-919965",
+    "ajioCode": null,
+    "productName": "Peach Viscose Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-125",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Crepe Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHA-126",
+    "whCode": null,
+    "myntraCode": "MYN-178963",
+    "ajioCode": null,
+    "productName": "Charcoal Viscose Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-127",
+    "whCode": "WH-LEH-0127",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Rayon Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SAR-128",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Rayon Saree",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-CRO-130",
+    "whCode": "WH-CRO-0130",
+    "myntraCode": "MYN-513177",
+    "ajioCode": null,
+    "productName": "Lavender Viscose Crop Top",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-131",
+    "whCode": "WH-SHA-0131",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Georgette Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-132",
+    "whCode": "WH-SHR-0132",
+    "myntraCode": "MYN-607410",
+    "ajioCode": null,
+    "productName": "Blush Pink Linen Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-133",
+    "whCode": "WH-LEH-0133",
+    "myntraCode": "MYN-343866",
+    "ajioCode": null,
+    "productName": "Indigo Cotton Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SAR-134",
+    "whCode": "WH-SAR-0134",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Linen Saree",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-135",
+    "whCode": "WH-KUR-0135",
+    "myntraCode": "MYN-939346",
+    "ajioCode": null,
+    "productName": "Rust Viscose Kurta Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-136",
+    "whCode": "WH-PAL-0136",
+    "myntraCode": "MYN-152622",
+    "ajioCode": null,
+    "productName": "Wine Crepe Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-137",
+    "whCode": "WH-DUP-0137",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Khadi Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-138",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Chanderi Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-TUN-139",
+    "whCode": "WH-TUN-0139",
+    "myntraCode": "MYN-838849",
+    "ajioCode": null,
+    "productName": "Lavender Chanderi Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-140",
+    "whCode": "WH-DUP-0140",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Crepe Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-141",
+    "whCode": "WH-DUP-0141",
+    "myntraCode": "MYN-518361",
+    "ajioCode": null,
+    "productName": "Charcoal Chiffon Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-142",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Chiffon Sharara Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-143",
+    "whCode": null,
+    "myntraCode": "MYN-709287",
+    "ajioCode": null,
+    "productName": "Olive Silk Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-144",
+    "whCode": null,
+    "myntraCode": "MYN-871171",
+    "ajioCode": null,
+    "productName": "Sage Green Crepe Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-145",
+    "whCode": null,
+    "myntraCode": "MYN-256175",
+    "ajioCode": null,
+    "productName": "Coral Khadi Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-146",
+    "whCode": "WH-ANA-0146",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Wine Chanderi Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SAR-147",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Wine Viscose Saree",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-TUN-148",
+    "whCode": "WH-TUN-0148",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Chanderi Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-149",
+    "whCode": "WH-TUN-0149",
+    "myntraCode": "MYN-872610",
+    "ajioCode": null,
+    "productName": "Wine Khadi Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-ANA-151",
+    "whCode": "WH-ANA-0151",
+    "myntraCode": "MYN-375868",
+    "ajioCode": null,
+    "productName": "Sage Green Crepe Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-152",
+    "whCode": "WH-SHR-0152",
+    "myntraCode": "MYN-156852",
+    "ajioCode": null,
+    "productName": "Mustard Khadi Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-KUR-153",
+    "whCode": null,
+    "myntraCode": "MYN-828823",
+    "ajioCode": null,
+    "productName": "Charcoal Khadi Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-154",
+    "whCode": "WH-SHR-0154",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Wine Rayon Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-155",
+    "whCode": null,
+    "myntraCode": "MYN-873235",
+    "ajioCode": null,
+    "productName": "Peach Khadi Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-156",
+    "whCode": "WH-LEH-0156",
+    "myntraCode": "MYN-750171",
+    "ajioCode": null,
+    "productName": "Ivory Cotton Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-157",
+    "whCode": null,
+    "myntraCode": "MYN-725942",
+    "ajioCode": null,
+    "productName": "Sage Green Rayon Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-158",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Chiffon Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-DUP-159",
+    "whCode": null,
+    "myntraCode": "MYN-496612",
+    "ajioCode": null,
+    "productName": "Charcoal Georgette Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-160",
+    "whCode": "WH-DUP-0160",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Charcoal Chanderi Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-161",
+    "whCode": "WH-DUP-0161",
+    "myntraCode": "MYN-403370",
+    "ajioCode": null,
+    "productName": "Teal Crepe Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-162",
+    "whCode": "WH-SHR-0162",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Georgette Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-163",
+    "whCode": "WH-SHR-0163",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Olive Cotton Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-164",
+    "whCode": "WH-SHA-0164",
+    "myntraCode": "MYN-550704",
+    "ajioCode": null,
+    "productName": "Rust Khadi Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SAR-165",
+    "whCode": "WH-SAR-0165",
+    "myntraCode": "MYN-384769",
+    "ajioCode": null,
+    "productName": "Ivory Viscose Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-166",
+    "whCode": "WH-DUP-0166",
+    "myntraCode": "MYN-203562",
+    "ajioCode": null,
+    "productName": "Maroon Rayon Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-ANA-167",
+    "whCode": "WH-ANA-0167",
+    "myntraCode": "MYN-777074",
+    "ajioCode": null,
+    "productName": "Ivory Georgette Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-168",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Cotton Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SAR-169",
+    "whCode": null,
+    "myntraCode": "MYN-868166",
+    "ajioCode": null,
+    "productName": "Coral Crepe Saree",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-170",
+    "whCode": "WH-ANA-0170",
+    "myntraCode": "MYN-343872",
+    "ajioCode": null,
+    "productName": "Rust Rayon Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-171",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Linen Lehenga",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-CRO-172",
+    "whCode": "WH-CRO-0172",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Chiffon Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-173",
+    "whCode": null,
+    "myntraCode": "MYN-630701",
+    "ajioCode": null,
+    "productName": "Teal Chanderi Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-174",
+    "whCode": "WH-LEH-0174",
+    "myntraCode": "MYN-125580",
+    "ajioCode": null,
+    "productName": "Mustard Crepe Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-175",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Georgette Shrug",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-ANA-176",
+    "whCode": "WH-ANA-0176",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Rayon Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-177",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Olive Silk Kurta Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-179",
+    "whCode": "WH-LEH-0179",
+    "myntraCode": "MYN-181630",
+    "ajioCode": null,
+    "productName": "Coral Chiffon Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SAR-181",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Silk Saree",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-ANA-182",
+    "whCode": "WH-ANA-0182",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Khadi Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-183",
+    "whCode": "WH-CRO-0183",
+    "myntraCode": "MYN-189248",
+    "ajioCode": null,
+    "productName": "Charcoal Viscose Crop Top",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-KUR-184",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Ivory Rayon Kurta Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-KUR-185",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Viscose Kurta Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-TUN-186",
+    "whCode": "WH-TUN-0186",
+    "myntraCode": "MYN-608312",
+    "ajioCode": null,
+    "productName": "Lavender Viscose Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-187",
+    "whCode": "WH-LEH-0187",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Viscose Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-188",
+    "whCode": "WH-KUR-0188",
+    "myntraCode": "MYN-665605",
+    "ajioCode": null,
+    "productName": "Coral Linen Kurta Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-189",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Crepe Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-TUN-190",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Crepe Tunic",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-PAL-191",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Crepe Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-192",
+    "whCode": "WH-LEH-0192",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Crepe Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-193",
+    "whCode": "WH-TUN-0193",
+    "myntraCode": "MYN-691595",
+    "ajioCode": null,
+    "productName": "Teal Chiffon Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-194",
+    "whCode": "WH-CRO-0194",
+    "myntraCode": "MYN-879670",
+    "ajioCode": null,
+    "productName": "Charcoal Silk Crop Top",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-195",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Khadi Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-CRO-196",
+    "whCode": null,
+    "myntraCode": "MYN-865094",
+    "ajioCode": null,
+    "productName": "Teal Viscose Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-197",
+    "whCode": "WH-TUN-0197",
+    "myntraCode": "MYN-642423",
+    "ajioCode": null,
+    "productName": "Rust Chiffon Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-ANA-198",
+    "whCode": "WH-ANA-0198",
+    "myntraCode": "MYN-588579",
+    "ajioCode": null,
+    "productName": "Peach Linen Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-TUN-199",
+    "whCode": null,
+    "myntraCode": "MYN-205347",
+    "ajioCode": null,
+    "productName": "Maroon Chanderi Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-200",
+    "whCode": "WH-TUN-0200",
+    "myntraCode": "MYN-337520",
+    "ajioCode": null,
+    "productName": "Peach Chanderi Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-201",
+    "whCode": "WH-LEH-0201",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Linen Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-202",
+    "whCode": null,
+    "myntraCode": "MYN-182027",
+    "ajioCode": null,
+    "productName": "Lavender Georgette Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-203",
+    "whCode": null,
+    "myntraCode": "MYN-537889",
+    "ajioCode": null,
+    "productName": "Teal Rayon Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-204",
+    "whCode": null,
+    "myntraCode": "MYN-350966",
+    "ajioCode": null,
+    "productName": "Peach Rayon Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-205",
+    "whCode": "WH-SHA-0205",
+    "myntraCode": "MYN-654327",
+    "ajioCode": null,
+    "productName": "Rust Khadi Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-206",
+    "whCode": "WH-SHA-0206",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Linen Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-207",
+    "whCode": "WH-LEH-0207",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Charcoal Chiffon Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SAR-208",
+    "whCode": "WH-SAR-0208",
+    "myntraCode": "MYN-247649",
+    "ajioCode": null,
+    "productName": "Sage Green Viscose Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-KUR-209",
+    "whCode": "WH-KUR-0209",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Ivory Silk Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-210",
+    "whCode": "WH-KUR-0210",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Cotton Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-211",
+    "whCode": "WH-DUP-0211",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Cotton Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-212",
+    "whCode": null,
+    "myntraCode": "MYN-879499",
+    "ajioCode": null,
+    "productName": "Lavender Cotton Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-214",
+    "whCode": "WH-DUP-0214",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Rayon Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-215",
+    "whCode": "WH-PAL-0215",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Lavender Georgette Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-216",
+    "whCode": "WH-CRO-0216",
+    "myntraCode": "MYN-481285",
+    "ajioCode": null,
+    "productName": "Wine Linen Crop Top",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-217",
+    "whCode": null,
+    "myntraCode": "MYN-451141",
+    "ajioCode": null,
+    "productName": "Coral Georgette Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-218",
+    "whCode": "WH-ANA-0218",
+    "myntraCode": "MYN-207800",
+    "ajioCode": null,
+    "productName": "Coral Crepe Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-KUR-219",
+    "whCode": "WH-KUR-0219",
+    "myntraCode": "MYN-986756",
+    "ajioCode": null,
+    "productName": "Maroon Silk Kurta Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-220",
+    "whCode": null,
+    "myntraCode": "MYN-732297",
+    "ajioCode": null,
+    "productName": "Rust Viscose Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SAR-221",
+    "whCode": "WH-SAR-0221",
+    "myntraCode": "MYN-452635",
+    "ajioCode": null,
+    "productName": "Indigo Chanderi Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-222",
+    "whCode": "WH-SHA-0222",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Georgette Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-223",
+    "whCode": "WH-LEH-0223",
+    "myntraCode": "MYN-235820",
+    "ajioCode": null,
+    "productName": "Blush Pink Crepe Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-224",
+    "whCode": "WH-PAL-0224",
+    "myntraCode": "MYN-469763",
+    "ajioCode": null,
+    "productName": "Coral Silk Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-225",
+    "whCode": "WH-CRO-0225",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Charcoal Georgette Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-226",
+    "whCode": "WH-TUN-0226",
+    "myntraCode": "MYN-631723",
+    "ajioCode": null,
+    "productName": "Maroon Khadi Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SAR-227",
+    "whCode": "WH-SAR-0227",
+    "myntraCode": "MYN-320330",
+    "ajioCode": null,
+    "productName": "Mustard Linen Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-228",
+    "whCode": "WH-SHR-0228",
+    "myntraCode": "MYN-636600",
+    "ajioCode": null,
+    "productName": "Ivory Georgette Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SAR-229",
+    "whCode": null,
+    "myntraCode": "MYN-476368",
+    "ajioCode": null,
+    "productName": "Indigo Silk Saree",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-230",
+    "whCode": "WH-SHA-0230",
+    "myntraCode": "MYN-707072",
+    "ajioCode": null,
+    "productName": "Coral Linen Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-231",
+    "whCode": "WH-LEH-0231",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Rayon Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-232",
+    "whCode": "WH-PAL-0232",
+    "myntraCode": "MYN-510841",
+    "ajioCode": null,
+    "productName": "Maroon Rayon Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-233",
+    "whCode": "WH-SHA-0233",
+    "myntraCode": "MYN-450333",
+    "ajioCode": null,
+    "productName": "Wine Khadi Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-234",
+    "whCode": "WH-SHA-0234",
+    "myntraCode": "MYN-611430",
+    "ajioCode": null,
+    "productName": "Charcoal Chanderi Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-235",
+    "whCode": "WH-PAL-0235",
+    "myntraCode": "MYN-627003",
+    "ajioCode": null,
+    "productName": "Coral Viscose Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-236",
+    "whCode": "WH-CRO-0236",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Chiffon Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-237",
+    "whCode": "WH-SHR-0237",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Wine Chanderi Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-238",
+    "whCode": "WH-SHA-0238",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Charcoal Rayon Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-239",
+    "whCode": "WH-DUP-0239",
+    "myntraCode": "MYN-487241",
+    "ajioCode": null,
+    "productName": "Rust Linen Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-ANA-240",
+    "whCode": "WH-ANA-0240",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Rayon Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-241",
+    "whCode": "WH-PAL-0241",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Charcoal Cotton Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-242",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Olive Cotton Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-243",
+    "whCode": "WH-LEH-0243",
+    "myntraCode": "MYN-257778",
+    "ajioCode": null,
+    "productName": "Maroon Cotton Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-244",
+    "whCode": "WH-LEH-0244",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Viscose Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-245",
+    "whCode": "WH-CRO-0245",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Crepe Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-246",
+    "whCode": "WH-DUP-0246",
+    "myntraCode": "MYN-427398",
+    "ajioCode": null,
+    "productName": "Wine Georgette Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-TUN-248",
+    "whCode": null,
+    "myntraCode": "MYN-174687",
+    "ajioCode": null,
+    "productName": "Indigo Chiffon Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-249",
+    "whCode": "WH-LEH-0249",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Cotton Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-250",
+    "whCode": "WH-TUN-0250",
+    "myntraCode": "MYN-508290",
+    "ajioCode": null,
+    "productName": "Lavender Crepe Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-251",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Georgette Crop Top",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHA-252",
+    "whCode": "WH-SHA-0252",
+    "myntraCode": "MYN-123687",
+    "ajioCode": null,
+    "productName": "Charcoal Khadi Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-253",
+    "whCode": "WH-SHR-0253",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Crepe Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-254",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Cotton Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHA-255",
+    "whCode": "WH-SHA-0255",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Olive Silk Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-256",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Chiffon Lehenga",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-ANA-257",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Wine Georgette Anarkali",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-PAL-259",
+    "whCode": "WH-PAL-0259",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Wine Viscose Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-261",
+    "whCode": "WH-LEH-0261",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Viscose Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-262",
+    "whCode": "WH-CRO-0262",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Viscose Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-263",
+    "whCode": null,
+    "myntraCode": "MYN-992160",
+    "ajioCode": null,
+    "productName": "Wine Viscose Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-264",
+    "whCode": "WH-TUN-0264",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Linen Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-265",
+    "whCode": "WH-DUP-0265",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Crepe Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-266",
+    "whCode": null,
+    "myntraCode": "MYN-846735",
+    "ajioCode": null,
+    "productName": "Sage Green Silk Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-267",
+    "whCode": "WH-DUP-0267",
+    "myntraCode": "MYN-690966",
+    "ajioCode": null,
+    "productName": "Olive Crepe Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-268",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Cotton Sharara Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHA-269",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Rayon Sharara Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-ANA-270",
+    "whCode": "WH-ANA-0270",
+    "myntraCode": "MYN-167135",
+    "ajioCode": null,
+    "productName": "Teal Silk Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-271",
+    "whCode": "WH-SHA-0271",
+    "myntraCode": "MYN-807203",
+    "ajioCode": null,
+    "productName": "Ivory Georgette Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-272",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Chiffon Shrug",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHA-273",
+    "whCode": "WH-SHA-0273",
+    "myntraCode": "MYN-232695",
+    "ajioCode": null,
+    "productName": "Mustard Georgette Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-274",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Charcoal Georgette Crop Top",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-DUP-275",
+    "whCode": "WH-DUP-0275",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Georgette Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-276",
+    "whCode": null,
+    "myntraCode": "MYN-495044",
+    "ajioCode": null,
+    "productName": "Olive Crepe Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-277",
+    "whCode": "WH-ANA-0277",
+    "myntraCode": "MYN-500740",
+    "ajioCode": null,
+    "productName": "Sage Green Crepe Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-278",
+    "whCode": "WH-CRO-0278",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Khadi Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-279",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Viscose Sharara Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-PAL-280",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Ivory Chiffon Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SAR-281",
+    "whCode": "WH-SAR-0281",
+    "myntraCode": "MYN-847576",
+    "ajioCode": null,
+    "productName": "Charcoal Chiffon Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-ANA-282",
+    "whCode": "WH-ANA-0282",
+    "myntraCode": "MYN-244575",
+    "ajioCode": null,
+    "productName": "Ivory Rayon Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-283",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Georgette Shrug",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-CRO-284",
+    "whCode": "WH-CRO-0284",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Chanderi Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-285",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Chanderi Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-KUR-286",
+    "whCode": "WH-KUR-0286",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Crepe Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-287",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Chanderi Anarkali",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-288",
+    "whCode": "WH-LEH-0288",
+    "myntraCode": "MYN-755630",
+    "ajioCode": null,
+    "productName": "Navy Linen Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-289",
+    "whCode": "WH-DUP-0289",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Wine Linen Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SAR-290",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Ivory Cotton Saree",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHA-291",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Rayon Sharara Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHR-292",
+    "whCode": "WH-SHR-0292",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Silk Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-293",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Viscose Tunic",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-KUR-294",
+    "whCode": "WH-KUR-0294",
+    "myntraCode": "MYN-117691",
+    "ajioCode": null,
+    "productName": "Sage Green Chiffon Kurta Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-KUR-295",
+    "whCode": "WH-KUR-0295",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Chanderi Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-296",
+    "whCode": "WH-TUN-0296",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Viscose Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-297",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Silk Kurta Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-PAL-298",
+    "whCode": null,
+    "myntraCode": "MYN-941400",
+    "ajioCode": null,
+    "productName": "Navy Crepe Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-299",
+    "whCode": "WH-KUR-0299",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Lavender Viscose Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-300",
+    "whCode": "WH-TUN-0300",
+    "myntraCode": "MYN-518504",
+    "ajioCode": null,
+    "productName": "Mustard Chiffon Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-TUN-301",
+    "whCode": "WH-TUN-0301",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Crepe Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-302",
+    "whCode": "WH-ANA-0302",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Rayon Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-303",
+    "whCode": "WH-TUN-0303",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Georgette Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-305",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Chiffon Sharara Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-PAL-306",
+    "whCode": "WH-PAL-0306",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Lavender Viscose Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SAR-307",
+    "whCode": "WH-SAR-0307",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Chanderi Saree",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-308",
+    "whCode": "WH-DUP-0308",
+    "myntraCode": "MYN-693037",
+    "ajioCode": null,
+    "productName": "Olive Khadi Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-TUN-309",
+    "whCode": "WH-TUN-0309",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Charcoal Chanderi Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-310",
+    "whCode": "WH-SHR-0310",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Charcoal Rayon Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SAR-311",
+    "whCode": "WH-SAR-0311",
+    "myntraCode": "MYN-597952",
+    "ajioCode": null,
+    "productName": "Sage Green Khadi Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-312",
+    "whCode": "WH-LEH-0312",
+    "myntraCode": "MYN-110506",
+    "ajioCode": null,
+    "productName": "Navy Crepe Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-313",
+    "whCode": "WH-PAL-0313",
+    "myntraCode": "MYN-300537",
+    "ajioCode": null,
+    "productName": "Charcoal Linen Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SAR-314",
+    "whCode": "WH-SAR-0314",
+    "myntraCode": "MYN-646509",
+    "ajioCode": null,
+    "productName": "Wine Viscose Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-315",
+    "whCode": "WH-SHA-0315",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Georgette Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-316",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Lavender Khadi Shrug",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-ANA-317",
+    "whCode": "WH-ANA-0317",
+    "myntraCode": "MYN-852797",
+    "ajioCode": null,
+    "productName": "Rust Linen Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-318",
+    "whCode": "WH-DUP-0318",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Crepe Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-319",
+    "whCode": "WH-ANA-0319",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Cotton Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-320",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Silk Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHA-321",
+    "whCode": "WH-SHA-0321",
+    "myntraCode": "MYN-508109",
+    "ajioCode": null,
+    "productName": "Blush Pink Crepe Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-322",
+    "whCode": "WH-SHR-0322",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Georgette Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-323",
+    "whCode": "WH-CRO-0323",
+    "myntraCode": "MYN-859749",
+    "ajioCode": null,
+    "productName": "Olive Viscose Crop Top",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-ANA-324",
+    "whCode": "WH-ANA-0324",
+    "myntraCode": "MYN-813132",
+    "ajioCode": null,
+    "productName": "Peach Chiffon Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-325",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Linen Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-TUN-326",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Linen Tunic",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-KUR-327",
+    "whCode": "WH-KUR-0327",
+    "myntraCode": "MYN-990469",
+    "ajioCode": null,
+    "productName": "Wine Chanderi Kurta Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-328",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Viscose Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHR-329",
+    "whCode": "WH-SHR-0329",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Chanderi Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-330",
+    "whCode": null,
+    "myntraCode": "MYN-297950",
+    "ajioCode": null,
+    "productName": "Indigo Georgette Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-331",
+    "whCode": "WH-SHA-0331",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Khadi Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-332",
+    "whCode": "WH-CRO-0332",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Rayon Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-333",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Chiffon Shrug",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-DUP-334",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Linen Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-335",
+    "whCode": null,
+    "myntraCode": "MYN-106539",
+    "ajioCode": null,
+    "productName": "Rust Khadi Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-336",
+    "whCode": "WH-ANA-0336",
+    "myntraCode": "MYN-770988",
+    "ajioCode": null,
+    "productName": "Mustard Silk Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SAR-337",
+    "whCode": "WH-SAR-0337",
+    "myntraCode": "MYN-257476",
+    "ajioCode": null,
+    "productName": "Coral Cotton Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-ANA-338",
+    "whCode": null,
+    "myntraCode": "MYN-724363",
+    "ajioCode": null,
+    "productName": "Charcoal Rayon Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-339",
+    "whCode": null,
+    "myntraCode": "MYN-474549",
+    "ajioCode": null,
+    "productName": "Sage Green Silk Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-340",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Georgette Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-CRO-342",
+    "whCode": "WH-CRO-0342",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Viscose Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-343",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Ivory Crepe Lehenga",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SAR-344",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Viscose Saree",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-345",
+    "whCode": "WH-LEH-0345",
+    "myntraCode": "MYN-558128",
+    "ajioCode": null,
+    "productName": "Charcoal Linen Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-346",
+    "whCode": "WH-SHR-0346",
+    "myntraCode": "MYN-272210",
+    "ajioCode": null,
+    "productName": "Olive Khadi Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-347",
+    "whCode": "WH-PAL-0347",
+    "myntraCode": "MYN-318002",
+    "ajioCode": null,
+    "productName": "Wine Rayon Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-348",
+    "whCode": "WH-SHA-0348",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Silk Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-349",
+    "whCode": "WH-ANA-0349",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Cotton Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SAR-350",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Silk Saree",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-PAL-351",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Cotton Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHR-352",
+    "whCode": null,
+    "myntraCode": "MYN-869617",
+    "ajioCode": null,
+    "productName": "Blush Pink Khadi Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-353",
+    "whCode": null,
+    "myntraCode": "MYN-413054",
+    "ajioCode": null,
+    "productName": "Lavender Silk Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-354",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Olive Viscose Crop Top",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-PAL-355",
+    "whCode": "WH-PAL-0355",
+    "myntraCode": "MYN-682631",
+    "ajioCode": null,
+    "productName": "Coral Silk Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-TUN-356",
+    "whCode": null,
+    "myntraCode": "MYN-537697",
+    "ajioCode": null,
+    "productName": "Coral Crepe Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SAR-357",
+    "whCode": null,
+    "myntraCode": "MYN-549221",
+    "ajioCode": null,
+    "productName": "Lavender Crepe Saree",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-358",
+    "whCode": null,
+    "myntraCode": "MYN-711903",
+    "ajioCode": null,
+    "productName": "Olive Cotton Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-359",
+    "whCode": "WH-PAL-0359",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Silk Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-360",
+    "whCode": "WH-CRO-0360",
+    "myntraCode": "MYN-526595",
+    "ajioCode": null,
+    "productName": "Navy Viscose Crop Top",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-TUN-361",
+    "whCode": null,
+    "myntraCode": "MYN-586496",
+    "ajioCode": null,
+    "productName": "Charcoal Silk Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-362",
+    "whCode": null,
+    "myntraCode": "MYN-393654",
+    "ajioCode": null,
+    "productName": "Blush Pink Viscose Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-363",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Silk Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-KUR-364",
+    "whCode": "WH-KUR-0364",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Crepe Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-365",
+    "whCode": "WH-LEH-0365",
+    "myntraCode": "MYN-425484",
+    "ajioCode": null,
+    "productName": "Sage Green Viscose Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-TUN-366",
+    "whCode": "WH-TUN-0366",
+    "myntraCode": "MYN-740004",
+    "ajioCode": null,
+    "productName": "Maroon Viscose Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-367",
+    "whCode": "WH-LEH-0367",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Silk Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-368",
+    "whCode": null,
+    "myntraCode": "MYN-516734",
+    "ajioCode": null,
+    "productName": "Ivory Crepe Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-369",
+    "whCode": "WH-KUR-0369",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Olive Chanderi Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-370",
+    "whCode": "WH-SHA-0370",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Wine Crepe Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-371",
+    "whCode": "WH-CRO-0371",
+    "myntraCode": "MYN-410116",
+    "ajioCode": null,
+    "productName": "Coral Georgette Crop Top",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-372",
+    "whCode": "WH-SHR-0372",
+    "myntraCode": "MYN-100061",
+    "ajioCode": null,
+    "productName": "Charcoal Silk Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-KUR-373",
+    "whCode": "WH-KUR-0373",
+    "myntraCode": "MYN-770457",
+    "ajioCode": null,
+    "productName": "Rust Khadi Kurta Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-ANA-374",
+    "whCode": "WH-ANA-0374",
+    "myntraCode": "MYN-293402",
+    "ajioCode": null,
+    "productName": "Olive Chanderi Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-375",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Linen Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-ANA-376",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Viscose Anarkali",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-KUR-377",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Viscose Kurta Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-DUP-378",
+    "whCode": "WH-DUP-0378",
+    "myntraCode": "MYN-355308",
+    "ajioCode": null,
+    "productName": "Lavender Linen Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-379",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Rayon Shrug",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SAR-380",
+    "whCode": "WH-SAR-0380",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Silk Saree",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SAR-381",
+    "whCode": "WH-SAR-0381",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Ivory Crepe Saree",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-382",
+    "whCode": "WH-DUP-0382",
+    "myntraCode": "MYN-487661",
+    "ajioCode": null,
+    "productName": "Navy Cotton Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-TUN-383",
+    "whCode": "WH-TUN-0383",
+    "myntraCode": "MYN-672718",
+    "ajioCode": null,
+    "productName": "Teal Georgette Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-KUR-384",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Viscose Kurta Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-385",
+    "whCode": "WH-LEH-0385",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Rayon Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-386",
+    "whCode": "WH-TUN-0386",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Khadi Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-387",
+    "whCode": null,
+    "myntraCode": "MYN-464325",
+    "ajioCode": null,
+    "productName": "Navy Khadi Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-388",
+    "whCode": "WH-PAL-0388",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Georgette Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-389",
+    "whCode": null,
+    "myntraCode": "MYN-676847",
+    "ajioCode": null,
+    "productName": "Teal Khadi Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-390",
+    "whCode": "WH-PAL-0390",
+    "myntraCode": "MYN-236052",
+    "ajioCode": null,
+    "productName": "Rust Viscose Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-391",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Chanderi Crop Top",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-CRO-392",
+    "whCode": "WH-CRO-0392",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Chiffon Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-393",
+    "whCode": null,
+    "myntraCode": "MYN-401078",
+    "ajioCode": null,
+    "productName": "Navy Linen Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-394",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Ivory Khadi Crop Top",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-395",
+    "whCode": "WH-LEH-0395",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Lavender Viscose Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-396",
+    "whCode": "WH-DUP-0396",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Olive Chiffon Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-397",
+    "whCode": null,
+    "myntraCode": "MYN-888441",
+    "ajioCode": null,
+    "productName": "Blush Pink Cotton Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-398",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Rayon Crop Top",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-ANA-399",
+    "whCode": "WH-ANA-0399",
+    "myntraCode": "MYN-129358",
+    "ajioCode": null,
+    "productName": "Indigo Cotton Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-400",
+    "whCode": "WH-PAL-0400",
+    "myntraCode": "MYN-914263",
+    "ajioCode": null,
+    "productName": "Coral Rayon Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-401",
+    "whCode": "WH-DUP-0401",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Chiffon Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-402",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Rayon Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-CRO-403",
+    "whCode": "WH-CRO-0403",
+    "myntraCode": "MYN-633645",
+    "ajioCode": null,
+    "productName": "Indigo Silk Crop Top",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-KUR-404",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Wine Rayon Kurta Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-DUP-405",
+    "whCode": "WH-DUP-0405",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Khadi Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-406",
+    "whCode": "WH-ANA-0406",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Linen Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-407",
+    "whCode": "WH-ANA-0407",
+    "myntraCode": "MYN-840391",
+    "ajioCode": null,
+    "productName": "Teal Chiffon Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-408",
+    "whCode": "WH-CRO-0408",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Chiffon Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-409",
+    "whCode": "WH-DUP-0409",
+    "myntraCode": "MYN-487627",
+    "ajioCode": null,
+    "productName": "Ivory Viscose Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-410",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Chiffon Crop Top",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-CRO-411",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Olive Georgette Crop Top",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHR-412",
+    "whCode": "WH-SHR-0412",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Cotton Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-413",
+    "whCode": "WH-TUN-0413",
+    "myntraCode": "MYN-802988",
+    "ajioCode": null,
+    "productName": "Coral Chanderi Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-414",
+    "whCode": "WH-PAL-0414",
+    "myntraCode": "MYN-482783",
+    "ajioCode": null,
+    "productName": "Wine Cotton Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-KUR-415",
+    "whCode": "WH-KUR-0415",
+    "myntraCode": "MYN-926466",
+    "ajioCode": null,
+    "productName": "Peach Viscose Kurta Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-ANA-416",
+    "whCode": "WH-ANA-0416",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Silk Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-417",
+    "whCode": null,
+    "myntraCode": "MYN-970078",
+    "ajioCode": null,
+    "productName": "Navy Georgette Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SAR-418",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Rayon Saree",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-ANA-419",
+    "whCode": "WH-ANA-0419",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Rayon Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-420",
+    "whCode": "WH-KUR-0420",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Olive Cotton Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-421",
+    "whCode": null,
+    "myntraCode": "MYN-805503",
+    "ajioCode": null,
+    "productName": "Indigo Chiffon Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-422",
+    "whCode": "WH-SHR-0422",
+    "myntraCode": "MYN-121856",
+    "ajioCode": null,
+    "productName": "Wine Georgette Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-423",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Charcoal Silk Crop Top",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-ANA-424",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Crepe Anarkali",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-KUR-425",
+    "whCode": "WH-KUR-0425",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Chanderi Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-426",
+    "whCode": "WH-PAL-0426",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Rayon Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-427",
+    "whCode": "WH-CRO-0427",
+    "myntraCode": "MYN-919059",
+    "ajioCode": null,
+    "productName": "Blush Pink Chiffon Crop Top",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-428",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Crepe Sharara Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-CRO-429",
+    "whCode": "WH-CRO-0429",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Crepe Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-430",
+    "whCode": "WH-SHR-0430",
+    "myntraCode": "MYN-694635",
+    "ajioCode": null,
+    "productName": "Lavender Georgette Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-ANA-431",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Lavender Cotton Anarkali",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHA-432",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Cotton Sharara Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHR-433",
+    "whCode": "WH-SHR-0433",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Chanderi Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SAR-434",
+    "whCode": "WH-SAR-0434",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Charcoal Linen Saree",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-435",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Viscose Lehenga",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-TUN-436",
+    "whCode": "WH-TUN-0436",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Charcoal Chanderi Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-437",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Wine Chiffon Shrug",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-KUR-438",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Silk Kurta Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHR-439",
+    "whCode": null,
+    "myntraCode": "MYN-587914",
+    "ajioCode": null,
+    "productName": "Peach Georgette Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-440",
+    "whCode": null,
+    "myntraCode": "MYN-627668",
+    "ajioCode": null,
+    "productName": "Lavender Cotton Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-441",
+    "whCode": "WH-LEH-0441",
+    "myntraCode": "MYN-881901",
+    "ajioCode": null,
+    "productName": "Navy Silk Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-442",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Crepe Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-ANA-443",
+    "whCode": "WH-ANA-0443",
+    "myntraCode": "MYN-807857",
+    "ajioCode": null,
+    "productName": "Mustard Chanderi Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-444",
+    "whCode": "WH-LEH-0444",
+    "myntraCode": "MYN-632142",
+    "ajioCode": null,
+    "productName": "Indigo Linen Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-445",
+    "whCode": "WH-LEH-0445",
+    "myntraCode": "MYN-395620",
+    "ajioCode": null,
+    "productName": "Charcoal Viscose Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-446",
+    "whCode": "WH-SHA-0446",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Lavender Chiffon Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-447",
+    "whCode": "WH-ANA-0447",
+    "myntraCode": "MYN-914017",
+    "ajioCode": null,
+    "productName": "Charcoal Linen Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-ANA-448",
+    "whCode": "WH-ANA-0448",
+    "myntraCode": "MYN-367817",
+    "ajioCode": null,
+    "productName": "Wine Chanderi Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-449",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Chiffon Lehenga",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-CRO-450",
+    "whCode": "WH-CRO-0450",
+    "myntraCode": "MYN-457260",
+    "ajioCode": null,
+    "productName": "Wine Georgette Crop Top",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SAR-451",
+    "whCode": "WH-SAR-0451",
+    "myntraCode": "MYN-919714",
+    "ajioCode": null,
+    "productName": "Coral Chiffon Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-452",
+    "whCode": "WH-LEH-0452",
+    "myntraCode": "MYN-239577",
+    "ajioCode": null,
+    "productName": "Coral Crepe Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-ANA-453",
+    "whCode": "WH-ANA-0453",
+    "myntraCode": "MYN-230445",
+    "ajioCode": null,
+    "productName": "Mustard Linen Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-ANA-454",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Crepe Anarkali",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-DUP-455",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Ivory Linen Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-DUP-456",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Charcoal Cotton Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHA-457",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Charcoal Viscose Sharara Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-ANA-458",
+    "whCode": null,
+    "myntraCode": "MYN-278852",
+    "ajioCode": null,
+    "productName": "Lavender Crepe Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-459",
+    "whCode": null,
+    "myntraCode": "MYN-334074",
+    "ajioCode": null,
+    "productName": "Navy Linen Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SAR-460",
+    "whCode": null,
+    "myntraCode": "MYN-343943",
+    "ajioCode": null,
+    "productName": "Charcoal Rayon Saree",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-461",
+    "whCode": "WH-SHR-0461",
+    "myntraCode": "MYN-185666",
+    "ajioCode": null,
+    "productName": "Blush Pink Crepe Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-KUR-462",
+    "whCode": "WH-KUR-0462",
+    "myntraCode": "MYN-822343",
+    "ajioCode": null,
+    "productName": "Mustard Linen Kurta Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-463",
+    "whCode": "WH-LEH-0463",
+    "myntraCode": "MYN-401730",
+    "ajioCode": null,
+    "productName": "Peach Linen Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-464",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Cotton Shrug",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-TUN-465",
+    "whCode": "WH-TUN-0465",
+    "myntraCode": "MYN-639132",
+    "ajioCode": null,
+    "productName": "Navy Chanderi Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-466",
+    "whCode": "WH-LEH-0466",
+    "myntraCode": "MYN-110336",
+    "ajioCode": null,
+    "productName": "Teal Viscose Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-467",
+    "whCode": null,
+    "myntraCode": "MYN-398297",
+    "ajioCode": null,
+    "productName": "Charcoal Cotton Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-471",
+    "whCode": "WH-SHA-0471",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Cotton Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-472",
+    "whCode": "WH-LEH-0472",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Chiffon Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-473",
+    "whCode": "WH-SHR-0473",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Ivory Chiffon Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-474",
+    "whCode": "WH-TUN-0474",
+    "myntraCode": "MYN-351471",
+    "ajioCode": null,
+    "productName": "Maroon Silk Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-475",
+    "whCode": null,
+    "myntraCode": "MYN-822143",
+    "ajioCode": null,
+    "productName": "Rust Linen Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-476",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Khadi Anarkali",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-PAL-477",
+    "whCode": "WH-PAL-0477",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Olive Rayon Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-478",
+    "whCode": "WH-ANA-0478",
+    "myntraCode": "MYN-713894",
+    "ajioCode": null,
+    "productName": "Rust Georgette Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-479",
+    "whCode": "WH-SHR-0479",
+    "myntraCode": "MYN-856520",
+    "ajioCode": null,
+    "productName": "Maroon Rayon Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-480",
+    "whCode": null,
+    "myntraCode": "MYN-468889",
+    "ajioCode": null,
+    "productName": "Indigo Khadi Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-481",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Georgette Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-TUN-482",
+    "whCode": "WH-TUN-0482",
+    "myntraCode": "MYN-974902",
+    "ajioCode": null,
+    "productName": "Olive Linen Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-483",
+    "whCode": "WH-LEH-0483",
+    "myntraCode": "MYN-977273",
+    "ajioCode": null,
+    "productName": "Blush Pink Khadi Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-484",
+    "whCode": "WH-SHR-0484",
+    "myntraCode": "MYN-101987",
+    "ajioCode": null,
+    "productName": "Rust Khadi Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-485",
+    "whCode": null,
+    "myntraCode": "MYN-397273",
+    "ajioCode": null,
+    "productName": "Rust Chiffon Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-486",
+    "whCode": "WH-LEH-0486",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Silk Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-487",
+    "whCode": "WH-SHA-0487",
+    "myntraCode": "MYN-406612",
+    "ajioCode": null,
+    "productName": "Olive Silk Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-488",
+    "whCode": "WH-PAL-0488",
+    "myntraCode": "MYN-636470",
+    "ajioCode": null,
+    "productName": "Mustard Silk Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-489",
+    "whCode": "WH-CRO-0489",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Cotton Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-490",
+    "whCode": "WH-TUN-0490",
+    "myntraCode": "MYN-687474",
+    "ajioCode": null,
+    "productName": "Lavender Cotton Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-491",
+    "whCode": null,
+    "myntraCode": "MYN-186207",
+    "ajioCode": null,
+    "productName": "Blush Pink Cotton Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-492",
+    "whCode": "WH-CRO-0492",
+    "myntraCode": "MYN-349136",
+    "ajioCode": null,
+    "productName": "Lavender Chiffon Crop Top",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-KUR-493",
+    "whCode": "WH-KUR-0493",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Georgette Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-494",
+    "whCode": "WH-KUR-0494",
+    "myntraCode": "MYN-373293",
+    "ajioCode": null,
+    "productName": "Teal Chanderi Kurta Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-495",
+    "whCode": "WH-SHR-0495",
+    "myntraCode": "MYN-607209",
+    "ajioCode": null,
+    "productName": "Coral Cotton Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SAR-496",
+    "whCode": "WH-SAR-0496",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Chanderi Saree",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-497",
+    "whCode": "WH-ANA-0497",
+    "myntraCode": "MYN-976452",
+    "ajioCode": null,
+    "productName": "Blush Pink Chanderi Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-498",
+    "whCode": "WH-DUP-0498",
+    "myntraCode": "MYN-432752",
+    "ajioCode": null,
+    "productName": "Rust Crepe Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SAR-499",
+    "whCode": null,
+    "myntraCode": "MYN-313450",
+    "ajioCode": null,
+    "productName": "Lavender Chiffon Saree",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SAR-500",
+    "whCode": "WH-SAR-0500",
+    "myntraCode": "MYN-202698",
+    "ajioCode": null,
+    "productName": "Sage Green Crepe Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-501",
+    "whCode": "WH-SHR-0501",
+    "myntraCode": "MYN-997032",
+    "ajioCode": null,
+    "productName": "Ivory Cotton Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-502",
+    "whCode": "WH-SHA-0502",
+    "myntraCode": "MYN-172183",
+    "ajioCode": null,
+    "productName": "Coral Khadi Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-503",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Chanderi Crop Top",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-TUN-504",
+    "whCode": "WH-TUN-0504",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Lavender Viscose Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-505",
+    "whCode": "WH-SHA-0505",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Crepe Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-506",
+    "whCode": "WH-SHA-0506",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Cotton Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-507",
+    "whCode": "WH-PAL-0507",
+    "myntraCode": "MYN-490934",
+    "ajioCode": null,
+    "productName": "Ivory Silk Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-508",
+    "whCode": null,
+    "myntraCode": "MYN-655161",
+    "ajioCode": null,
+    "productName": "Peach Georgette Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-509",
+    "whCode": "WH-PAL-0509",
+    "myntraCode": "MYN-815533",
+    "ajioCode": null,
+    "productName": "Mustard Georgette Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-510",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Chiffon Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SAR-511",
+    "whCode": null,
+    "myntraCode": "MYN-191865",
+    "ajioCode": null,
+    "productName": "Teal Viscose Saree",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-512",
+    "whCode": "WH-DUP-0512",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Cotton Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-513",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Georgette Tunic",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-TUN-514",
+    "whCode": "WH-TUN-0514",
+    "myntraCode": "MYN-840117",
+    "ajioCode": null,
+    "productName": "Rust Rayon Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-515",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Olive Georgette Shrug",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHR-516",
+    "whCode": "WH-SHR-0516",
+    "myntraCode": "MYN-730865",
+    "ajioCode": null,
+    "productName": "Coral Crepe Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-517",
+    "whCode": "WH-PAL-0517",
+    "myntraCode": "MYN-957633",
+    "ajioCode": null,
+    "productName": "Teal Viscose Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-518",
+    "whCode": "WH-PAL-0518",
+    "myntraCode": "MYN-917918",
+    "ajioCode": null,
+    "productName": "Rust Silk Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SAR-519",
+    "whCode": "WH-SAR-0519",
+    "myntraCode": "MYN-789987",
+    "ajioCode": null,
+    "productName": "Indigo Chiffon Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-520",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Chanderi Crop Top",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SAR-521",
+    "whCode": "WH-SAR-0521",
+    "myntraCode": "MYN-296699",
+    "ajioCode": null,
+    "productName": "Coral Viscose Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-522",
+    "whCode": "WH-DUP-0522",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Viscose Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-523",
+    "whCode": "WH-DUP-0523",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Cotton Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-524",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Chiffon Shrug",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-TUN-525",
+    "whCode": "WH-TUN-0525",
+    "myntraCode": "MYN-390487",
+    "ajioCode": null,
+    "productName": "Rust Chiffon Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-526",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Cotton Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-527",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Chiffon Lehenga",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SAR-528",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Crepe Saree",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-KUR-529",
+    "whCode": "WH-KUR-0529",
+    "myntraCode": "MYN-407641",
+    "ajioCode": null,
+    "productName": "Indigo Chiffon Kurta Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SAR-530",
+    "whCode": "WH-SAR-0530",
+    "myntraCode": "MYN-935032",
+    "ajioCode": null,
+    "productName": "Charcoal Viscose Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-531",
+    "whCode": null,
+    "myntraCode": "MYN-366854",
+    "ajioCode": null,
+    "productName": "Mustard Chiffon Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-532",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Chanderi Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-PAL-533",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Silk Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-KUR-534",
+    "whCode": null,
+    "myntraCode": "MYN-749512",
+    "ajioCode": null,
+    "productName": "Peach Rayon Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-535",
+    "whCode": null,
+    "myntraCode": "MYN-729286",
+    "ajioCode": null,
+    "productName": "Wine Georgette Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-536",
+    "whCode": "WH-SHR-0536",
+    "myntraCode": "MYN-216902",
+    "ajioCode": null,
+    "productName": "Indigo Viscose Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-537",
+    "whCode": "WH-LEH-0537",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Silk Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-538",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Georgette Anarkali",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHR-539",
+    "whCode": "WH-SHR-0539",
+    "myntraCode": "MYN-139129",
+    "ajioCode": null,
+    "productName": "Maroon Cotton Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-540",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Rayon Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHR-542",
+    "whCode": "WH-SHR-0542",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Olive Viscose Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-543",
+    "whCode": "WH-SHR-0543",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Viscose Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-544",
+    "whCode": "WH-CRO-0544",
+    "myntraCode": "MYN-546932",
+    "ajioCode": null,
+    "productName": "Wine Georgette Crop Top",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-545",
+    "whCode": null,
+    "myntraCode": "MYN-211760",
+    "ajioCode": null,
+    "productName": "Indigo Viscose Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-PAL-546",
+    "whCode": "WH-PAL-0546",
+    "myntraCode": "MYN-411173",
+    "ajioCode": null,
+    "productName": "Peach Khadi Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-548",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Rayon Lehenga",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SAR-549",
+    "whCode": "WH-SAR-0549",
+    "myntraCode": "MYN-202030",
+    "ajioCode": null,
+    "productName": "Teal Chiffon Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-551",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Crepe Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-ANA-552",
+    "whCode": "WH-ANA-0552",
+    "myntraCode": "MYN-530966",
+    "ajioCode": null,
+    "productName": "Olive Chiffon Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SAR-553",
+    "whCode": "WH-SAR-0553",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Cotton Saree",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-554",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Chiffon Sharara Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-DUP-555",
+    "whCode": "WH-DUP-0555",
+    "myntraCode": "MYN-936724",
+    "ajioCode": null,
+    "productName": "Maroon Silk Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-556",
+    "whCode": "WH-SHA-0556",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Silk Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-557",
+    "whCode": "WH-SHR-0557",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Linen Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-558",
+    "whCode": "WH-DUP-0558",
+    "myntraCode": "MYN-149763",
+    "ajioCode": null,
+    "productName": "Olive Rayon Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-TUN-559",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Wine Chanderi Tunic",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-560",
+    "whCode": "WH-LEH-0560",
+    "myntraCode": "MYN-994722",
+    "ajioCode": null,
+    "productName": "Indigo Linen Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-561",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Cotton Lehenga",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-KUR-562",
+    "whCode": "WH-KUR-0562",
+    "myntraCode": "MYN-132805",
+    "ajioCode": null,
+    "productName": "Olive Silk Kurta Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-563",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Silk Shrug",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SAR-564",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Olive Silk Saree",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-DUP-565",
+    "whCode": "WH-DUP-0565",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Chanderi Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-566",
+    "whCode": "WH-CRO-0566",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Sage Green Chiffon Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-567",
+    "whCode": "WH-DUP-0567",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Olive Viscose Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-568",
+    "whCode": "WH-ANA-0568",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Linen Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-569",
+    "whCode": "WH-ANA-0569",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Silk Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-DUP-570",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Linen Dupatta",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-CRO-571",
+    "whCode": "WH-CRO-0571",
+    "myntraCode": "MYN-471091",
+    "ajioCode": null,
+    "productName": "Blush Pink Rayon Crop Top",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHR-572",
+    "whCode": null,
+    "myntraCode": "MYN-503573",
+    "ajioCode": null,
+    "productName": "Ivory Chanderi Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-573",
+    "whCode": "WH-SHR-0573",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Ivory Linen Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-574",
+    "whCode": "WH-SHA-0574",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Blush Pink Chiffon Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-575",
+    "whCode": "WH-ANA-0575",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Crepe Anarkali",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-576",
+    "whCode": "WH-ANA-0576",
+    "myntraCode": "MYN-986060",
+    "ajioCode": null,
+    "productName": "Lavender Rayon Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-TUN-577",
+    "whCode": "WH-TUN-0577",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Crepe Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-578",
+    "whCode": "WH-KUR-0578",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Coral Chiffon Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-ANA-579",
+    "whCode": "WH-ANA-0579",
+    "myntraCode": "MYN-888114",
+    "ajioCode": null,
+    "productName": "Teal Georgette Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-580",
+    "whCode": "WH-PAL-0580",
+    "myntraCode": "MYN-859233",
+    "ajioCode": null,
+    "productName": "Indigo Linen Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-ANA-581",
+    "whCode": "WH-ANA-0581",
+    "myntraCode": "MYN-919704",
+    "ajioCode": null,
+    "productName": "Mustard Linen Anarkali",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-582",
+    "whCode": null,
+    "myntraCode": "MYN-403011",
+    "ajioCode": null,
+    "productName": "Peach Khadi Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-TUN-583",
+    "whCode": "WH-TUN-0583",
+    "myntraCode": "MYN-340555",
+    "ajioCode": null,
+    "productName": "Sage Green Silk Tunic",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-TUN-584",
+    "whCode": "WH-TUN-0584",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Khadi Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHR-585",
+    "whCode": "WH-SHR-0585",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Chiffon Shrug",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-586",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Wine Rayon Lehenga",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-DUP-587",
+    "whCode": null,
+    "myntraCode": "MYN-213798",
+    "ajioCode": null,
+    "productName": "Peach Khadi Dupatta",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-LEH-589",
+    "whCode": "WH-LEH-0589",
+    "myntraCode": "MYN-459895",
+    "ajioCode": null,
+    "productName": "Navy Khadi Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-590",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Mustard Cotton Lehenga",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-CRO-591",
+    "whCode": "WH-CRO-0591",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Lavender Cotton Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-592",
+    "whCode": null,
+    "myntraCode": "MYN-951206",
+    "ajioCode": null,
+    "productName": "Olive Crepe Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-593",
+    "whCode": "WH-SHA-0593",
+    "myntraCode": "MYN-809457",
+    "ajioCode": null,
+    "productName": "Sage Green Georgette Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-594",
+    "whCode": "WH-SHA-0594",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Viscose Sharara Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-595",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Maroon Silk Crop Top",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHR-596",
+    "whCode": "WH-SHR-0596",
+    "myntraCode": "MYN-636582",
+    "ajioCode": null,
+    "productName": "Maroon Viscose Shrug",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-KUR-597",
+    "whCode": "WH-KUR-0597",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Ivory Georgette Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-598",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Olive Crepe Sharara Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-SHA-599",
+    "whCode": "WH-SHA-0599",
+    "myntraCode": "MYN-764427",
+    "ajioCode": null,
+    "productName": "Teal Georgette Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-600",
+    "whCode": "WH-LEH-0600",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Peach Georgette Lehenga",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-601",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Lavender Crepe Crop Top",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-KUR-602",
+    "whCode": "WH-KUR-0602",
+    "myntraCode": "MYN-269894",
+    "ajioCode": null,
+    "productName": "Charcoal Chanderi Kurta Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-DUP-603",
+    "whCode": "WH-DUP-0603",
+    "myntraCode": "MYN-905994",
+    "ajioCode": null,
+    "productName": "Rust Crepe Dupatta",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-604",
+    "whCode": "WH-PAL-0604",
+    "myntraCode": "MYN-935990",
+    "ajioCode": null,
+    "productName": "Olive Crepe Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-LEH-605",
+    "whCode": "WH-LEH-0605",
+    "myntraCode": "MYN-618778",
+    "ajioCode": null,
+    "productName": "Coral Linen Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SAR-606",
+    "whCode": "WH-SAR-0606",
+    "myntraCode": "MYN-826434",
+    "ajioCode": null,
+    "productName": "Charcoal Georgette Saree",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-TUN-607",
+    "whCode": "WH-TUN-0607",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Chiffon Tunic",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-CRO-608",
+    "whCode": null,
+    "myntraCode": "MYN-290119",
+    "ajioCode": null,
+    "productName": "Rust Chanderi Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-KUR-609",
+    "whCode": "WH-KUR-0609",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Rust Crepe Kurta Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-610",
+    "whCode": "WH-SHA-0610",
+    "myntraCode": "MYN-523680",
+    "ajioCode": null,
+    "productName": "Blush Pink Chanderi Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-CRO-611",
+    "whCode": "WH-CRO-0611",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Navy Rayon Crop Top",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SHA-612",
+    "whCode": "WH-SHA-0612",
+    "myntraCode": "MYN-987216",
+    "ajioCode": null,
+    "productName": "Mustard Chiffon Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-613",
+    "whCode": "WH-PAL-0613",
+    "myntraCode": "MYN-997937",
+    "ajioCode": null,
+    "productName": "Blush Pink Georgette Palazzo Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-SHA-614",
+    "whCode": "WH-SHA-0614",
+    "myntraCode": "MYN-777071",
+    "ajioCode": null,
+    "productName": "Teal Rayon Sharara Set",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-615",
+    "whCode": "WH-PAL-0615",
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Teal Viscose Palazzo Set",
+    "status": "Partial"
+  },
+  {
+    "skCode": "SK-SAR-616",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Ivory Cotton Saree",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-617",
+    "whCode": "WH-LEH-0617",
+    "myntraCode": "MYN-935500",
+    "ajioCode": null,
+    "productName": "Peach Viscose Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-PAL-618",
+    "whCode": null,
+    "myntraCode": null,
+    "ajioCode": null,
+    "productName": "Indigo Chiffon Palazzo Set",
+    "status": "Unmapped"
+  },
+  {
+    "skCode": "SK-LEH-619",
+    "whCode": "WH-LEH-0619",
+    "myntraCode": "MYN-903600",
+    "ajioCode": null,
+    "productName": "Blush Pink Khadi Lehenga",
+    "status": "Mapped"
+  },
+  {
+    "skCode": "SK-ANA-620",
+    "whCode": "WH-ANA-0620",
+    "myntraCode": "MYN-484026",
+    "ajioCode": null,
+    "productName": "Navy Linen Anarkali",
+    "status": "Mapped"
+  }
+]
